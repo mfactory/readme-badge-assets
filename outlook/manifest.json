@@ -1,61 +1,61 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/outlook",
-  "sourceSha": "34118a2fd2ae9ccf56df8d04c9bd2b282abaa8ea",
+  "sourceSha": "c87daaf3f356061335a126f5e91ef43d1b42ae60",
   "badges": [
     {
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:457160ad7d55d2a3ae36f0e7fb90fe81df60ad9d08b198bc5a5902d4a67da3b1"
+      "sha256": "sha256:1375acd50d7b126c72ed5081fd560ba2d928496001a81de3e0319689e3bfffad"
     },
     {
       "id": "socket",
       "label": "Socket",
       "path": "badges/socket.svg",
-      "sha256": "sha256:c21a32b89c1bf34695b1d8c0e110e8cd3f1624a43fe14e7d729f47257b71c491"
+      "sha256": "sha256:181d1525abb74c5a5801dc45e1f6c26b945cb9f16ed18ff8abcdf4333d618708"
     },
     {
       "id": "gitleaks",
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
-      "sha256": "sha256:0730ef4e5987ca5a2aecf1a6a01008f02ee17809adbeda29000a21600c4f9b6d"
+      "sha256": "sha256:0fb801f71d9b8c0c7fc3eb99bbcfd3a73d189e8b2d589813e57bd2e907c5406c"
     },
     {
       "id": "snyk",
       "label": "Snyk",
       "path": "badges/snyk.svg",
-      "sha256": "sha256:e9f89cb0db183d3a919967e91e3ef0b8c58560662cff68586e1f7b89fab2b260"
+      "sha256": "sha256:19bf15f98fe7327dd76c41fe9e6c21eef8464231ce73b815cb6d0626579b9300"
     },
     {
       "id": "validate",
       "label": "Validate",
       "path": "badges/validate.svg",
-      "sha256": "sha256:7d187f73fe97a3c6d3758851fa379dc4fafc12ff7743e442e7677a3bae3c817a"
+      "sha256": "sha256:11290a72c5e0cdae554b1bfb39cb90c63e919f2518b5fdbfbdb476513fd96a62"
     },
     {
       "id": "codeql-quality",
-      "label": "CodeQL quality",
+      "label": "CodeQL Quality",
       "path": "badges/codeql-quality.svg",
-      "sha256": "sha256:bd22f87d30d21f61cbf8552f505c0e7c5db29747b5b33ef75b07f0a5368c67d2"
+      "sha256": "sha256:b582d319e76c5112661208a591ddf333a4ea4ea0879c0a8d7d214fa066904876"
     },
     {
       "id": "codeql-scanning",
-      "label": "CodeQL scanning",
+      "label": "CodeQL Scanning",
       "path": "badges/codeql-scanning.svg",
-      "sha256": "sha256:820995d40de5d267928fac7f1b97f98bca28bd1b42aabe7cf5aeb8a959410d0f"
+      "sha256": "sha256:583bd894c12f8a535e27fceb59790eb8842e9e98005a83681b7b78703b50ecb1"
     },
     {
       "id": "dependabot-updates",
       "label": "Dependabot Updates",
       "path": "badges/dependabot-updates.svg",
-      "sha256": "sha256:05494336c7d21b3ae8a0b5bb8d81d46a4c4bb0a3b7b1575427cc953b229683c5"
+      "sha256": "sha256:dfdba541367262719e83fff7fdaafdc9942f3cee1bd12e0d05850d174be12d52"
     },
     {
       "id": "snyk-code-quota-waiver",
-      "label": "Snyk Code quota waiver",
+      "label": "Snyk Code Quota Waiver",
       "path": "badges/snyk-code-quota-waiver.svg",
-      "sha256": "sha256:743c79df4cc1c41540f22a5213235249b02c273bdfaa4d36375d1f3c02667133"
+      "sha256": "sha256:1f27a7b357247b76eb9a3911796d91ce96e2c437a86509ad4d5284bd8a94049c"
     }
   ]
 }
