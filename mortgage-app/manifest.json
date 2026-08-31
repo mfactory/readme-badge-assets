@@ -1,31 +1,25 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mortgage-app",
-  "sourceSha": "ba3caff19fe063a00a2a4b07efd572e1df7479cf",
+  "sourceSha": "f757b071582c4423928e3126d0c620b258940eed",
   "badges": [
     {
       "id": "coverage",
-      "label": "coverage",
+      "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:776953f022185cfdf4a8f099455473e280a165a19828dd0da6fab618790a0b1f"
+      "sha256": "sha256:2a89c18f87714a1340d426dd9912532fed78d6612e9e412e3401c30fb204a925"
     },
     {
       "id": "deployment",
-      "label": "deployment",
+      "label": "Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:578bf5f0193956abfabd00c7e0cb89631be40294ffa54d92da0846672c42ccd7"
+      "sha256": "sha256:6386ab4a7f989cdb20f607596a8da4b9bdac1fa1a8ce640e154b441bb3d7806f"
     },
     {
       "id": "health",
-      "label": "health",
+      "label": "Health",
       "path": "badges/health.svg",
-      "sha256": "sha256:2f2c1ee201a39acc31ed6288a9ff4902497b1f48d4011894473538b33f889a09"
-    },
-    {
-      "id": "cloudflare",
-      "label": "Cloudflare",
-      "path": "badges/cloudflare.svg",
-      "sha256": "sha256:04f7a7a454cb53010ef34aeb1d292a22c1e7e20b193bba1707c7c2c7fa24d7b3"
+      "sha256": "sha256:f9d18ea1a238582aa67dbe9378ef85033734b244fbf187d418346dc1a74a1cf3"
     },
     {
       "id": "socket",
@@ -34,16 +28,10 @@
       "sha256": "sha256:21c67db177271bb67b9eaddf155eaecd80ec43643305d2eee5e273c2448b3041"
     },
     {
-      "id": "aikido",
-      "label": "Aikido",
-      "path": "badges/aikido.svg",
-      "sha256": "sha256:7a18d755b29eec4993590f154b9f6326778d0553e9b5bf4dee78440a8d2f3610"
-    },
-    {
       "id": "snyk",
       "label": "Snyk",
       "path": "badges/snyk.svg",
-      "sha256": "sha256:6e02194f64b48429f88d51f9d3d9d3e2f17e98375d08d7fbd0fba660be9a9b96"
+      "sha256": "sha256:bf449c671c7e945456831bb03215243ac466d39281ef9dbaec87ca21ea7d9267"
     },
     {
       "id": "codeql",
