@@ -133,7 +133,7 @@
       "id": "production-submit-contract-smoke",
       "label": "Production submit contract smoke",
       "path": "badges/production-submit-contract-smoke.svg",
-      "sha256": "sha256:21a7e25cf77f9a7c323617cb70dd51c24a07671bb18e148ee005cf75ca665865"
+      "sha256": "sha256:6d25293478063fe7e6af6a32afa0a1b7355bc4df3af888de5c1d517d77e679cf"
     },
     {
       "id": "security-evidence",
