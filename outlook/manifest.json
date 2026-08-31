@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "sourceRepository": "mfactory/outlook",
+  "sourceSha": "bf6487b8ce0452b89ab384f108aa88f56f201128",
+  "badges": [
+    {
+      "id": "socket",
+      "label": "Socket",
+      "path": "badges/socket.svg",
+      "sha256": "sha256:21c67db177271bb67b9eaddf155eaecd80ec43643305d2eee5e273c2448b3041"
+    },
+    {
+      "id": "gitleaks",
+      "label": "Gitleaks",
+      "path": "badges/gitleaks.svg",
+      "sha256": "sha256:d50e37dbaa07fe3f0377fb20d493fb87bfe3532aca99b34992eac3b0bf0e67ff"
+    },
+    {
+      "id": "snyk",
+      "label": "Snyk",
+      "path": "badges/snyk.svg",
+      "sha256": "sha256:bf449c671c7e945456831bb03215243ac466d39281ef9dbaec87ca21ea7d9267"
+    },
+    {
+      "id": "validate",
+      "label": "Validate",
+      "path": "badges/validate.svg",
+      "sha256": "sha256:bc11108c57c1b087ca78adae3a1ce4c99ff8dbdd1aa58c4ac4fe8ed2fa53cb02"
+    },
+    {
+      "id": "codeql-quality",
+      "label": "CodeQL quality",
+      "path": "badges/codeql-quality.svg",
+      "sha256": "sha256:9c5c863de4e4074e93a4d71bf83487e5f174ffac1bcfd026073c418693eb48cd"
+    },
+    {
+      "id": "codeql-scanning",
+      "label": "CodeQL scanning",
+      "path": "badges/codeql-scanning.svg",
+      "sha256": "sha256:3070d711eb632cb42209fc10307e2ef1833a459dd0cafee3cbfc93c0ecf02a0c"
+    },
+    {
+      "id": "dependabot-updates",
+      "label": "Dependabot Updates",
+      "path": "badges/dependabot-updates.svg",
+      "sha256": "sha256:7dd45183fd7c6d94025d677d3a6d583159dbbf067a09873a610f79cc9fba171b"
+    },
+    {
+      "id": "snyk-code-quota-waiver",
+      "label": "Snyk Code quota waiver",
+      "path": "badges/snyk-code-quota-waiver.svg",
+      "sha256": "sha256:a73c179964cd6c58504ecb59b3669d704345c687cb11bee50a8e6c126391e824"
+    }
+  ]
+}
