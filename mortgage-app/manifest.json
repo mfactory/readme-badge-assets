@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "sourceRepository": "mfactory/mortgage-app",
+  "sourceSha": "ba3caff19fe063a00a2a4b07efd572e1df7479cf",
+  "badges": [
+    {
+      "id": "coverage",
+      "label": "coverage",
+      "path": "badges/coverage.svg",
+      "sha256": "sha256:776953f022185cfdf4a8f099455473e280a165a19828dd0da6fab618790a0b1f"
+    },
+    {
+      "id": "deployment",
+      "label": "deployment",
+      "path": "badges/deployment.svg",
+      "sha256": "sha256:578bf5f0193956abfabd00c7e0cb89631be40294ffa54d92da0846672c42ccd7"
+    },
+    {
+      "id": "health",
+      "label": "health",
+      "path": "badges/health.svg",
+      "sha256": "sha256:2f2c1ee201a39acc31ed6288a9ff4902497b1f48d4011894473538b33f889a09"
+    },
+    {
+      "id": "cloudflare",
+      "label": "Cloudflare",
+      "path": "badges/cloudflare.svg",
+      "sha256": "sha256:04f7a7a454cb53010ef34aeb1d292a22c1e7e20b193bba1707c7c2c7fa24d7b3"
+    },
+    {
+      "id": "socket",
+      "label": "Socket",
+      "path": "badges/socket.svg",
+      "sha256": "sha256:21c67db177271bb67b9eaddf155eaecd80ec43643305d2eee5e273c2448b3041"
+    },
+    {
+      "id": "aikido",
+      "label": "Aikido",
+      "path": "badges/aikido.svg",
+      "sha256": "sha256:7a18d755b29eec4993590f154b9f6326778d0553e9b5bf4dee78440a8d2f3610"
+    },
+    {
+      "id": "snyk",
+      "label": "Snyk",
+      "path": "badges/snyk.svg",
+      "sha256": "sha256:6e02194f64b48429f88d51f9d3d9d3e2f17e98375d08d7fbd0fba660be9a9b96"
+    },
+    {
+      "id": "codeql",
+      "label": "CodeQL",
+      "path": "badges/codeql.svg",
+      "sha256": "sha256:3da8e5ce6d3d62319071523f19be6ebd13427d8c90b3f5a987dd7a31b163a505"
+    },
+    {
+      "id": "gitleaks",
+      "label": "Gitleaks",
+      "path": "badges/gitleaks.svg",
+      "sha256": "sha256:d50e37dbaa07fe3f0377fb20d493fb87bfe3532aca99b34992eac3b0bf0e67ff"
+    },
+    {
+      "id": "semgrep",
+      "label": "Semgrep",
+      "path": "badges/semgrep.svg",
+      "sha256": "sha256:19062262c399fa474ca1036b376bb25e09047a261ca70ee1e8ed695cc42f8d3c"
+    },
+    {
+      "id": "ci",
+      "label": "CI",
+      "path": "badges/ci.svg",
+      "sha256": "sha256:ca4c4bbd605d9793437632b4134f6b326a321e5601e55d99449fa7de00cf1db6"
+    },
+    {
+      "id": "admin-access-lifecycle",
+      "label": "Admin access lifecycle",
+      "path": "badges/admin-access-lifecycle.svg",
+      "sha256": "sha256:b2c5e722ac7b79f16cfb13a4b1a80e4507690b609206121da85337d5f9af0b44"
+    },
+    {
+      "id": "browser-qa",
+      "label": "Browser QA",
+      "path": "badges/browser-qa.svg",
+      "sha256": "sha256:e7749a614744c3c63848b2996ea336f5853d11b21f7313285e28cdebcb038c9b"
+    },
+    {
+      "id": "cloudflare-posture-evidence",
+      "label": "Cloudflare posture evidence",
+      "path": "badges/cloudflare-posture-evidence.svg",
+      "sha256": "sha256:ed773db5f4d31c9124a6b956380571d2e9965c21f79123eb123163b6bc5aca9f"
+    },
+    {
+      "id": "codeql-quality",
+      "label": "CodeQL quality",
+      "path": "badges/codeql-quality.svg",
+      "sha256": "sha256:9c5c863de4e4074e93a4d71bf83487e5f174ffac1bcfd026073c418693eb48cd"
+    },
+    {
+      "id": "codeql-scanning",
+      "label": "CodeQL scanning",
+      "path": "badges/codeql-scanning.svg",
+      "sha256": "sha256:3070d711eb632cb42209fc10307e2ef1833a459dd0cafee3cbfc93c0ecf02a0c"
+    },
+    {
+      "id": "compliance-ops-evidence",
+      "label": "Compliance ops evidence",
+      "path": "badges/compliance-ops-evidence.svg",
+      "sha256": "sha256:be085afc6b8a166201c1635b9de787990c828e0552c55951f44929a895ab741f"
+    },
+    {
+      "id": "deep-qa",
+      "label": "Deep QA",
+      "path": "badges/deep-qa.svg",
+      "sha256": "sha256:563aa593c3b748f974ff23b0cad789759c81877624e09c9bf97982ca4f9dbe53"
+    },
+    {
+      "id": "dependabot-updates",
+      "label": "Dependabot Updates",
+      "path": "badges/dependabot-updates.svg",
+      "sha256": "sha256:7dd45183fd7c6d94025d677d3a6d583159dbbf067a09873a610f79cc9fba171b"
+    },
+    {
+      "id": "deploy-satellite-worker",
+      "label": "Deploy satellite Worker",
+      "path": "badges/deploy-satellite-worker.svg",
+      "sha256": "sha256:862a9aa7cadbff0f53d88ebe4965ed3d7c87d6aef39696127129d4220634c4b7"
+    },
+    {
+      "id": "deployment-health",
+      "label": "Deployment health",
+      "path": "badges/deployment-health.svg",
+      "sha256": "sha256:69dc05bc91983a24d2868336054fa0c6c052bff2079462638f86aa00ffccc6a8"
+    },
+    {
+      "id": "pdf-archive-smoke",
+      "label": "PDF archive smoke",
+      "path": "badges/pdf-archive-smoke.svg",
+      "sha256": "sha256:3ff000e7396d7b48406161c4e194cd211c0bb9bbdb6e665556f0f0250638b98e"
+    },
+    {
+      "id": "production-matrix-smoke",
+      "label": "Production matrix smoke",
+      "path": "badges/production-matrix-smoke.svg",
+      "sha256": "sha256:af1f3e9948c67ccd26369c6453613baff390c1837b28c7beac6e5529d0e9aa26"
+    },
+    {
+      "id": "production-submit-contract-smoke",
+      "label": "Production submit contract smoke",
+      "path": "badges/production-submit-contract-smoke.svg",
+      "sha256": "sha256:21a7e25cf77f9a7c323617cb70dd51c24a07671bb18e148ee005cf75ca665865"
+    },
+    {
+      "id": "security-evidence",
+      "label": "Security evidence",
+      "path": "badges/security-evidence.svg",
+      "sha256": "sha256:4c7069262c08a759cb6dfc135b56b564fedb3fcd47606b12c73c97d265bb544a"
+    }
+  ]
+}
