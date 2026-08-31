@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "sourceRepository": "mfactory/mfactory-site",
+  "sourceSha": "3588956cce2737fb7cdd8cfd4b72414d6037ea92",
+  "badges": [
+    {
+      "id": "coverage",
+      "label": "coverage",
+      "path": "badges/coverage.svg",
+      "sha256": "sha256:480a2ef18b2029a93cf4b8cb5a80862d13c6cceb465f4ca56f5a79ecd17abc7f"
+    },
+    {
+      "id": "deployment",
+      "label": "deployment",
+      "path": "badges/deployment.svg",
+      "sha256": "sha256:578bf5f0193956abfabd00c7e0cb89631be40294ffa54d92da0846672c42ccd7"
+    },
+    {
+      "id": "health",
+      "label": "health",
+      "path": "badges/health.svg",
+      "sha256": "sha256:2f2c1ee201a39acc31ed6288a9ff4902497b1f48d4011894473538b33f889a09"
+    },
+    {
+      "id": "cloudflare",
+      "label": "Cloudflare",
+      "path": "badges/cloudflare.svg",
+      "sha256": "sha256:b2653f0500ef51508e1c532c7da21618595732cfe196ae948393c76086129785"
+    },
+    {
+      "id": "socket",
+      "label": "Socket",
+      "path": "badges/socket.svg",
+      "sha256": "sha256:21c67db177271bb67b9eaddf155eaecd80ec43643305d2eee5e273c2448b3041"
+    },
+    {
+      "id": "snyk",
+      "label": "Snyk",
+      "path": "badges/snyk.svg",
+      "sha256": "sha256:6e02194f64b48429f88d51f9d3d9d3e2f17e98375d08d7fbd0fba660be9a9b96"
+    },
+    {
+      "id": "sentry",
+      "label": "Sentry",
+      "path": "badges/sentry.svg",
+      "sha256": "sha256:62793f089431df6267c2069d636e9498de4df021757a6e60f5829f58da9352f3"
+    },
+    {
+      "id": "gitleaks",
+      "label": "Gitleaks",
+      "path": "badges/gitleaks.svg",
+      "sha256": "sha256:d50e37dbaa07fe3f0377fb20d493fb87bfe3532aca99b34992eac3b0bf0e67ff"
+    },
+    {
+      "id": "ci",
+      "label": "CI",
+      "path": "badges/ci.svg",
+      "sha256": "sha256:ca4c4bbd605d9793437632b4134f6b326a321e5601e55d99449fa7de00cf1db6"
+    },
+    {
+      "id": "cloudflare-security-controls",
+      "label": "Cloudflare Security Controls",
+      "path": "badges/cloudflare-security-controls.svg",
+      "sha256": "sha256:4298386a4d20199e688d40b4bd1c11857a7f2d245db6725d6d790e06a23bddb9"
+    },
+    {
+      "id": "codeql-quality",
+      "label": "CodeQL quality",
+      "path": "badges/codeql-quality.svg",
+      "sha256": "sha256:9c5c863de4e4074e93a4d71bf83487e5f174ffac1bcfd026073c418693eb48cd"
+    },
+    {
+      "id": "codeql-scanning",
+      "label": "CodeQL scanning",
+      "path": "badges/codeql-scanning.svg",
+      "sha256": "sha256:3070d711eb632cb42209fc10307e2ef1833a459dd0cafee3cbfc93c0ecf02a0c"
+    },
+    {
+      "id": "content-governance",
+      "label": "Content Governance",
+      "path": "badges/content-governance.svg",
+      "sha256": "sha256:21232063ac528e47481c62ac3c56301af59dda9a3667a9c32831e545ed54870f"
+    },
+    {
+      "id": "dependabot-updates",
+      "label": "Dependabot Updates",
+      "path": "badges/dependabot-updates.svg",
+      "sha256": "sha256:7dd45183fd7c6d94025d677d3a6d583159dbbf067a09873a610f79cc9fba171b"
+    },
+    {
+      "id": "dhi-canary",
+      "label": "DHI Canary",
+      "path": "badges/dhi-canary.svg",
+      "sha256": "sha256:29e20d96e81d9dbbed4ebd1172339c5b62abf4866bec3d8b74e276ea91d1d42f"
+    },
+    {
+      "id": "mutation-assurance",
+      "label": "Mutation Assurance",
+      "path": "badges/mutation-assurance.svg",
+      "sha256": "sha256:987d314b1942030addae4b4320a4485fc30e95ea5bc7c793637bf9d8846a7df3"
+    },
+    {
+      "id": "production-api-security-attestation",
+      "label": "Production API Security Attestation",
+      "path": "badges/production-api-security-attestation.svg",
+      "sha256": "sha256:9cfa087e07d7fdb7786ea78df718af37dcf11fbe22f3cc986268689c19adaf5c"
+    },
+    {
+      "id": "production-observability-smoke",
+      "label": "Production Observability Smoke",
+      "path": "badges/production-observability-smoke.svg",
+      "sha256": "sha256:4358776fb5b8d0123d48f6a4ab7dd89d4de25aa58904012a16bf321060a68011"
+    },
+    {
+      "id": "production-paired-rollback",
+      "label": "Production Paired Rollback",
+      "path": "badges/production-paired-rollback.svg",
+      "sha256": "sha256:b5b7c0cef1acbfde52320bbb6751224c2742b2b3085c86364650903a0f1c876b"
+    }
+  ]
+}
