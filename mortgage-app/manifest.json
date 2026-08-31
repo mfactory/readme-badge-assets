@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mortgage-app",
-  "sourceSha": "3a19ab9e0b7d6c6ecf7e807ba603640125aa815f",
+  "sourceSha": "21b0c85754ca73473a5355d7603c494948e6070b",
   "badges": [
     {
       "id": "coverage",
@@ -11,9 +11,9 @@
     },
     {
       "id": "deployment",
-      "label": "Deployment",
+      "label": "App Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:3de8a897f60f2b01bdde447511dac145caa0d7cedb295b45bcf9ff763eda614f"
+      "sha256": "sha256:ff3e4a6d9de71b8ac24ef232526ee532a2e4611f635fbf25f4656a32c6698243"
     },
     {
       "id": "health",
@@ -133,7 +133,7 @@
       "id": "production-submit-contract-smoke",
       "label": "Production Submit Contract Smoke",
       "path": "badges/production-submit-contract-smoke.svg",
-      "sha256": "sha256:b07682a623a9596f071b16f15b767934a41439edda2cf47b2736d8e945f11a9f"
+      "sha256": "sha256:13c8c676ef3d10a48b24e14d946e9c3d86e71abd90d2b58f6177934a18f356d2"
     },
     {
       "id": "security-evidence",
