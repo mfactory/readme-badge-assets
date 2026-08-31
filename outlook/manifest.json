@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/outlook",
-  "sourceSha": "29b58cb991428cdff4f0c6aae284e3bee1e0ee70",
+  "sourceSha": "8b9a099484fa9daad1117b6662b54b87e2809d19",
   "badges": [
     {
       "id": "socket",
