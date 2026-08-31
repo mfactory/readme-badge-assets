@@ -1,31 +1,25 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "3588956cce2737fb7cdd8cfd4b72414d6037ea92",
+  "sourceSha": "528774d97d530e23e493035f6edd908221784d69",
   "badges": [
     {
       "id": "coverage",
-      "label": "coverage",
+      "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:480a2ef18b2029a93cf4b8cb5a80862d13c6cceb465f4ca56f5a79ecd17abc7f"
+      "sha256": "sha256:0f68aa960a91b0d4b0c4521a23e320816b97fb82c6f4d633e3a9b4923784ad7b"
     },
     {
       "id": "deployment",
-      "label": "deployment",
+      "label": "Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:578bf5f0193956abfabd00c7e0cb89631be40294ffa54d92da0846672c42ccd7"
+      "sha256": "sha256:6386ab4a7f989cdb20f607596a8da4b9bdac1fa1a8ce640e154b441bb3d7806f"
     },
     {
       "id": "health",
-      "label": "health",
+      "label": "Health",
       "path": "badges/health.svg",
-      "sha256": "sha256:2f2c1ee201a39acc31ed6288a9ff4902497b1f48d4011894473538b33f889a09"
-    },
-    {
-      "id": "cloudflare",
-      "label": "Cloudflare",
-      "path": "badges/cloudflare.svg",
-      "sha256": "sha256:b2653f0500ef51508e1c532c7da21618595732cfe196ae948393c76086129785"
+      "sha256": "sha256:f9d18ea1a238582aa67dbe9378ef85033734b244fbf187d418346dc1a74a1cf3"
     },
     {
       "id": "socket",
@@ -37,13 +31,7 @@
       "id": "snyk",
       "label": "Snyk",
       "path": "badges/snyk.svg",
-      "sha256": "sha256:6e02194f64b48429f88d51f9d3d9d3e2f17e98375d08d7fbd0fba660be9a9b96"
-    },
-    {
-      "id": "sentry",
-      "label": "Sentry",
-      "path": "badges/sentry.svg",
-      "sha256": "sha256:62793f089431df6267c2069d636e9498de4df021757a6e60f5829f58da9352f3"
+      "sha256": "sha256:bf449c671c7e945456831bb03215243ac466d39281ef9dbaec87ca21ea7d9267"
     },
     {
       "id": "gitleaks",
