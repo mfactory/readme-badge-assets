@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "146f8e1dcba00fcaa07b2bcb50be506a4614f097",
+  "sourceSha": "c8a90e9025dfedfc26ab517f912f800d05bbfebf",
   "badges": [
     {
       "id": "coverage",
@@ -11,9 +11,15 @@
     },
     {
       "id": "deployment",
-      "label": "Deployment",
+      "label": "Site Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:bd7b24abdb7d39c4c8b159f07024d5d4390a4d53c10b799b6135a305df02ea09"
+      "sha256": "sha256:a69f521fe1b2ecbe648c2faf7d2321682c2ffee64d51aec8091059be90027416"
+    },
+    {
+      "id": "badge-source",
+      "label": "Badge Source",
+      "path": "badges/badge-source.svg",
+      "sha256": "sha256:54b0ad06f22c1139fd9262ee1756199fedf76dac2dd6af719b97a2cb42bd0eb4"
     },
     {
       "id": "health",
