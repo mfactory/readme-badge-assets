@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mortgage-app",
-  "sourceSha": "f757b071582c4423928e3126d0c620b258940eed",
+  "sourceSha": "abef012bc57532dcba0058036396c1a777ca6487",
   "badges": [
     {
       "id": "coverage",
@@ -13,7 +13,7 @@
       "id": "deployment",
       "label": "Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:6386ab4a7f989cdb20f607596a8da4b9bdac1fa1a8ce640e154b441bb3d7806f"
+      "sha256": "sha256:761088e9cd68f4675e7be099d7f77870c4e7d30791ea74ab3dd1153010a9df2b"
     },
     {
       "id": "health",
@@ -55,13 +55,13 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:ca4c4bbd605d9793437632b4134f6b326a321e5601e55d99449fa7de00cf1db6"
+      "sha256": "sha256:7b9f4436501bb14fcaa7c65ea61b2059ecc8e0f66da00d3d879a59de385c7d45"
     },
     {
       "id": "admin-access-lifecycle",
-      "label": "Admin access lifecycle",
+      "label": "Admin Access Lifecycle",
       "path": "badges/admin-access-lifecycle.svg",
-      "sha256": "sha256:b2c5e722ac7b79f16cfb13a4b1a80e4507690b609206121da85337d5f9af0b44"
+      "sha256": "sha256:b6f9d9c272102642f112a0e5a631b610821548051ff373a4faf079ee0fa8dba1"
     },
     {
       "id": "browser-qa",
@@ -71,27 +71,27 @@
     },
     {
       "id": "cloudflare-posture-evidence",
-      "label": "Cloudflare posture evidence",
+      "label": "Cloudflare Posture Evidence",
       "path": "badges/cloudflare-posture-evidence.svg",
-      "sha256": "sha256:ed773db5f4d31c9124a6b956380571d2e9965c21f79123eb123163b6bc5aca9f"
+      "sha256": "sha256:3bb634e8daa166cb6a21246a7c01a6c0bb13a9d30162b74d65a0a4d17705a345"
     },
     {
       "id": "codeql-quality",
-      "label": "CodeQL quality",
+      "label": "CodeQL Quality",
       "path": "badges/codeql-quality.svg",
-      "sha256": "sha256:9c5c863de4e4074e93a4d71bf83487e5f174ffac1bcfd026073c418693eb48cd"
+      "sha256": "sha256:2362b8600e350f931d81458ff0e007450f95b33747d22b9c6cded30bcb5abd0a"
     },
     {
       "id": "codeql-scanning",
-      "label": "CodeQL scanning",
+      "label": "CodeQL Scanning",
       "path": "badges/codeql-scanning.svg",
-      "sha256": "sha256:3070d711eb632cb42209fc10307e2ef1833a459dd0cafee3cbfc93c0ecf02a0c"
+      "sha256": "sha256:b2c685ad364fd4bd023d61c857f0b15157267d5736f8c1414143de5d5947e431"
     },
     {
       "id": "compliance-ops-evidence",
-      "label": "Compliance ops evidence",
+      "label": "Compliance Ops Evidence",
       "path": "badges/compliance-ops-evidence.svg",
-      "sha256": "sha256:be085afc6b8a166201c1635b9de787990c828e0552c55951f44929a895ab741f"
+      "sha256": "sha256:5537fe0efa128d1c66ad2786471df1476372c5f77218887c6a3e407f4d641fd5"
     },
     {
       "id": "deep-qa",
@@ -107,39 +107,39 @@
     },
     {
       "id": "deploy-satellite-worker",
-      "label": "Deploy satellite Worker",
+      "label": "Deploy Satellite Worker",
       "path": "badges/deploy-satellite-worker.svg",
-      "sha256": "sha256:862a9aa7cadbff0f53d88ebe4965ed3d7c87d6aef39696127129d4220634c4b7"
+      "sha256": "sha256:cd1b550462cd5c4452f1d6bd880c7b705b9a93c43450f1321809108f5235451e"
     },
     {
       "id": "deployment-health",
-      "label": "Deployment health",
+      "label": "Deployment Health",
       "path": "badges/deployment-health.svg",
-      "sha256": "sha256:69dc05bc91983a24d2868336054fa0c6c052bff2079462638f86aa00ffccc6a8"
+      "sha256": "sha256:e910d43c32bf3fbeccc7b2aa44305a65cde8bfae7d10fe2b6cc4e0f6270ce254"
     },
     {
       "id": "pdf-archive-smoke",
-      "label": "PDF archive smoke",
+      "label": "PDF Archive Smoke",
       "path": "badges/pdf-archive-smoke.svg",
-      "sha256": "sha256:3ff000e7396d7b48406161c4e194cd211c0bb9bbdb6e665556f0f0250638b98e"
+      "sha256": "sha256:48d420fef615862532774338775703424539e158e2ec32de076dd3d0d270746d"
     },
     {
       "id": "production-matrix-smoke",
-      "label": "Production matrix smoke",
+      "label": "Production Matrix Smoke",
       "path": "badges/production-matrix-smoke.svg",
-      "sha256": "sha256:af1f3e9948c67ccd26369c6453613baff390c1837b28c7beac6e5529d0e9aa26"
+      "sha256": "sha256:dd7ce3cfb2f1fd6d444e6132a43439390bd3bc58de2b9d86b68ff41394079e70"
     },
     {
       "id": "production-submit-contract-smoke",
-      "label": "Production submit contract smoke",
+      "label": "Production Submit Contract Smoke",
       "path": "badges/production-submit-contract-smoke.svg",
-      "sha256": "sha256:6d25293478063fe7e6af6a32afa0a1b7355bc4df3af888de5c1d517d77e679cf"
+      "sha256": "sha256:f60c946d73aca2eafdfa36a254130d981267be4005a7c52e73153c30d8cdcaaa"
     },
     {
       "id": "security-evidence",
-      "label": "Security evidence",
+      "label": "Security Evidence",
       "path": "badges/security-evidence.svg",
-      "sha256": "sha256:4c7069262c08a759cb6dfc135b56b564fedb3fcd47606b12c73c97d265bb544a"
+      "sha256": "sha256:b179354acd2321fee5fb4d4d4957cb1033df4e1712025ad49c1e1a91e2b08e23"
     }
   ]
 }
