@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sourceRepository": "mfactory/repo-template",
+  "sourceSha": "690e03c5057252f765643a5131f318be154d8b62",
+  "badges": [
+    {
+      "id": "coverage",
+      "label": "Coverage",
+      "path": "badges/coverage.svg",
+      "sha256": "sha256:457160ad7d55d2a3ae36f0e7fb90fe81df60ad9d08b198bc5a5902d4a67da3b1"
+    },
+    {
+      "id": "socket",
+      "label": "Socket",
+      "path": "badges/socket.svg",
+      "sha256": "sha256:c21a32b89c1bf34695b1d8c0e110e8cd3f1624a43fe14e7d729f47257b71c491"
+    },
+    {
+      "id": "snyk",
+      "label": "Snyk",
+      "path": "badges/snyk.svg",
+      "sha256": "sha256:e9f89cb0db183d3a919967e91e3ef0b8c58560662cff68586e1f7b89fab2b260"
+    },
+    {
+      "id": "gitleaks",
+      "label": "Gitleaks",
+      "path": "badges/gitleaks.svg",
+      "sha256": "sha256:a2218b07ff8a1691cd17852a342c2c2d08d6c64a5a4e8551c0f8e2d4aaa78a68"
+    },
+    {
+      "id": "lint-and-deploy",
+      "label": "Lint and Deploy",
+      "path": "badges/lint-and-deploy.svg",
+      "sha256": "sha256:8c1798e6836cdb696505646fadc4aacc0ca56e35ce74bba5ef4e60d2d32b03d3"
+    },
+    {
+      "id": "dependabot-updates",
+      "label": "Dependabot Updates",
+      "path": "badges/dependabot-updates.svg",
+      "sha256": "sha256:05494336c7d21b3ae8a0b5bb8d81d46a4c4bb0a3b7b1575427cc953b229683c5"
+    }
+  ]
+}
