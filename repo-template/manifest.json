@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/repo-template",
-  "sourceSha": "6091a58cb1a3ffe48b52951403bcd02f7952e36d",
+  "sourceSha": "48b4ce9ba042988656f16f6db9b32928a7d1a627",
   "badges": [
     {
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:ea78a0d45c4247b26bb8415e46fdf482924e3365901f248ec4ac949deaf4dbdd"
+      "sha256": "sha256:e6d77db92edffc36b18a07f5203f33bd5f0675960aef817eb7205b6bd55ac620"
     },
     {
       "id": "socket",
