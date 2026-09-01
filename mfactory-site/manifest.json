@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "989ad7a75c8969a17265d6985e3b6d10a95f3ffb",
+  "sourceSha": "f869d6773312040848e4cfe0f09f1a87baee926c",
   "badges": [
     {
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:371a30986695efb31569388bc908f97e7151f8dd48350e54a282367e2facb6a0"
+      "sha256": "sha256:457160ad7d55d2a3ae36f0e7fb90fe81df60ad9d08b198bc5a5902d4a67da3b1"
     },
     {
       "id": "deployment",
@@ -16,34 +16,28 @@
       "sha256": "sha256:a69f521fe1b2ecbe648c2faf7d2321682c2ffee64d51aec8091059be90027416"
     },
     {
-      "id": "badge-source",
-      "label": "Badge Source",
-      "path": "badges/badge-source.svg",
-      "sha256": "sha256:c6de76677671383e5f1cb553275faec835f8eaec7372e7cb0c8c542117e85ca5"
-    },
-    {
       "id": "health",
       "label": "Health",
       "path": "badges/health.svg",
-      "sha256": "sha256:f9d18ea1a238582aa67dbe9378ef85033734b244fbf187d418346dc1a74a1cf3"
+      "sha256": "sha256:6923d29ec36305fddd17d20d105c8f80103b24fa5dc8066f4e362c76ad205db7"
     },
     {
       "id": "socket",
       "label": "Socket",
       "path": "badges/socket.svg",
-      "sha256": "sha256:21c67db177271bb67b9eaddf155eaecd80ec43643305d2eee5e273c2448b3041"
+      "sha256": "sha256:c21a32b89c1bf34695b1d8c0e110e8cd3f1624a43fe14e7d729f47257b71c491"
     },
     {
       "id": "snyk",
       "label": "Snyk",
       "path": "badges/snyk.svg",
-      "sha256": "sha256:bf449c671c7e945456831bb03215243ac466d39281ef9dbaec87ca21ea7d9267"
+      "sha256": "sha256:e9f89cb0db183d3a919967e91e3ef0b8c58560662cff68586e1f7b89fab2b260"
     },
     {
       "id": "gitleaks",
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
-      "sha256": "sha256:ee06d76424dd8a90a4698c8ebd49e6cfcadf49c91e737461b522d0921d6b954c"
+      "sha256": "sha256:a2218b07ff8a1691cd17852a342c2c2d08d6c64a5a4e8551c0f8e2d4aaa78a68"
     },
     {
       "id": "ci",
@@ -55,61 +49,61 @@
       "id": "cloudflare-security-controls",
       "label": "Cloudflare Security Controls",
       "path": "badges/cloudflare-security-controls.svg",
-      "sha256": "sha256:4298386a4d20199e688d40b4bd1c11857a7f2d245db6725d6d790e06a23bddb9"
+      "sha256": "sha256:8043db143f25904aca7d6b908cadc1e1bf60ed8b6a709068f0cbb897e449b540"
     },
     {
       "id": "codeql-quality",
       "label": "CodeQL quality",
       "path": "badges/codeql-quality.svg",
-      "sha256": "sha256:9c5c863de4e4074e93a4d71bf83487e5f174ffac1bcfd026073c418693eb48cd"
+      "sha256": "sha256:bd22f87d30d21f61cbf8552f505c0e7c5db29747b5b33ef75b07f0a5368c67d2"
     },
     {
       "id": "codeql-scanning",
       "label": "CodeQL scanning",
       "path": "badges/codeql-scanning.svg",
-      "sha256": "sha256:3070d711eb632cb42209fc10307e2ef1833a459dd0cafee3cbfc93c0ecf02a0c"
+      "sha256": "sha256:820995d40de5d267928fac7f1b97f98bca28bd1b42aabe7cf5aeb8a959410d0f"
     },
     {
       "id": "content-governance",
       "label": "Content Governance",
       "path": "badges/content-governance.svg",
-      "sha256": "sha256:21232063ac528e47481c62ac3c56301af59dda9a3667a9c32831e545ed54870f"
+      "sha256": "sha256:aebb8451c51b8b5355711b0f7a2e5133dff31ffd2848a446f21ad81caad6b5d3"
     },
     {
       "id": "dependabot-updates",
       "label": "Dependabot Updates",
       "path": "badges/dependabot-updates.svg",
-      "sha256": "sha256:7dd45183fd7c6d94025d677d3a6d583159dbbf067a09873a610f79cc9fba171b"
+      "sha256": "sha256:05494336c7d21b3ae8a0b5bb8d81d46a4c4bb0a3b7b1575427cc953b229683c5"
     },
     {
       "id": "dhi-canary",
       "label": "DHI Canary",
       "path": "badges/dhi-canary.svg",
-      "sha256": "sha256:29e20d96e81d9dbbed4ebd1172339c5b62abf4866bec3d8b74e276ea91d1d42f"
+      "sha256": "sha256:a0e33344d055ccd34e24da0632bf3628272b8264872f4b7db91a2d1435e1d868"
     },
     {
       "id": "mutation-assurance",
       "label": "Mutation Assurance",
       "path": "badges/mutation-assurance.svg",
-      "sha256": "sha256:987d314b1942030addae4b4320a4485fc30e95ea5bc7c793637bf9d8846a7df3"
+      "sha256": "sha256:8c29c737a8f3aa58dcf7280ea0f3904a16ba5b81e93d2660f95d8d30bacefa99"
     },
     {
       "id": "production-api-security-attestation",
       "label": "Production API Security Attestation",
       "path": "badges/production-api-security-attestation.svg",
-      "sha256": "sha256:9cfa087e07d7fdb7786ea78df718af37dcf11fbe22f3cc986268689c19adaf5c"
+      "sha256": "sha256:d0a730277529ae935fa519afd194a7192a66160d9e97a57cd91358176316a81f"
     },
     {
       "id": "production-observability-smoke",
       "label": "Production Observability Smoke",
       "path": "badges/production-observability-smoke.svg",
-      "sha256": "sha256:4358776fb5b8d0123d48f6a4ab7dd89d4de25aa58904012a16bf321060a68011"
+      "sha256": "sha256:ed01847cc20690044652f1b29fb7844f4e8e8be259ee63c9ce5c72546ed53733"
     },
     {
       "id": "production-paired-rollback",
       "label": "Production Paired Rollback",
       "path": "badges/production-paired-rollback.svg",
-      "sha256": "sha256:b5b7c0cef1acbfde52320bbb6751224c2742b2b3085c86364650903a0f1c876b"
+      "sha256": "sha256:21a83bb76a9395603aa7898096d0fb7f8f9c297e1a751dd09ec5cda439a95fe8"
     }
   ]
 }
