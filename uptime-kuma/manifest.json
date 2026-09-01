@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/uptime-kuma",
-  "sourceSha": "0477396dbb2dd91405dde95fd16999babd8e6c02",
+  "sourceSha": "ccba50771a0149c05e87c6e5252f19b92bdc3577",
   "badges": [
     {
       "id": "coverage",
@@ -25,7 +25,7 @@
       "id": "snyk",
       "label": "Snyk",
       "path": "badges/snyk.svg",
-      "sha256": "sha256:6f0d1c7b0db0f4309673ac59820a6e848545061d581c46f774b4a679e013a5b1"
+      "sha256": "sha256:e9f89cb0db183d3a919967e91e3ef0b8c58560662cff68586e1f7b89fab2b260"
     },
     {
       "id": "gitleaks",
