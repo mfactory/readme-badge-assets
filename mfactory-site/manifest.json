@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "476bfb6670a1aafaa225dbc77720e89aac958dab",
+  "sourceSha": "ca7d62fa5729799e5add0937cc72db2f5dd1a694",
   "badges": [
     {
       "id": "coverage",
@@ -47,9 +47,9 @@
     },
     {
       "id": "codeql-quality",
-      "label": "CodeQL quality",
+      "label": "GitHub Code Quality",
       "path": "badges/codeql-quality.svg",
-      "sha256": "sha256:bd22f87d30d21f61cbf8552f505c0e7c5db29747b5b33ef75b07f0a5368c67d2"
+      "sha256": "sha256:6542f7191855e1f414364bc0779ccfbb0567e1e518b3a4faddfdf2f1ba4bb995"
     },
     {
       "id": "codeql-scanning",
