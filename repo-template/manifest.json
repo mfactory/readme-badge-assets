@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/repo-template",
-  "sourceSha": "b0e7542025170f2aca7a076380ceb9a4c0ea531a",
+  "sourceSha": "152d62e0015f52c1755b3b498d5ec8a2a2042e38",
   "badges": [
     {
       "id": "coverage",
@@ -32,12 +32,6 @@
       "label": "Lint and Deploy",
       "path": "badges/lint-and-deploy.svg",
       "sha256": "sha256:8c1798e6836cdb696505646fadc4aacc0ca56e35ce74bba5ef4e60d2d32b03d3"
-    },
-    {
-      "id": "dependabot-updates",
-      "label": "Dependabot Updates",
-      "path": "badges/dependabot-updates.svg",
-      "sha256": "sha256:05494336c7d21b3ae8a0b5bb8d81d46a4c4bb0a3b7b1575427cc953b229683c5"
     }
   ]
 }
