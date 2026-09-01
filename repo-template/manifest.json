@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/repo-template",
-  "sourceSha": "ae191f7c569f8d65cd7c609c133b07eace3175d1",
+  "sourceSha": "bf256cfa6d6869a63b63e4334f1cf20808ee308e",
   "badges": [
     {
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:457160ad7d55d2a3ae36f0e7fb90fe81df60ad9d08b198bc5a5902d4a67da3b1"
+      "sha256": "sha256:ea78a0d45c4247b26bb8415e46fdf482924e3365901f248ec4ac949deaf4dbdd"
     },
     {
       "id": "socket",
@@ -19,13 +19,13 @@
       "id": "snyk",
       "label": "Snyk",
       "path": "badges/snyk.svg",
-      "sha256": "sha256:e9f89cb0db183d3a919967e91e3ef0b8c58560662cff68586e1f7b89fab2b260"
+      "sha256": "sha256:6f0d1c7b0db0f4309673ac59820a6e848545061d581c46f774b4a679e013a5b1"
     },
     {
       "id": "gitleaks",
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
-      "sha256": "sha256:a2218b07ff8a1691cd17852a342c2c2d08d6c64a5a4e8551c0f8e2d4aaa78a68"
+      "sha256": "sha256:0730ef4e5987ca5a2aecf1a6a01008f02ee17809adbeda29000a21600c4f9b6d"
     },
     {
       "id": "lint-and-deploy",
