@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/outlook",
-  "sourceSha": "cf1fb243e6cb88feca54ca82a38b1624913d0296",
+  "sourceSha": "372e68a4364f0790657bf83943f260ad089a8ef2",
   "badges": [
     {
       "id": "coverage",
@@ -29,9 +29,9 @@
     },
     {
       "id": "codeql-quality",
-      "label": "CodeQL Quality",
+      "label": "GitHub Code Quality",
       "path": "badges/codeql-quality.svg",
-      "sha256": "sha256:b582d319e76c5112661208a591ddf333a4ea4ea0879c0a8d7d214fa066904876"
+      "sha256": "sha256:d98f98ba92f4927ec6784c9967e81b43e33b74d1e198d14b677554b0ea56223d"
     },
     {
       "id": "codeql-scanning",
