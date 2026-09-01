@@ -7,7 +7,7 @@
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:457160ad7d55d2a3ae36f0e7fb90fe81df60ad9d08b198bc5a5902d4a67da3b1"
+      "sha256": "sha256:2a89c18f87714a1340d426dd9912532fed78d6612e9e412e3401c30fb204a925"
     },
     {
       "id": "deployment",
