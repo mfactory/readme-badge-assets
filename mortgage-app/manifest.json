@@ -13,7 +13,7 @@
       "id": "deployment",
       "label": "App Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:cd23b3f2353c9752cf0be8b20fabb96504e3151bc4124047c105d39c1ff53ab3"
+      "sha256": "sha256:022f923fb477efb2b874467bfa2eb9bc50686b858f806a4501a1f6dc23f058fc"
     },
     {
       "id": "health",
@@ -103,7 +103,7 @@
       "id": "deployment-health",
       "label": "Deployment Health",
       "path": "badges/deployment-health.svg",
-      "sha256": "sha256:3b6fa1079940aaf836c091086c888d406d16e7307ff1122662aa4d3064f4b887"
+      "sha256": "sha256:ef4330deca53d4feb9eb841eb03c3b98ae1662481df623d5b35a52be1e2fc373"
     },
     {
       "id": "pdf-archive-smoke",
