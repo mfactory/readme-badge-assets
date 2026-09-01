@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/outlook",
-  "sourceSha": "5f0e68b1152e16f5631ce0a0521b2c1912c1f6a5",
+  "sourceSha": "375af8128801ceee4d409396094d01da8792af19",
   "badges": [
     {
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:085c2943ecbd95ac6515fdffcd24dd713f823927915f59faa6686dc3473381c7"
+      "sha256": "sha256:b5fdd5d3dbce55e1b8c27bc3900ff78c4f0d9bc6ef858aa33f7a213e53483c2f"
     },
     {
       "id": "socket",
