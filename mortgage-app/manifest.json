@@ -13,7 +13,7 @@
       "id": "deployment",
       "label": "App Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:cd23b3f2353c9752cf0be8b20fabb96504e3151bc4124047c105d39c1ff53ab3"
+      "sha256": "sha256:ff3e4a6d9de71b8ac24ef232526ee532a2e4611f635fbf25f4656a32c6698243"
     },
     {
       "id": "health",
@@ -49,7 +49,7 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:7b9f4436501bb14fcaa7c65ea61b2059ecc8e0f66da00d3d879a59de385c7d45"
+      "sha256": "sha256:d4d396764db844206bb5f34cdce15b08b993044ee69560d7497abbdcf8e97b15"
     },
     {
       "id": "admin-access-lifecycle",
@@ -121,7 +121,7 @@
       "id": "production-submit-contract-smoke",
       "label": "Production Submit Contract Smoke",
       "path": "badges/production-submit-contract-smoke.svg",
-      "sha256": "sha256:b07682a623a9596f071b16f15b767934a41439edda2cf47b2736d8e945f11a9f"
+      "sha256": "sha256:13c8c676ef3d10a48b24e14d946e9c3d86e71abd90d2b58f6177934a18f356d2"
     },
     {
       "id": "security-evidence",
