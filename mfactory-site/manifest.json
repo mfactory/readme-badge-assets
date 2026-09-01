@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "f869d6773312040848e4cfe0f09f1a87baee926c",
+  "sourceSha": "34305ec2593318a2f5a8fc37bdde8fc921d7aebf",
   "badges": [
     {
       "id": "coverage",
@@ -68,12 +68,6 @@
       "label": "Content Governance",
       "path": "badges/content-governance.svg",
       "sha256": "sha256:aebb8451c51b8b5355711b0f7a2e5133dff31ffd2848a446f21ad81caad6b5d3"
-    },
-    {
-      "id": "dependabot-updates",
-      "label": "Dependabot Updates",
-      "path": "badges/dependabot-updates.svg",
-      "sha256": "sha256:05494336c7d21b3ae8a0b5bb8d81d46a4c4bb0a3b7b1575427cc953b229683c5"
     },
     {
       "id": "dhi-canary",
