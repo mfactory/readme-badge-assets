@@ -43,7 +43,7 @@
       "id": "semgrep",
       "label": "Semgrep",
       "path": "badges/semgrep.svg",
-      "sha256": "sha256:e4a3b3d5f40745ab21ff6c434e293c8ea32a4ae4e4c8dd15f616263129eeeafa"
+      "sha256": "sha256:8fc05e757ffb7f8e70be10c5c511e54ab1308beeff5fc9a550dbff2ebc909501"
     },
     {
       "id": "ci",
