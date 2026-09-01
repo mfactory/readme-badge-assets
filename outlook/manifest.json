@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/outlook",
-  "sourceSha": "344937cc3a0cabab6e2bf34de76cc987dfc7b399",
+  "sourceSha": "bb8a2c754321e56df7aa3df8a92953482ddd623d",
   "badges": [
     {
       "id": "coverage",
@@ -44,12 +44,6 @@
       "label": "CodeQL Scanning",
       "path": "badges/codeql-scanning.svg",
       "sha256": "sha256:583bd894c12f8a535e27fceb59790eb8842e9e98005a83681b7b78703b50ecb1"
-    },
-    {
-      "id": "dependabot-updates",
-      "label": "Dependabot Updates",
-      "path": "badges/dependabot-updates.svg",
-      "sha256": "sha256:dfdba541367262719e83fff7fdaafdc9942f3cee1bd12e0d05850d174be12d52"
     },
     {
       "id": "snyk-code-quota-waiver",
