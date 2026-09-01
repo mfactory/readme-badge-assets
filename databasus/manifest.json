@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "sourceRepository": "mfactory/databasus",
+  "sourceSha": "c39624746292fc4162f78390316c9c85c10f95cd",
+  "badges": [
+    {
+      "id": "coverage",
+      "label": "Coverage",
+      "path": "badges/coverage.svg",
+      "sha256": "sha256:457160ad7d55d2a3ae36f0e7fb90fe81df60ad9d08b198bc5a5902d4a67da3b1"
+    },
+    {
+      "id": "deployment",
+      "label": "Databasus Deployment",
+      "path": "badges/deployment.svg",
+      "sha256": "sha256:9679d167d4fafb70b0e79031c04c6023c2529237563a24a3e6d093e21ae688ed"
+    },
+    {
+      "id": "socket",
+      "label": "Socket",
+      "path": "badges/socket.svg",
+      "sha256": "sha256:c21a32b89c1bf34695b1d8c0e110e8cd3f1624a43fe14e7d729f47257b71c491"
+    },
+    {
+      "id": "snyk",
+      "label": "Snyk",
+      "path": "badges/snyk.svg",
+      "sha256": "sha256:6f0d1c7b0db0f4309673ac59820a6e848545061d581c46f774b4a679e013a5b1"
+    },
+    {
+      "id": "gitleaks",
+      "label": "Gitleaks",
+      "path": "badges/gitleaks.svg",
+      "sha256": "sha256:0730ef4e5987ca5a2aecf1a6a01008f02ee17809adbeda29000a21600c4f9b6d"
+    },
+    {
+      "id": "lint-and-deploy",
+      "label": "Lint and Deploy",
+      "path": "badges/lint-and-deploy.svg",
+      "sha256": "sha256:8c1798e6836cdb696505646fadc4aacc0ca56e35ce74bba5ef4e60d2d32b03d3"
+    },
+    {
+      "id": "codeql-quality",
+      "label": "CodeQL quality",
+      "path": "badges/codeql-quality.svg",
+      "sha256": "sha256:bd22f87d30d21f61cbf8552f505c0e7c5db29747b5b33ef75b07f0a5368c67d2"
+    },
+    {
+      "id": "codeql-scanning",
+      "label": "CodeQL scanning",
+      "path": "badges/codeql-scanning.svg",
+      "sha256": "sha256:820995d40de5d267928fac7f1b97f98bca28bd1b42aabe7cf5aeb8a959410d0f"
+    },
+    {
+      "id": "dependabot-updates",
+      "label": "Dependabot Updates",
+      "path": "badges/dependabot-updates.svg",
+      "sha256": "sha256:05494336c7d21b3ae8a0b5bb8d81d46a4c4bb0a3b7b1575427cc953b229683c5"
+    }
+  ]
+}
