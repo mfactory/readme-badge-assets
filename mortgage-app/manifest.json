@@ -103,7 +103,7 @@
       "id": "deployment-health",
       "label": "Deployment Health",
       "path": "badges/deployment-health.svg",
-      "sha256": "sha256:b37fe20623f86665488017ab8d1b0ad6c6189fce32e96b1dbe99c809b8ae3dee"
+      "sha256": "sha256:3b6fa1079940aaf836c091086c888d406d16e7307ff1122662aa4d3064f4b887"
     },
     {
       "id": "pdf-archive-smoke",
