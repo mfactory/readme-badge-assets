@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "34305ec2593318a2f5a8fc37bdde8fc921d7aebf",
+  "sourceSha": "476bfb6670a1aafaa225dbc77720e89aac958dab",
   "badges": [
     {
       "id": "coverage",
@@ -13,7 +13,7 @@
       "id": "deployment",
       "label": "Site Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:99bd4faefe152b1155e567052b100d7c54e81463f320a6c5a6584c4c37b435ce"
+      "sha256": "sha256:a69f521fe1b2ecbe648c2faf7d2321682c2ffee64d51aec8091059be90027416"
     },
     {
       "id": "health",
@@ -28,12 +28,6 @@
       "sha256": "sha256:c21a32b89c1bf34695b1d8c0e110e8cd3f1624a43fe14e7d729f47257b71c491"
     },
     {
-      "id": "snyk",
-      "label": "Snyk",
-      "path": "badges/snyk.svg",
-      "sha256": "sha256:e9f89cb0db183d3a919967e91e3ef0b8c58560662cff68586e1f7b89fab2b260"
-    },
-    {
       "id": "gitleaks",
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
@@ -43,7 +37,7 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:d4d396764db844206bb5f34cdce15b08b993044ee69560d7497abbdcf8e97b15"
+      "sha256": "sha256:3d62224c997161700503aaffd4c4b4d6eece1be7120be828d2b312e1321619f6"
     },
     {
       "id": "cloudflare-security-controls",
