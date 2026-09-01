@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mortgage-app",
-  "sourceSha": "21b0c85754ca73473a5355d7603c494948e6070b",
+  "sourceSha": "b3b3e8ce1433a4919939372a5f25082d8665b6f8",
   "badges": [
     {
       "id": "coverage",
@@ -13,7 +13,7 @@
       "id": "deployment",
       "label": "App Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:ff3e4a6d9de71b8ac24ef232526ee532a2e4611f635fbf25f4656a32c6698243"
+      "sha256": "sha256:cd23b3f2353c9752cf0be8b20fabb96504e3151bc4124047c105d39c1ff53ab3"
     },
     {
       "id": "health",
@@ -37,7 +37,7 @@
       "id": "codeql",
       "label": "CodeQL",
       "path": "badges/codeql.svg",
-      "sha256": "sha256:aa7f5c68895bfbf5a49109022c476edba27d48a2866e55e801ae7ca04ef1f79e"
+      "sha256": "sha256:3c0bdd7dd6b0b919c2ae56f830ab1cbd9d687973986fbcde11c5d2dc7b1dc932"
     },
     {
       "id": "gitleaks",
@@ -55,7 +55,7 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:d4d396764db844206bb5f34cdce15b08b993044ee69560d7497abbdcf8e97b15"
+      "sha256": "sha256:3d62224c997161700503aaffd4c4b4d6eece1be7120be828d2b312e1321619f6"
     },
     {
       "id": "admin-access-lifecycle",
@@ -98,12 +98,6 @@
       "label": "Deep QA",
       "path": "badges/deep-qa.svg",
       "sha256": "sha256:850a3fb1d00185babb67320e05c12ebc6eef4b67265181bdf0cf8591b9dfa838"
-    },
-    {
-      "id": "dependabot-updates",
-      "label": "Dependabot Updates",
-      "path": "badges/dependabot-updates.svg",
-      "sha256": "sha256:05494336c7d21b3ae8a0b5bb8d81d46a4c4bb0a3b7b1575427cc953b229683c5"
     },
     {
       "id": "deploy-satellite-worker",
