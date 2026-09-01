@@ -7,13 +7,13 @@
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:457160ad7d55d2a3ae36f0e7fb90fe81df60ad9d08b198bc5a5902d4a67da3b1"
+      "sha256": "sha256:0f68aa960a91b0d4b0c4521a23e320816b97fb82c6f4d633e3a9b4923784ad7b"
     },
     {
       "id": "deployment",
       "label": "Site Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:a69f521fe1b2ecbe648c2faf7d2321682c2ffee64d51aec8091059be90027416"
+      "sha256": "sha256:99bd4faefe152b1155e567052b100d7c54e81463f320a6c5a6584c4c37b435ce"
     },
     {
       "id": "health",
@@ -43,7 +43,7 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:7b9f4436501bb14fcaa7c65ea61b2059ecc8e0f66da00d3d879a59de385c7d45"
+      "sha256": "sha256:d4d396764db844206bb5f34cdce15b08b993044ee69560d7497abbdcf8e97b15"
     },
     {
       "id": "cloudflare-security-controls",
