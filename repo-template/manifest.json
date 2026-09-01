@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/repo-template",
-  "sourceSha": "152d62e0015f52c1755b3b498d5ec8a2a2042e38",
+  "sourceSha": "6091a58cb1a3ffe48b52951403bcd02f7952e36d",
   "badges": [
     {
       "id": "coverage",
@@ -14,12 +14,6 @@
       "label": "Socket",
       "path": "badges/socket.svg",
       "sha256": "sha256:c21a32b89c1bf34695b1d8c0e110e8cd3f1624a43fe14e7d729f47257b71c491"
-    },
-    {
-      "id": "snyk",
-      "label": "Snyk",
-      "path": "badges/snyk.svg",
-      "sha256": "sha256:6f0d1c7b0db0f4309673ac59820a6e848545061d581c46f774b4a679e013a5b1"
     },
     {
       "id": "gitleaks",
