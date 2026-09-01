@@ -25,7 +25,7 @@
       "id": "validate",
       "label": "Validate",
       "path": "badges/validate.svg",
-      "sha256": "sha256:52b800dbf6c69d04fe606f3aa15b33dc6528f68093389d45da4464c7706215fe"
+      "sha256": "sha256:11290a72c5e0cdae554b1bfb39cb90c63e919f2518b5fdbfbdb476513fd96a62"
     },
     {
       "id": "codeql-quality",
