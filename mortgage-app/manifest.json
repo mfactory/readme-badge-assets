@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mortgage-app",
-  "sourceSha": "6e1a646594946f3318626a155f51c69cfe1a364c",
+  "sourceSha": "809e646edaa856e9cd9faae36d6f730c99fa72c3",
   "badges": [
     {
       "id": "coverage",
@@ -37,7 +37,7 @@
       "id": "gitleaks",
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
-      "sha256": "sha256:27c1577805522159bc5d2c52c5a0d2114a0d98d9934a56897e3cf0967c1a9f38"
+      "sha256": "sha256:0730ef4e5987ca5a2aecf1a6a01008f02ee17809adbeda29000a21600c4f9b6d"
     },
     {
       "id": "semgrep",
