@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/outlook",
-  "sourceSha": "e9c033f9ebe38c268e67a9859379b05d83ccb7f2",
+  "sourceSha": "e878ea8c49c05c620f8a0a138fa90d864926fbb7",
   "badges": [
     {
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:64565dafe46ff6c803f0cb7495add984ab2fd171f04b45c8de55e8c3cb0c3527"
+      "sha256": "sha256:a83365b0b4e46111d42ec5b4a2447f255778131d2ed304e66c7b379458ef954c"
     },
     {
       "id": "socket",
@@ -25,7 +25,7 @@
       "id": "validate",
       "label": "Validate",
       "path": "badges/validate.svg",
-      "sha256": "sha256:11290a72c5e0cdae554b1bfb39cb90c63e919f2518b5fdbfbdb476513fd96a62"
+      "sha256": "sha256:c42f3ed6ce6a3c646b6b2d94d1c337868933803b71b7b01e85dc9ef68f213f85"
     },
     {
       "id": "codeql-quality",
