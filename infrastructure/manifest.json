@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "sourceRepository": "mfactory/infrastructure",
+  "sourceSha": "411e940f3654ee324e4bda4a0041d0778091abed",
+  "badges": [
+    {
+      "id": "coverage",
+      "label": "Coverage",
+      "path": "badges/coverage.svg",
+      "sha256": "sha256:457160ad7d55d2a3ae36f0e7fb90fe81df60ad9d08b198bc5a5902d4a67da3b1"
+    },
+    {
+      "id": "mcp-deployment",
+      "label": "MCP Deployment",
+      "path": "badges/mcp-deployment.svg",
+      "sha256": "sha256:427fa76831cb4232b321868990efc02a38200ea7a1d07151a1f22d7158e3c796"
+    },
+    {
+      "id": "relay-health",
+      "label": "Relay Health",
+      "path": "badges/relay-health.svg",
+      "sha256": "sha256:c29ef45e5182527b83db8d10871847a99f368f5a7220656cb79ad73e617a0cef"
+    },
+    {
+      "id": "dockhand-route",
+      "label": "Dockhand Route",
+      "path": "badges/dockhand-route.svg",
+      "sha256": "sha256:df22b3924656aef83d0323acd32b70515fa6dc932efafd16b1db9235cb6e183c"
+    },
+    {
+      "id": "mcp-monitor",
+      "label": "MCP Monitor",
+      "path": "badges/mcp-monitor.svg",
+      "sha256": "sha256:a609001ca0673c3a1ec97c9c42bf1502ad5f09cd5530e5444a6a2ee057fc8535"
+    },
+    {
+      "id": "socket",
+      "label": "Socket",
+      "path": "badges/socket.svg",
+      "sha256": "sha256:c21a32b89c1bf34695b1d8c0e110e8cd3f1624a43fe14e7d729f47257b71c491"
+    },
+    {
+      "id": "snyk",
+      "label": "Snyk",
+      "path": "badges/snyk.svg",
+      "sha256": "sha256:6f0d1c7b0db0f4309673ac59820a6e848545061d581c46f774b4a679e013a5b1"
+    },
+    {
+      "id": "gitleaks",
+      "label": "Gitleaks",
+      "path": "badges/gitleaks.svg",
+      "sha256": "sha256:a2218b07ff8a1691cd17852a342c2c2d08d6c64a5a4e8551c0f8e2d4aaa78a68"
+    },
+    {
+      "id": "validate",
+      "label": "Validate",
+      "path": "badges/validate.svg",
+      "sha256": "sha256:7d187f73fe97a3c6d3758851fa379dc4fafc12ff7743e442e7677a3bae3c817a"
+    },
+    {
+      "id": "audit-failed-webhook-relay-upload",
+      "label": "Audit failed webhook relay upload",
+      "path": "badges/audit-failed-webhook-relay-upload.svg",
+      "sha256": "sha256:cbe9429640d381d6234de4ddac35274c56ea82030dca3c7afb46fdf78400ae4b"
+    },
+    {
+      "id": "audit-webhook-relay-orphan",
+      "label": "Audit webhook relay orphan",
+      "path": "badges/audit-webhook-relay-orphan.svg",
+      "sha256": "sha256:deab18c1fc35cffff8a1f1c31a479b45e4529ef21ce1d5aa1e17db3107b73d5d"
+    },
+    {
+      "id": "audit-webhook-relay-v6-upload",
+      "label": "Audit webhook relay v6 upload",
+      "path": "badges/audit-webhook-relay-v6-upload.svg",
+      "sha256": "sha256:b50e54ea01928e50ffe3861acc94fa723b87b4ce0bb2fe9560587b4b2a91d84d"
+    },
+    {
+      "id": "deploy-cloudflare-mcp-monitor",
+      "label": "Deploy Cloudflare MCP monitor",
+      "path": "badges/deploy-cloudflare-mcp-monitor.svg",
+      "sha256": "sha256:a2914172a34d77086dff3e4c1afeb5630b849723ad2911e6f0b841160eae93c7"
+    },
+    {
+      "id": "codeql-quality",
+      "label": "CodeQL quality",
+      "path": "badges/codeql-quality.svg",
+      "sha256": "sha256:bd22f87d30d21f61cbf8552f505c0e7c5db29747b5b33ef75b07f0a5368c67d2"
+    },
+    {
+      "id": "codeql-scanning",
+      "label": "CodeQL scanning",
+      "path": "badges/codeql-scanning.svg",
+      "sha256": "sha256:820995d40de5d267928fac7f1b97f98bca28bd1b42aabe7cf5aeb8a959410d0f"
+    },
+    {
+      "id": "dependabot-updates",
+      "label": "Dependabot Updates",
+      "path": "badges/dependabot-updates.svg",
+      "sha256": "sha256:05494336c7d21b3ae8a0b5bb8d81d46a4c4bb0a3b7b1575427cc953b229683c5"
+    }
+  ]
+}
