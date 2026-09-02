@@ -61,7 +61,7 @@
       "id": "browser-qa",
       "label": "Browser QA",
       "path": "badges/browser-qa.svg",
-      "sha256": "sha256:ce2ade50522b4117351045224ee7df25146db6ea6fc5f312668aa947342148ca"
+      "sha256": "sha256:8423e6617d48592787a20b740f665cc70f41a00805ce5df993d626c8752657bc"
     },
     {
       "id": "cloudflare-posture-evidence",
@@ -91,7 +91,7 @@
       "id": "deep-qa",
       "label": "Deep QA",
       "path": "badges/deep-qa.svg",
-      "sha256": "sha256:092de106e4422953b7dc150b540f766613464cac83196ac75c8e47332add4d3f"
+      "sha256": "sha256:850a3fb1d00185babb67320e05c12ebc6eef4b67265181bdf0cf8591b9dfa838"
     },
     {
       "id": "dhi-ci-image-verification",
