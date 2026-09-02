@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/outlook",
-  "sourceSha": "3427b8d4cb1e520d002c53bb240ff9e5352a5eb3",
+  "sourceSha": "35becc0d443f4f29465bd2a4a19bcc5f8b256694",
   "badges": [
     {
       "id": "coverage",
