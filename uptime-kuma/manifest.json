@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/uptime-kuma",
-  "sourceSha": "e7d5669ecee0af4549f7d2d9c9b492436dd8e503",
+  "sourceSha": "423cad619a7155086a5b5a7972932d61162d33d1",
   "badges": [
     {
       "id": "coverage",
@@ -32,6 +32,12 @@
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
       "sha256": "sha256:0730ef4e5987ca5a2aecf1a6a01008f02ee17809adbeda29000a21600c4f9b6d"
+    },
+    {
+      "id": "dhi-maintenance",
+      "label": "DHI maintenance",
+      "path": "badges/dhi-maintenance.svg",
+      "sha256": "sha256:5e04142b8a5394f2745151648177f97dce64e5fd970edcc962d7a5f2e838f08e"
     },
     {
       "id": "lint-and-deploy",
