@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/uptime-kuma",
-  "sourceSha": "3bd990bb3395e8631f9b85de15e8fc8bbd9cb3d9",
+  "sourceSha": "80fc904157b3fc9d261fae674b6b7d2d5d3b7315",
   "badges": [
     {
       "id": "coverage",
