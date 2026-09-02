@@ -1,13 +1,19 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/repo-template",
-  "sourceSha": "48b4ce9ba042988656f16f6db9b32928a7d1a627",
+  "sourceSha": "4d4a3906da2ca5ce2a5b75088e55e7d8361ddd4b",
   "badges": [
     {
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
       "sha256": "sha256:e6d77db92edffc36b18a07f5203f33bd5f0675960aef817eb7205b6bd55ac620"
+    },
+    {
+      "id": "github-code-quality",
+      "label": "GitHub Code Quality",
+      "path": "badges/github-code-quality.svg",
+      "sha256": "sha256:6542f7191855e1f414364bc0779ccfbb0567e1e518b3a4faddfdf2f1ba4bb995"
     },
     {
       "id": "socket",
