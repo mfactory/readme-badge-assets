@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/autodocument",
-  "sourceSha": "df27ac40e4a7f06f809dd4b2296501a05226ee91",
+  "sourceSha": "de30c950a76a04bb72ce0683db3e5d811e0e2d14",
   "badges": [
     {
       "id": "coverage",
@@ -13,7 +13,7 @@
       "id": "deployment",
       "label": "AutoDocument Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:df7432b6addc7222abefebe60c68d6a1ace6b5e328b6622359e4cb439da6fbd7"
+      "sha256": "sha256:b49777885b51eb21ac0a60b750980f9b71b795da746c14720460447bbe7d47b3"
     },
     {
       "id": "socket",
@@ -37,7 +37,7 @@
       "id": "lint-and-deploy",
       "label": "Lint and Deploy",
       "path": "badges/lint-and-deploy.svg",
-      "sha256": "sha256:ded8b44fcd55720a18dd573b1ee2b2690f2367821065322c7df137cbcc364891"
+      "sha256": "sha256:8c1798e6836cdb696505646fadc4aacc0ca56e35ce74bba5ef4e60d2d32b03d3"
     },
     {
       "id": "dhi-security",
