@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "c0f63e479a0c6721a311493118154c9cc956db4e",
+  "sourceSha": "deab4e46fe0c1c4510b4fa95b8ad4ca4f02e70a6",
   "badges": [
     {
       "id": "coverage",
@@ -13,7 +13,7 @@
       "id": "deployment",
       "label": "Site Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:99bd4faefe152b1155e567052b100d7c54e81463f320a6c5a6584c4c37b435ce"
+      "sha256": "sha256:a69f521fe1b2ecbe648c2faf7d2321682c2ffee64d51aec8091059be90027416"
     },
     {
       "id": "health",
@@ -37,7 +37,7 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:d4d396764db844206bb5f34cdce15b08b993044ee69560d7497abbdcf8e97b15"
+      "sha256": "sha256:3d62224c997161700503aaffd4c4b4d6eece1be7120be828d2b312e1321619f6"
     },
     {
       "id": "cloudflare-security-controls",
