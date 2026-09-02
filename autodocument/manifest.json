@@ -13,7 +13,7 @@
       "id": "deployment",
       "label": "AutoDocument Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:b49777885b51eb21ac0a60b750980f9b71b795da746c14720460447bbe7d47b3"
+      "sha256": "sha256:df7432b6addc7222abefebe60c68d6a1ace6b5e328b6622359e4cb439da6fbd7"
     },
     {
       "id": "socket",
