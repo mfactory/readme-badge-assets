@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mortgage-app",
-  "sourceSha": "809e646edaa856e9cd9faae36d6f730c99fa72c3",
+  "sourceSha": "914da64516ff76912f1a2244850223f30d66499c",
   "badges": [
     {
       "id": "coverage",
@@ -61,7 +61,7 @@
       "id": "browser-qa",
       "label": "Browser QA",
       "path": "badges/browser-qa.svg",
-      "sha256": "sha256:8423e6617d48592787a20b740f665cc70f41a00805ce5df993d626c8752657bc"
+      "sha256": "sha256:ce2ade50522b4117351045224ee7df25146db6ea6fc5f312668aa947342148ca"
     },
     {
       "id": "cloudflare-posture-evidence",
@@ -91,7 +91,13 @@
       "id": "deep-qa",
       "label": "Deep QA",
       "path": "badges/deep-qa.svg",
-      "sha256": "sha256:850a3fb1d00185babb67320e05c12ebc6eef4b67265181bdf0cf8591b9dfa838"
+      "sha256": "sha256:092de106e4422953b7dc150b540f766613464cac83196ac75c8e47332add4d3f"
+    },
+    {
+      "id": "dhi-ci-image-verification",
+      "label": "DHI CI Image Verification",
+      "path": "badges/dhi-ci-image-verification.svg",
+      "sha256": "sha256:528797a91f246b85376164cd4ce722449a078500ccb2bb7bdb3582ed96d73356"
     },
     {
       "id": "deploy-satellite-worker",
@@ -121,7 +127,7 @@
       "id": "production-submit-contract-smoke",
       "label": "Production Submit Contract Smoke",
       "path": "badges/production-submit-contract-smoke.svg",
-      "sha256": "sha256:b07682a623a9596f071b16f15b767934a41439edda2cf47b2736d8e945f11a9f"
+      "sha256": "sha256:13c8c676ef3d10a48b24e14d946e9c3d86e71abd90d2b58f6177934a18f356d2"
     },
     {
       "id": "security-evidence",
