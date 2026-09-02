@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/infrastructure",
-  "sourceSha": "ca7f2118229559aaa94061470a9e24019cb2011e",
+  "sourceSha": "81b49257d1933813ca62aadb6808a511b2372d82",
   "badges": [
     {
       "id": "coverage",
@@ -40,12 +40,6 @@
       "sha256": "sha256:c21a32b89c1bf34695b1d8c0e110e8cd3f1624a43fe14e7d729f47257b71c491"
     },
     {
-      "id": "snyk",
-      "label": "Snyk",
-      "path": "badges/snyk.svg",
-      "sha256": "sha256:e9f89cb0db183d3a919967e91e3ef0b8c58560662cff68586e1f7b89fab2b260"
-    },
-    {
       "id": "gitleaks",
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
@@ -59,45 +53,39 @@
     },
     {
       "id": "audit-failed-webhook-relay-upload",
-      "label": "Audit failed webhook relay upload",
+      "label": "Audit Failed Webhook Relay Upload",
       "path": "badges/audit-failed-webhook-relay-upload.svg",
-      "sha256": "sha256:cbe9429640d381d6234de4ddac35274c56ea82030dca3c7afb46fdf78400ae4b"
+      "sha256": "sha256:f0cd0da9496c37d3cc7899e136cd577dbebb9e602ceaa9785c9666a414bde2f3"
     },
     {
       "id": "audit-webhook-relay-orphan",
-      "label": "Audit webhook relay orphan",
+      "label": "Audit Webhook Relay Orphan",
       "path": "badges/audit-webhook-relay-orphan.svg",
-      "sha256": "sha256:deab18c1fc35cffff8a1f1c31a479b45e4529ef21ce1d5aa1e17db3107b73d5d"
+      "sha256": "sha256:5ef140efada9781048111184cdbb9ad789f89f1a29811dc9ccb8e6b560473705"
     },
     {
       "id": "audit-webhook-relay-v6-upload",
-      "label": "Audit webhook relay v6 upload",
+      "label": "Audit Webhook Relay V6 Upload",
       "path": "badges/audit-webhook-relay-v6-upload.svg",
-      "sha256": "sha256:b50e54ea01928e50ffe3861acc94fa723b87b4ce0bb2fe9560587b4b2a91d84d"
+      "sha256": "sha256:c618cb8984ac092964a506ab0913ab084d00d4c9e8bfabb851cc9f7477d52d52"
     },
     {
       "id": "deploy-cloudflare-mcp-monitor",
-      "label": "Deploy Cloudflare MCP monitor",
+      "label": "Deploy Cloudflare MCP Monitor",
       "path": "badges/deploy-cloudflare-mcp-monitor.svg",
-      "sha256": "sha256:a2914172a34d77086dff3e4c1afeb5630b849723ad2911e6f0b841160eae93c7"
+      "sha256": "sha256:82c82ed74633715a4f37065388a4407e4553ab43c40e1beab85907ed68390694"
     },
     {
       "id": "codeql-quality",
-      "label": "CodeQL quality",
+      "label": "GitHub Code Quality",
       "path": "badges/codeql-quality.svg",
-      "sha256": "sha256:bd22f87d30d21f61cbf8552f505c0e7c5db29747b5b33ef75b07f0a5368c67d2"
+      "sha256": "sha256:8f15915ec8bbf25fb554f55ad96dc903ec413098b5214db87fe38efc38bfe7da"
     },
     {
       "id": "codeql-scanning",
-      "label": "CodeQL scanning",
+      "label": "CodeQL Scanning",
       "path": "badges/codeql-scanning.svg",
-      "sha256": "sha256:820995d40de5d267928fac7f1b97f98bca28bd1b42aabe7cf5aeb8a959410d0f"
-    },
-    {
-      "id": "dependabot-updates",
-      "label": "Dependabot Updates",
-      "path": "badges/dependabot-updates.svg",
-      "sha256": "sha256:05494336c7d21b3ae8a0b5bb8d81d46a4c4bb0a3b7b1575427cc953b229683c5"
+      "sha256": "sha256:16f85afae6850bb84c2e92b8de06c3431556d905d46114fae8229d1cd9dacd33"
     }
   ]
 }
