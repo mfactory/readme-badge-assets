@@ -13,7 +13,7 @@
       "id": "deployment",
       "label": "AutoDocument Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:b49777885b51eb21ac0a60b750980f9b71b795da746c14720460447bbe7d47b3"
+      "sha256": "sha256:df7432b6addc7222abefebe60c68d6a1ace6b5e328b6622359e4cb439da6fbd7"
     },
     {
       "id": "socket",
@@ -43,7 +43,7 @@
       "id": "dhi-security",
       "label": "DHI Security",
       "path": "badges/dhi-security.svg",
-      "sha256": "sha256:418f0ba7e739f1c196bbbce3138ee2c25981258680804f770b29c9c67db17133"
+      "sha256": "sha256:a0c21bf704878f9552443309d83e70ba902d059745b3611d220be9a18c520fea"
     },
     {
       "id": "codeql-quality",
