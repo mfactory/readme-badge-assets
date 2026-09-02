@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/infrastructure",
-  "sourceSha": "675316aa25f3db2c1b93a99e732019c0870ec763",
+  "sourceSha": "967fae29abd996f355eb04e6e10cbb5fef2660ed",
   "badges": [
     {
       "id": "coverage",
