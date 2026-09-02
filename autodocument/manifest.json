@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/autodocument",
-  "sourceSha": "fb53a93f3a1f017ed9636ba32215897563b71a70",
+  "sourceSha": "e0e1a516dbdfbc5b7483622667a81376d4e450fb",
   "badges": [
     {
       "id": "coverage",
@@ -13,7 +13,7 @@
       "id": "deployment",
       "label": "AutoDocument Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:df7432b6addc7222abefebe60c68d6a1ace6b5e328b6622359e4cb439da6fbd7"
+      "sha256": "sha256:b49777885b51eb21ac0a60b750980f9b71b795da746c14720460447bbe7d47b3"
     },
     {
       "id": "socket",
