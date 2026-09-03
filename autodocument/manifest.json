@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/autodocument",
-  "sourceSha": "90bc8c1006aa6b6dabedbda1ddf7c1951c5e1ff3",
+  "sourceSha": "9cefcf498f7283f61b70fef542786576e85956c6",
   "badges": [
     {
       "id": "coverage",
@@ -31,19 +31,19 @@
       "id": "gitleaks",
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
-      "sha256": "sha256:0730ef4e5987ca5a2aecf1a6a01008f02ee17809adbeda29000a21600c4f9b6d"
+      "sha256": "sha256:a2218b07ff8a1691cd17852a342c2c2d08d6c64a5a4e8551c0f8e2d4aaa78a68"
     },
     {
       "id": "lint-and-deploy",
       "label": "Lint and Deploy",
       "path": "badges/lint-and-deploy.svg",
-      "sha256": "sha256:8c1798e6836cdb696505646fadc4aacc0ca56e35ce74bba5ef4e60d2d32b03d3"
+      "sha256": "sha256:8a32571f511b9ad46a4ec51aae376480486f6f0279390a3c8d521780bf0319c0"
     },
     {
       "id": "dhi-security",
       "label": "DHI Security",
       "path": "badges/dhi-security.svg",
-      "sha256": "sha256:418f0ba7e739f1c196bbbce3138ee2c25981258680804f770b29c9c67db17133"
+      "sha256": "sha256:3d22a0b12cfcdfa8cd25e39d7e3a24fa5d6db66f5c58939dab55be6662f27332"
     },
     {
       "id": "codeql-quality",
