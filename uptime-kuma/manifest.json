@@ -43,7 +43,7 @@
       "id": "lint-and-deploy",
       "label": "Lint and Deploy",
       "path": "badges/lint-and-deploy.svg",
-      "sha256": "sha256:8c1798e6836cdb696505646fadc4aacc0ca56e35ce74bba5ef4e60d2d32b03d3"
+      "sha256": "sha256:8a32571f511b9ad46a4ec51aae376480486f6f0279390a3c8d521780bf0319c0"
     },
     {
       "id": "validate",
