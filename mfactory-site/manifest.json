@@ -37,13 +37,13 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:d4d396764db844206bb5f34cdce15b08b993044ee69560d7497abbdcf8e97b15"
+      "sha256": "sha256:ff03e01a53c4a5aaa2fff1bcb0fcf03de31bd82e83d4044a8e22c364f1c2a927"
     },
     {
       "id": "cloudflare-security-controls",
       "label": "Cloudflare Security Controls",
       "path": "badges/cloudflare-security-controls.svg",
-      "sha256": "sha256:8043db143f25904aca7d6b908cadc1e1bf60ed8b6a709068f0cbb897e449b540"
+      "sha256": "sha256:ab5f97de701c9945fb8fc8bfd2f66c9ad779397ca3f16592ef9f84a4043723d0"
     },
     {
       "id": "codeql-quality",
@@ -67,7 +67,7 @@
       "id": "dhi-canary",
       "label": "DHI Canary",
       "path": "badges/dhi-canary.svg",
-      "sha256": "sha256:a0e33344d055ccd34e24da0632bf3628272b8264872f4b7db91a2d1435e1d868"
+      "sha256": "sha256:cf27bb48769204b680e8510b7c58ba3ab86ca90eb8936641fe18fd88022b72c4"
     },
     {
       "id": "mutation-assurance",
@@ -79,7 +79,7 @@
       "id": "production-api-security-attestation",
       "label": "Production API Security Attestation",
       "path": "badges/production-api-security-attestation.svg",
-      "sha256": "sha256:d0a730277529ae935fa519afd194a7192a66160d9e97a57cd91358176316a81f"
+      "sha256": "sha256:f0b39960a9c03b2500496143fdceac3fe0f6f02131f7894b54e4c3dca0fa2e1e"
     },
     {
       "id": "production-observability-smoke",
@@ -91,7 +91,7 @@
       "id": "production-paired-rollback",
       "label": "Production Paired Rollback",
       "path": "badges/production-paired-rollback.svg",
-      "sha256": "sha256:21a83bb76a9395603aa7898096d0fb7f8f9c297e1a751dd09ec5cda439a95fe8"
+      "sha256": "sha256:f31fd4c6e228cd9280dc88e81c9d871d1f365233b5116e1f83b73a8190319628"
     }
   ]
 }
