@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/infrastructure",
-  "sourceSha": "2986e78478c82b8a02224e840ee41b0a88402210",
+  "sourceSha": "67db55098ca3a2f35c4e3f8974b444e205acbe92",
   "badges": [
     {
       "id": "coverage",
@@ -55,25 +55,25 @@
       "id": "audit-failed-webhook-relay-upload",
       "label": "Audit Failed Webhook Relay Upload",
       "path": "badges/audit-failed-webhook-relay-upload.svg",
-      "sha256": "sha256:f0cd0da9496c37d3cc7899e136cd577dbebb9e602ceaa9785c9666a414bde2f3"
+      "sha256": "sha256:6ccbc48ce3a5abb04034c31fbdbacbde57d53245e8964e51dfb67062a26fc738"
     },
     {
       "id": "audit-webhook-relay-orphan",
       "label": "Audit Webhook Relay Orphan",
       "path": "badges/audit-webhook-relay-orphan.svg",
-      "sha256": "sha256:5ef140efada9781048111184cdbb9ad789f89f1a29811dc9ccb8e6b560473705"
+      "sha256": "sha256:d304549c3e7a2f033627412fb3171df0e9b43b42308700c24507daa10e29b6d8"
     },
     {
       "id": "audit-webhook-relay-v6-upload",
       "label": "Audit Webhook Relay V6 Upload",
       "path": "badges/audit-webhook-relay-v6-upload.svg",
-      "sha256": "sha256:c618cb8984ac092964a506ab0913ab084d00d4c9e8bfabb851cc9f7477d52d52"
+      "sha256": "sha256:fa5de139b67723a7c0f48a2d45bba1bf178f2ed08c2527917e998fa32e315707"
     },
     {
       "id": "deploy-cloudflare-mcp-monitor",
       "label": "Deploy Cloudflare MCP Monitor",
       "path": "badges/deploy-cloudflare-mcp-monitor.svg",
-      "sha256": "sha256:82c82ed74633715a4f37065388a4407e4553ab43c40e1beab85907ed68390694"
+      "sha256": "sha256:8fbd9f7457abbfd56fd84d91b0d6dfb16e5d9324c575c2c4ed0a7377ae1f7aa3"
     },
     {
       "id": "codeql-quality",
