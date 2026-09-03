@@ -49,13 +49,13 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:d4d396764db844206bb5f34cdce15b08b993044ee69560d7497abbdcf8e97b15"
+      "sha256": "sha256:ff03e01a53c4a5aaa2fff1bcb0fcf03de31bd82e83d4044a8e22c364f1c2a927"
     },
     {
       "id": "admin-access-lifecycle",
       "label": "Admin Access Lifecycle",
       "path": "badges/admin-access-lifecycle.svg",
-      "sha256": "sha256:4c0d02be90cf6c278fd77075538781146c0639e4228cf684267a92a4a7f14b1c"
+      "sha256": "sha256:9b21594dca00a51b9de10da9ebf2f771b77d357417c289132bb551a3dfdce24d"
     },
     {
       "id": "browser-qa",
@@ -67,7 +67,7 @@
       "id": "cloudflare-posture-evidence",
       "label": "Cloudflare Posture Evidence",
       "path": "badges/cloudflare-posture-evidence.svg",
-      "sha256": "sha256:70f22c57eae23ac16bca42cf551be0dc48944f1d575430438b80e862bcfb5fd9"
+      "sha256": "sha256:ba250f1066a6fd718d36064738c6dfd381569bac6c20bf9419ebd47f95402ecf"
     },
     {
       "id": "codeql-quality",
@@ -85,7 +85,7 @@
       "id": "compliance-ops-evidence",
       "label": "Compliance Ops Evidence",
       "path": "badges/compliance-ops-evidence.svg",
-      "sha256": "sha256:5adfcb9911b30cf56f07c701b8eea61b82f4884c65b8bc424f2b333745c53afc"
+      "sha256": "sha256:5541031995b6e31ccf97222fbd777541723ddb21d0f147a58d965967758b3d6a"
     },
     {
       "id": "deep-qa",
@@ -97,43 +97,43 @@
       "id": "dhi-ci-image-verification",
       "label": "DHI CI Image Verification",
       "path": "badges/dhi-ci-image-verification.svg",
-      "sha256": "sha256:528797a91f246b85376164cd4ce722449a078500ccb2bb7bdb3582ed96d73356"
+      "sha256": "sha256:92de84682e7bd6d5d344dfd7b88cd0d0a3170d6ef467a825e52470ab04ee164c"
     },
     {
       "id": "deploy-satellite-worker",
       "label": "Deploy Satellite Worker",
       "path": "badges/deploy-satellite-worker.svg",
-      "sha256": "sha256:3e5e2a9e25021e690aa30a9d7a8c9ddf4d6d00c85f739be07620edab6d3a38eb"
+      "sha256": "sha256:a70183837b1d77dddc0b89f1c32db0b11fe457ce2db3539a756a160029a0ee10"
     },
     {
       "id": "deployment-health",
       "label": "Deployment Health",
       "path": "badges/deployment-health.svg",
-      "sha256": "sha256:3b6fa1079940aaf836c091086c888d406d16e7307ff1122662aa4d3064f4b887"
+      "sha256": "sha256:2d4523ac8a881ef64c10e4d4ffa19fc05cadb4b992305806ce8b29c561eabd86"
     },
     {
       "id": "pdf-archive-smoke",
       "label": "PDF Archive Smoke",
       "path": "badges/pdf-archive-smoke.svg",
-      "sha256": "sha256:89e5502343aeb5a98c1c375f492c58604c7353d0ae0c9bb077426e8aa3f00528"
+      "sha256": "sha256:b894f25809170f73cd70a475966088edf6f4a698739ee6ace21ad438e24ca009"
     },
     {
       "id": "production-matrix-smoke",
       "label": "Production Matrix Smoke",
       "path": "badges/production-matrix-smoke.svg",
-      "sha256": "sha256:443faa6b98913217080f3b364bfad67a85a1c1b766877dd305cc36786cd41d42"
+      "sha256": "sha256:7dd6ffe459daa4089d34a87642b758aee5656d232ab3625132ce39e58ae84d30"
     },
     {
       "id": "production-submit-contract-smoke",
       "label": "Production Submit Contract Smoke",
       "path": "badges/production-submit-contract-smoke.svg",
-      "sha256": "sha256:b07682a623a9596f071b16f15b767934a41439edda2cf47b2736d8e945f11a9f"
+      "sha256": "sha256:c47cb730f9014a75cd8463138c64bf4169331011ab8bc420df974a95a87765fe"
     },
     {
       "id": "security-evidence",
       "label": "Security Evidence",
       "path": "badges/security-evidence.svg",
-      "sha256": "sha256:4c345c57a620df139cc80d74a6d6f70fa5dfab0218c52c761397d66aa1937351"
+      "sha256": "sha256:85e144b29b4de15d8d239b7633255498490a3ff9f49b56eb86bffcb9f36e9aaf"
     }
   ]
 }
