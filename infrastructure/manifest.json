@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/infrastructure",
-  "sourceSha": "c6c35eb315e1a7c42ad4d6fdecb1a98c8d573acf",
+  "sourceSha": "b266de1fb4a6cbb44dd7729597f099d94749d406",
   "badges": [
     {
       "id": "coverage",
@@ -49,7 +49,7 @@
       "id": "validate",
       "label": "Validate",
       "path": "badges/validate.svg",
-      "sha256": "sha256:7d187f73fe97a3c6d3758851fa379dc4fafc12ff7743e442e7677a3bae3c817a"
+      "sha256": "sha256:91c2e565056b70ac2f8e4e4f34bff4c55236723c62d0718c638de1be6ac9848a"
     },
     {
       "id": "audit-failed-webhook-relay-upload",
