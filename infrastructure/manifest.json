@@ -31,7 +31,7 @@
       "id": "mcp-monitor",
       "label": "MCP Monitor",
       "path": "badges/mcp-monitor.svg",
-      "sha256": "sha256:a609001ca0673c3a1ec97c9c42bf1502ad5f09cd5530e5444a6a2ee057fc8535"
+      "sha256": "sha256:98bdf03952eb290a1016a4a20bb7ab1fdee8a8aa3166a75556be429f709de195"
     },
     {
       "id": "socket",
