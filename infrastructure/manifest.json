@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/infrastructure",
-  "sourceSha": "d24d19179f8a4f1294726a0a31d8c691532d4082",
+  "sourceSha": "1f2a428a5d1bd13fbb003387acd561abf55cb871",
   "badges": [
     {
       "id": "coverage",
@@ -73,7 +73,7 @@
       "id": "deploy-cloudflare-mcp-monitor",
       "label": "Deploy Cloudflare MCP Monitor",
       "path": "badges/deploy-cloudflare-mcp-monitor.svg",
-      "sha256": "sha256:8fbd9f7457abbfd56fd84d91b0d6dfb16e5d9324c575c2c4ed0a7377ae1f7aa3"
+      "sha256": "sha256:82c82ed74633715a4f37065388a4407e4553ab43c40e1beab85907ed68390694"
     },
     {
       "id": "codeql-quality",
