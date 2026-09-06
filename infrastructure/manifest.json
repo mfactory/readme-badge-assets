@@ -1,91 +1,79 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/infrastructure",
-  "sourceSha": "1f2a428a5d1bd13fbb003387acd561abf55cb871",
+  "sourceSha": "7fca222d7ca8ffe59026209d135e4b817ae789c6",
   "badges": [
     {
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:457160ad7d55d2a3ae36f0e7fb90fe81df60ad9d08b198bc5a5902d4a67da3b1"
+      "sha256": "sha256:a83365b0b4e46111d42ec5b4a2447f255778131d2ed304e66c7b379458ef954c"
+    },
+    {
+      "id": "github-code-quality",
+      "label": "GitHub Code Quality",
+      "path": "badges/github-code-quality.svg",
+      "sha256": "sha256:3cecb409922adcd1b8c66e20ffb6ffc6958d0f3c45c5cbb0db793f4b132db946"
     },
     {
       "id": "mcp-deployment",
       "label": "MCP Deployment",
       "path": "badges/mcp-deployment.svg",
-      "sha256": "sha256:427fa76831cb4232b321868990efc02a38200ea7a1d07151a1f22d7158e3c796"
+      "sha256": "sha256:22966a2f05478cd1888605749040dbeacbd4d9f934153da910bc33f43bc27069"
     },
     {
       "id": "relay-health",
       "label": "Relay Health",
       "path": "badges/relay-health.svg",
-      "sha256": "sha256:c29ef45e5182527b83db8d10871847a99f368f5a7220656cb79ad73e617a0cef"
+      "sha256": "sha256:ca517e09827d57b4bd64ede4611d06c586449251cb82dc77a2693d8982d81bbd"
     },
     {
       "id": "dockhand-route",
       "label": "Dockhand Route",
       "path": "badges/dockhand-route.svg",
-      "sha256": "sha256:df22b3924656aef83d0323acd32b70515fa6dc932efafd16b1db9235cb6e183c"
+      "sha256": "sha256:a8a1f5b3c59d754744a037f2767409512a3e6d0585024d7e6b6382ee32919047"
     },
     {
       "id": "mcp-monitor",
       "label": "MCP Monitor",
       "path": "badges/mcp-monitor.svg",
-      "sha256": "sha256:98bdf03952eb290a1016a4a20bb7ab1fdee8a8aa3166a75556be429f709de195"
+      "sha256": "sha256:e2bc27d30caa44aa0c225b5d7fafac841ad0932925d5a74a98c1526bf987f6e8"
     },
     {
       "id": "socket",
       "label": "Socket",
       "path": "badges/socket.svg",
-      "sha256": "sha256:c21a32b89c1bf34695b1d8c0e110e8cd3f1624a43fe14e7d729f47257b71c491"
+      "sha256": "sha256:181d1525abb74c5a5801dc45e1f6c26b945cb9f16ed18ff8abcdf4333d618708"
     },
     {
       "id": "gitleaks",
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
-      "sha256": "sha256:a2218b07ff8a1691cd17852a342c2c2d08d6c64a5a4e8551c0f8e2d4aaa78a68"
+      "sha256": "sha256:4389d19d7ab9ec2ef96da28cfa779d2a80c9585f23f7379cc23cb7c1e3b3f0c1"
     },
     {
       "id": "validate",
       "label": "Validate",
       "path": "badges/validate.svg",
-      "sha256": "sha256:91c2e565056b70ac2f8e4e4f34bff4c55236723c62d0718c638de1be6ac9848a"
-    },
-    {
-      "id": "audit-failed-webhook-relay-upload",
-      "label": "Audit Failed Webhook Relay Upload",
-      "path": "badges/audit-failed-webhook-relay-upload.svg",
-      "sha256": "sha256:6ccbc48ce3a5abb04034c31fbdbacbde57d53245e8964e51dfb67062a26fc738"
-    },
-    {
-      "id": "audit-webhook-relay-orphan",
-      "label": "Audit Webhook Relay Orphan",
-      "path": "badges/audit-webhook-relay-orphan.svg",
-      "sha256": "sha256:d304549c3e7a2f033627412fb3171df0e9b43b42308700c24507daa10e29b6d8"
-    },
-    {
-      "id": "audit-webhook-relay-v6-upload",
-      "label": "Audit Webhook Relay V6 Upload",
-      "path": "badges/audit-webhook-relay-v6-upload.svg",
-      "sha256": "sha256:fa5de139b67723a7c0f48a2d45bba1bf178f2ed08c2527917e998fa32e315707"
+      "sha256": "sha256:11290a72c5e0cdae554b1bfb39cb90c63e919f2518b5fdbfbdb476513fd96a62"
     },
     {
       "id": "deploy-cloudflare-mcp-monitor",
       "label": "Deploy Cloudflare MCP Monitor",
       "path": "badges/deploy-cloudflare-mcp-monitor.svg",
-      "sha256": "sha256:82c82ed74633715a4f37065388a4407e4553ab43c40e1beab85907ed68390694"
+      "sha256": "sha256:69cfa4225e4446d12f0eaf279f52376c6458c81eae530d125a8abd28173673f8"
     },
     {
-      "id": "codeql-quality",
-      "label": "GitHub Code Quality",
-      "path": "badges/codeql-quality.svg",
-      "sha256": "sha256:8f15915ec8bbf25fb554f55ad96dc903ec413098b5214db87fe38efc38bfe7da"
+      "id": "code-quality-scan",
+      "label": "Code Quality Scan",
+      "path": "badges/code-quality-scan.svg",
+      "sha256": "sha256:7d55a4639d897aad1c51c2aa2c000fee54482bbe5d613f1a578a281e6624236f"
     },
     {
-      "id": "codeql-scanning",
-      "label": "CodeQL Scanning",
-      "path": "badges/codeql-scanning.svg",
-      "sha256": "sha256:16f85afae6850bb84c2e92b8de06c3431556d905d46114fae8229d1cd9dacd33"
+      "id": "dependabot-updates",
+      "label": "Dependabot Updates",
+      "path": "badges/dependabot-updates.svg",
+      "sha256": "sha256:90dd2b716dc990467653cfd1b16f2f2648a5d15a6df943cdba95a49dab91fb0f"
     }
   ]
 }
