@@ -1,73 +1,73 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/autodocument",
-  "sourceSha": "8ad58f2194adb83e988ac2722ad22708f0bbebab",
+  "sourceSha": "50a7736e411737238f8ab63eb51d708ba3f42bac",
   "badges": [
     {
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:457160ad7d55d2a3ae36f0e7fb90fe81df60ad9d08b198bc5a5902d4a67da3b1"
+      "sha256": "sha256:a83365b0b4e46111d42ec5b4a2447f255778131d2ed304e66c7b379458ef954c"
+    },
+    {
+      "id": "github-code-quality",
+      "label": "GitHub Code Quality",
+      "path": "badges/github-code-quality.svg",
+      "sha256": "sha256:3cecb409922adcd1b8c66e20ffb6ffc6958d0f3c45c5cbb0db793f4b132db946"
     },
     {
       "id": "deployment",
       "label": "AutoDocument Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:b49777885b51eb21ac0a60b750980f9b71b795da746c14720460447bbe7d47b3"
+      "sha256": "sha256:f6b6345dc0f0e4fbdb75651a93d957ecf042951186f31a81369d5d8c79513b0f"
     },
     {
       "id": "socket",
       "label": "Socket",
       "path": "badges/socket.svg",
-      "sha256": "sha256:c21a32b89c1bf34695b1d8c0e110e8cd3f1624a43fe14e7d729f47257b71c491"
+      "sha256": "sha256:181d1525abb74c5a5801dc45e1f6c26b945cb9f16ed18ff8abcdf4333d618708"
     },
     {
       "id": "snyk",
       "label": "Snyk",
       "path": "badges/snyk.svg",
-      "sha256": "sha256:e9f89cb0db183d3a919967e91e3ef0b8c58560662cff68586e1f7b89fab2b260"
+      "sha256": "sha256:19bf15f98fe7327dd76c41fe9e6c21eef8464231ce73b815cb6d0626579b9300"
     },
     {
       "id": "gitleaks",
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
-      "sha256": "sha256:a2218b07ff8a1691cd17852a342c2c2d08d6c64a5a4e8551c0f8e2d4aaa78a68"
+      "sha256": "sha256:0fb801f71d9b8c0c7fc3eb99bbcfd3a73d189e8b2d589813e57bd2e907c5406c"
     },
     {
       "id": "lint-and-deploy",
-      "label": "Lint and Deploy",
+      "label": "Lint And Deploy",
       "path": "badges/lint-and-deploy.svg",
-      "sha256": "sha256:8c1798e6836cdb696505646fadc4aacc0ca56e35ce74bba5ef4e60d2d32b03d3"
+      "sha256": "sha256:7fced10ac35713c936e7b0804109a5c1b29082ef7097ac80c5c690e0a2bb9c78"
     },
     {
       "id": "dhi-security",
       "label": "DHI Security",
       "path": "badges/dhi-security.svg",
-      "sha256": "sha256:418f0ba7e739f1c196bbbce3138ee2c25981258680804f770b29c9c67db17133"
+      "sha256": "sha256:ee3e435d8804f7ac8c541bf96752f13b0daa486695513e8926a056ac841c459a"
     },
     {
-      "id": "codeql-quality",
-      "label": "CodeQL quality",
-      "path": "badges/codeql-quality.svg",
-      "sha256": "sha256:bd22f87d30d21f61cbf8552f505c0e7c5db29747b5b33ef75b07f0a5368c67d2"
-    },
-    {
-      "id": "codeql-scanning",
-      "label": "CodeQL scanning",
-      "path": "badges/codeql-scanning.svg",
-      "sha256": "sha256:820995d40de5d267928fac7f1b97f98bca28bd1b42aabe7cf5aeb8a959410d0f"
+      "id": "code-quality-scan",
+      "label": "Code Quality Scan",
+      "path": "badges/code-quality-scan.svg",
+      "sha256": "sha256:7d55a4639d897aad1c51c2aa2c000fee54482bbe5d613f1a578a281e6624236f"
     },
     {
       "id": "dependabot-updates",
       "label": "Dependabot Updates",
       "path": "badges/dependabot-updates.svg",
-      "sha256": "sha256:05494336c7d21b3ae8a0b5bb8d81d46a4c4bb0a3b7b1575427cc953b229683c5"
+      "sha256": "sha256:90dd2b716dc990467653cfd1b16f2f2648a5d15a6df943cdba95a49dab91fb0f"
     },
     {
       "id": "dependency-graph",
       "label": "Dependency Graph",
       "path": "badges/dependency-graph.svg",
-      "sha256": "sha256:dab07affdf22d274447622d05730c26650565e883347fa6c434d284f714c62ae"
+      "sha256": "sha256:7850859b096567c141b921610784d356eb9daff1d46cd99ef40aff447ed487e2"
     }
   ]
 }
