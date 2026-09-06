@@ -1,97 +1,103 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "ea3f23aa581480b0e4bed6dc58733fa7385ff4e6",
+  "sourceSha": "307276575f683c3e15b312c500c794f6e43bab45",
   "badges": [
     {
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:457160ad7d55d2a3ae36f0e7fb90fe81df60ad9d08b198bc5a5902d4a67da3b1"
+      "sha256": "sha256:0f68aa960a91b0d4b0c4521a23e320816b97fb82c6f4d633e3a9b4923784ad7b"
+    },
+    {
+      "id": "github-code-quality",
+      "label": "GitHub Code Quality",
+      "path": "badges/github-code-quality.svg",
+      "sha256": "sha256:3cecb409922adcd1b8c66e20ffb6ffc6958d0f3c45c5cbb0db793f4b132db946"
     },
     {
       "id": "deployment",
       "label": "Site Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:a69f521fe1b2ecbe648c2faf7d2321682c2ffee64d51aec8091059be90027416"
+      "sha256": "sha256:9d54b68f5390d45c62c1421026ac43a6f47a2ab19ffab11be9b9d16f5e8ce9be"
     },
     {
       "id": "health",
       "label": "Health",
       "path": "badges/health.svg",
-      "sha256": "sha256:6923d29ec36305fddd17d20d105c8f80103b24fa5dc8066f4e362c76ad205db7"
+      "sha256": "sha256:dbf3d4bb648e920ba7d3dd4941776befe6e55d5b44fc8b02c0586a1644654856"
     },
     {
       "id": "socket",
       "label": "Socket",
       "path": "badges/socket.svg",
-      "sha256": "sha256:c21a32b89c1bf34695b1d8c0e110e8cd3f1624a43fe14e7d729f47257b71c491"
+      "sha256": "sha256:181d1525abb74c5a5801dc45e1f6c26b945cb9f16ed18ff8abcdf4333d618708"
     },
     {
       "id": "gitleaks",
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
-      "sha256": "sha256:a2218b07ff8a1691cd17852a342c2c2d08d6c64a5a4e8551c0f8e2d4aaa78a68"
+      "sha256": "sha256:0fb801f71d9b8c0c7fc3eb99bbcfd3a73d189e8b2d589813e57bd2e907c5406c"
     },
     {
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:d4d396764db844206bb5f34cdce15b08b993044ee69560d7497abbdcf8e97b15"
+      "sha256": "sha256:ce32004c0d02dcdf2a22a838f1f8ac6cdcbc6b946a0fb75fbd55c8bfb8e6cab5"
     },
     {
       "id": "cloudflare-security-controls",
       "label": "Cloudflare Security Controls",
       "path": "badges/cloudflare-security-controls.svg",
-      "sha256": "sha256:8043db143f25904aca7d6b908cadc1e1bf60ed8b6a709068f0cbb897e449b540"
+      "sha256": "sha256:6e2b1f2c63a2ee087b7358119a58a12c1396396efaac4df3af8c02bfc4fe18e7"
     },
     {
-      "id": "codeql-quality",
-      "label": "GitHub Code Quality",
-      "path": "badges/codeql-quality.svg",
-      "sha256": "sha256:6542f7191855e1f414364bc0779ccfbb0567e1e518b3a4faddfdf2f1ba4bb995"
-    },
-    {
-      "id": "codeql-scanning",
-      "label": "CodeQL scanning",
-      "path": "badges/codeql-scanning.svg",
-      "sha256": "sha256:820995d40de5d267928fac7f1b97f98bca28bd1b42aabe7cf5aeb8a959410d0f"
+      "id": "code-quality-scan",
+      "label": "Code Quality Scan",
+      "path": "badges/code-quality-scan.svg",
+      "sha256": "sha256:7d55a4639d897aad1c51c2aa2c000fee54482bbe5d613f1a578a281e6624236f"
     },
     {
       "id": "content-governance",
       "label": "Content Governance",
       "path": "badges/content-governance.svg",
-      "sha256": "sha256:aebb8451c51b8b5355711b0f7a2e5133dff31ffd2848a446f21ad81caad6b5d3"
+      "sha256": "sha256:3a7b8015892d5b5e4da574e812157ee0f48028ac86991cdc38e7608022e9bc8b"
     },
     {
       "id": "dhi-canary",
       "label": "DHI Canary",
       "path": "badges/dhi-canary.svg",
-      "sha256": "sha256:a0e33344d055ccd34e24da0632bf3628272b8264872f4b7db91a2d1435e1d868"
+      "sha256": "sha256:42796323af0e92ae5c251d408ccf6ff16453cda1f8f00f09eba48162fdafd463"
     },
     {
       "id": "mutation-assurance",
       "label": "Mutation Assurance",
       "path": "badges/mutation-assurance.svg",
-      "sha256": "sha256:8c29c737a8f3aa58dcf7280ea0f3904a16ba5b81e93d2660f95d8d30bacefa99"
+      "sha256": "sha256:64b5eea8bfdfc3be63e2b23fc4cdbf4c912de91dc7e8df7aca238e8559e13b30"
     },
     {
       "id": "production-api-security-attestation",
       "label": "Production API Security Attestation",
       "path": "badges/production-api-security-attestation.svg",
-      "sha256": "sha256:d0a730277529ae935fa519afd194a7192a66160d9e97a57cd91358176316a81f"
+      "sha256": "sha256:09c8a9793fcc85d2c13d8144f5796886fd995cbebe2f7101f6837730e337b9ed"
     },
     {
       "id": "production-observability-smoke",
       "label": "Production Observability Smoke",
       "path": "badges/production-observability-smoke.svg",
-      "sha256": "sha256:ed01847cc20690044652f1b29fb7844f4e8e8be259ee63c9ce5c72546ed53733"
+      "sha256": "sha256:e919d1c0fe2bd0433e647b7472d032837530124decbe333d74878ef5037354f6"
     },
     {
       "id": "production-paired-rollback",
       "label": "Production Paired Rollback",
       "path": "badges/production-paired-rollback.svg",
-      "sha256": "sha256:21a83bb76a9395603aa7898096d0fb7f8f9c297e1a751dd09ec5cda439a95fe8"
+      "sha256": "sha256:57c8e700ccc543b85ab0faa7507ee2a68b0bc68764a27be8a0e2d16b02c3f010"
+    },
+    {
+      "id": "dependabot-updates",
+      "label": "Dependabot Updates",
+      "path": "badges/dependabot-updates.svg",
+      "sha256": "sha256:dfdba541367262719e83fff7fdaafdc9942f3cee1bd12e0d05850d174be12d52"
     }
   ]
 }
