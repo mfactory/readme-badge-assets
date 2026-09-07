@@ -1,13 +1,19 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/outlook",
-  "sourceSha": "865f489f59ade5c5c5b76beb7f678d552712c20c",
+  "sourceSha": "be6fa0f51bd404341d3c84296ec12fadb3ca7357",
   "badges": [
     {
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:01b26e62d18805bc357f997c2f990d7c42fd7d0ec2c5756bd47142c2136105e5"
+      "sha256": "sha256:0cb7ac11671047c4b1b4218b2ebe63d5650abc4077a45775d2b2c24a9710f3f1"
+    },
+    {
+      "id": "github-code-quality",
+      "label": "GitHub Code Quality",
+      "path": "badges/github-code-quality.svg",
+      "sha256": "sha256:3cecb409922adcd1b8c66e20ffb6ffc6958d0f3c45c5cbb0db793f4b132db946"
     },
     {
       "id": "socket",
@@ -28,16 +34,16 @@
       "sha256": "sha256:11290a72c5e0cdae554b1bfb39cb90c63e919f2518b5fdbfbdb476513fd96a62"
     },
     {
-      "id": "codeql-quality",
-      "label": "GitHub Code Quality",
-      "path": "badges/codeql-quality.svg",
-      "sha256": "sha256:3cecb409922adcd1b8c66e20ffb6ffc6958d0f3c45c5cbb0db793f4b132db946"
+      "id": "code-quality-scan",
+      "label": "Code Quality Scan",
+      "path": "badges/code-quality-scan.svg",
+      "sha256": "sha256:0503a51ae7c6e97adaab7170aedaedfd5dacaac998b7fbe221feca06dc11208e"
     },
     {
-      "id": "codeql-scanning",
-      "label": "CodeQL Scanning",
-      "path": "badges/codeql-scanning.svg",
-      "sha256": "sha256:583bd894c12f8a535e27fceb59790eb8842e9e98005a83681b7b78703b50ecb1"
+      "id": "dependabot-updates",
+      "label": "Dependabot Updates",
+      "path": "badges/dependabot-updates.svg",
+      "sha256": "sha256:90dd2b716dc990467653cfd1b16f2f2648a5d15a6df943cdba95a49dab91fb0f"
     }
   ]
 }
