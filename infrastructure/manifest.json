@@ -19,7 +19,7 @@
       "id": "mcp-deployment",
       "label": "MCP Deployment",
       "path": "badges/mcp-deployment.svg",
-      "sha256": "sha256:22966a2f05478cd1888605749040dbeacbd4d9f934153da910bc33f43bc27069"
+      "sha256": "sha256:f5010cecf3ab10058bde133c2a82b87c371b17e2d68e0075d99d82a461e13a47"
     },
     {
       "id": "relay-health",
@@ -61,7 +61,7 @@
       "id": "deploy-cloudflare-mcp-monitor",
       "label": "Deploy Cloudflare MCP Monitor",
       "path": "badges/deploy-cloudflare-mcp-monitor.svg",
-      "sha256": "sha256:69cfa4225e4446d12f0eaf279f52376c6458c81eae530d125a8abd28173673f8"
+      "sha256": "sha256:e009a9bc7aeb2399b5ca939b4e1021f6afae5ad63c086874e994b2e296263006"
     },
     {
       "id": "code-quality-scan",
