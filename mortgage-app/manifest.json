@@ -109,13 +109,13 @@
       "id": "pdf-archive-smoke",
       "label": "PDF Archive Smoke",
       "path": "badges/pdf-archive-smoke.svg",
-      "sha256": "sha256:758def672fd56dc7fe63912c5b7c7d250aaa690958dec7a4219e42b3e07cd3e6"
+      "sha256": "sha256:3265edeb0cc2d5845050c6cbac2f1652cf1caa19edf7aa5daadfc5aacba189e4"
     },
     {
       "id": "production-matrix-smoke",
       "label": "Production Matrix Smoke",
       "path": "badges/production-matrix-smoke.svg",
-      "sha256": "sha256:4259490bf4e11f8abec0a844a28d7b20bc18b150dfb55cd6fba5b5e50eee850e"
+      "sha256": "sha256:4c289555a3a3dc585b226cc8542496e7151f42d0ab075f775c08bddaceaf1258"
     },
     {
       "id": "production-submit-contract-smoke",
