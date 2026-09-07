@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/repo-template",
-  "sourceSha": "c29a3e687d393e26cdd7f8c2a079c15c3d852146",
+  "sourceSha": "a89ef29f5baab8baa56b737ae2ee20efd7e61ef4",
   "badges": [
     {
       "id": "coverage",
@@ -25,7 +25,7 @@
       "id": "gitleaks",
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
-      "sha256": "sha256:86a8235285796e82f81e1753fd8c4d8e05ada8b7c50f1a68f12c38095b9bdeb6"
+      "sha256": "sha256:0fb801f71d9b8c0c7fc3eb99bbcfd3a73d189e8b2d589813e57bd2e907c5406c"
     },
     {
       "id": "lint-and-deploy",
