@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "307276575f683c3e15b312c500c794f6e43bab45",
+  "sourceSha": "e8d630a6542cc71cff66886eb9f3a76ad7935c4c",
   "badges": [
     {
       "id": "coverage",
@@ -19,7 +19,7 @@
       "id": "deployment",
       "label": "Site Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:9d54b68f5390d45c62c1421026ac43a6f47a2ab19ffab11be9b9d16f5e8ce9be"
+      "sha256": "sha256:8f2a93a96907577fb01c81f62f4fe0b6562b02768d8450fb6790dd1226968ec0"
     },
     {
       "id": "health",
@@ -43,7 +43,7 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:ce32004c0d02dcdf2a22a838f1f8ac6cdcbc6b946a0fb75fbd55c8bfb8e6cab5"
+      "sha256": "sha256:68f841b7d7025e03c0a6c4f77e93c49d7a78ab1be5b95919dc19e59cc07ba586"
     },
     {
       "id": "cloudflare-security-controls",
@@ -97,7 +97,7 @@
       "id": "dependabot-updates",
       "label": "Dependabot Updates",
       "path": "badges/dependabot-updates.svg",
-      "sha256": "sha256:dfdba541367262719e83fff7fdaafdc9942f3cee1bd12e0d05850d174be12d52"
+      "sha256": "sha256:90dd2b716dc990467653cfd1b16f2f2648a5d15a6df943cdba95a49dab91fb0f"
     }
   ]
 }
