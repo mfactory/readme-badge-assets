@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/uptime-kuma",
-  "sourceSha": "7c9d6ea14a0a138a04f958e05bd66fb469c27924",
+  "sourceSha": "5b1df7141e251ed7f9bae6313d2785ccfdb41567",
   "badges": [
     {
       "id": "coverage",
@@ -19,7 +19,7 @@
       "id": "deployment",
       "label": "Uptime Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:65a5bff36a2842151a0e252caac43e48005bc6fd4ad9d43c8cc16f3e2a68873b"
+      "sha256": "sha256:6933a86dade13aa1f79b365619603c536cfb6285134bba3dd1a67eca964a47dc"
     },
     {
       "id": "socket",
