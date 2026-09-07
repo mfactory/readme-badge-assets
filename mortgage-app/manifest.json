@@ -55,19 +55,19 @@
       "id": "admin-access-lifecycle",
       "label": "Admin Access Lifecycle",
       "path": "badges/admin-access-lifecycle.svg",
-      "sha256": "sha256:945a4d5ad53c1d432d482e1fbe87058e7685b8821ecee234462d5d1a1359867b"
+      "sha256": "sha256:4a8034024985bcc7e860bcb111930bd3ae390b484b7e4958f17cb66e3b6a2645"
     },
     {
       "id": "browser-qa",
       "label": "Browser QA",
       "path": "badges/browser-qa.svg",
-      "sha256": "sha256:44c646a9c3f634c701e093772dd7e48cf04c9d51ef77cf07afde7412d128463d"
+      "sha256": "sha256:6cbf2544dcd02e8ffbd0e99140e9a32d58437f60be8b1884f8595194285070e3"
     },
     {
       "id": "cloudflare-posture-evidence",
       "label": "Cloudflare Posture Evidence",
       "path": "badges/cloudflare-posture-evidence.svg",
-      "sha256": "sha256:8ed90bdb1929e441a3a31ee4d39ca287b96cafcae4a50c32154795a8193253e7"
+      "sha256": "sha256:43f00b837e47d7ea2c418c5b0a79b46e27d0c0ed73febf556f64cb6b383209a0"
     },
     {
       "id": "code-quality-scan",
@@ -79,19 +79,19 @@
       "id": "compliance-ops-evidence",
       "label": "Compliance Ops Evidence",
       "path": "badges/compliance-ops-evidence.svg",
-      "sha256": "sha256:66cbd1d2885f533fc82ada7f85a5baa631684b98414b1ce4cdf3146e2fccd4b1"
+      "sha256": "sha256:fecbb658f2f7da3d56369691e7e8edfc34d7478101e487d2e7e2e01256995821"
     },
     {
       "id": "deep-qa",
       "label": "Deep QA",
       "path": "badges/deep-qa.svg",
-      "sha256": "sha256:653c4494dccfa7fa17239b0b3b3cfb3693ad9328fc5439542941add183adedc9"
+      "sha256": "sha256:1ee361f0c8d155fa596fd128e98a7f662d12579500afff50dcc569f7f4da745f"
     },
     {
       "id": "dhi-ci-image-verification",
       "label": "DHI CI Image Verification",
       "path": "badges/dhi-ci-image-verification.svg",
-      "sha256": "sha256:10108b88a1c26ccb0783bc31205f6613791ad5a94df2aa93c22f7d8865e05116"
+      "sha256": "sha256:185f0a80e5add967d0f92c695283e3edd804e02823188652602a74d96ca9ec96"
     },
     {
       "id": "deploy-satellite-worker",
@@ -103,7 +103,7 @@
       "id": "deployment-health",
       "label": "Deployment Health",
       "path": "badges/deployment-health.svg",
-      "sha256": "sha256:593c515311b44db3025df69186628d84db2694a64ce0f17c0961757cfd3c9b72"
+      "sha256": "sha256:fa60997e4346b260ca9635fb461ac9a2c430291b4ea28af63d1c292e4b6407ea"
     },
     {
       "id": "pdf-archive-smoke",
@@ -127,7 +127,7 @@
       "id": "security-evidence",
       "label": "Security Evidence",
       "path": "badges/security-evidence.svg",
-      "sha256": "sha256:cce644e4e7c5407c79d0cf644d0a53032fa91c313718824502fd40ac388af892"
+      "sha256": "sha256:2108c98d373bd669512a2178ff3efedb0636def23c36daf5be4aa3f543ebe902"
     },
     {
       "id": "dependabot-updates",
