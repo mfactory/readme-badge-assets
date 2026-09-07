@@ -91,7 +91,7 @@
       "id": "dhi-ci-image-verification",
       "label": "DHI CI Image Verification",
       "path": "badges/dhi-ci-image-verification.svg",
-      "sha256": "sha256:185f0a80e5add967d0f92c695283e3edd804e02823188652602a74d96ca9ec96"
+      "sha256": "sha256:f9f0d47f418495c9f10a6a5fdb64ba94c5ebe64c46325840ec625efe49baabef"
     },
     {
       "id": "deploy-satellite-worker",
