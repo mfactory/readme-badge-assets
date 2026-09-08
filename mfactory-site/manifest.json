@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "eee7b9ae099a3ee79533f2df6c48f6c6c99772d9",
+  "sourceSha": "3d637052c08032b60f95d55eab670b8c6fee0b6f",
   "badges": [
     {
       "id": "coverage",
@@ -37,7 +37,7 @@
       "id": "gitleaks",
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
-      "sha256": "sha256:4389d19d7ab9ec2ef96da28cfa779d2a80c9585f23f7379cc23cb7c1e3b3f0c1"
+      "sha256": "sha256:fc227186cefe6ebc5e2b93f25c2ddcf1c917585b54e5d622b314e721e0f6bf6f"
     },
     {
       "id": "ci",
@@ -55,7 +55,7 @@
       "id": "code-quality-scan",
       "label": "Code Quality Scan",
       "path": "badges/code-quality-scan.svg",
-      "sha256": "sha256:7d55a4639d897aad1c51c2aa2c000fee54482bbe5d613f1a578a281e6624236f"
+      "sha256": "sha256:0503a51ae7c6e97adaab7170aedaedfd5dacaac998b7fbe221feca06dc11208e"
     },
     {
       "id": "content-governance",
