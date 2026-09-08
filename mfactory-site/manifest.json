@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "a10d0ddd81ffb0c7f9cf8b1b7ae3c41471ae921f",
+  "sourceSha": "e1abbb5288d5791edb4bdc63dfa8215d165ee858",
   "badges": [
     {
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:0f68aa960a91b0d4b0c4521a23e320816b97fb82c6f4d633e3a9b4923784ad7b"
+      "sha256": "sha256:a83365b0b4e46111d42ec5b4a2447f255778131d2ed304e66c7b379458ef954c"
     },
     {
       "id": "github-code-quality",
@@ -73,7 +73,7 @@
       "id": "mutation-assurance",
       "label": "Mutation Assurance",
       "path": "badges/mutation-assurance.svg",
-      "sha256": "sha256:64b5eea8bfdfc3be63e2b23fc4cdbf4c912de91dc7e8df7aca238e8559e13b30"
+      "sha256": "sha256:a29dc3b0ddd6496504e08601cf6317a447c1bd08972697f4f56f861a2884f182"
     },
     {
       "id": "production-api-security-attestation",
