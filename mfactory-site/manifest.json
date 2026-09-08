@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "6cd0d768a61e697bcf0aa15aee76d629e8a3c4d2",
+  "sourceSha": "a10d0ddd81ffb0c7f9cf8b1b7ae3c41471ae921f",
   "badges": [
     {
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:0f68aa960a91b0d4b0c4521a23e320816b97fb82c6f4d633e3a9b4923784ad7b"
+      "sha256": "sha256:a83365b0b4e46111d42ec5b4a2447f255778131d2ed304e66c7b379458ef954c"
     },
     {
       "id": "github-code-quality",
@@ -37,13 +37,13 @@
       "id": "gitleaks",
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
-      "sha256": "sha256:0fb801f71d9b8c0c7fc3eb99bbcfd3a73d189e8b2d589813e57bd2e907c5406c"
+      "sha256": "sha256:fc227186cefe6ebc5e2b93f25c2ddcf1c917585b54e5d622b314e721e0f6bf6f"
     },
     {
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:ce32004c0d02dcdf2a22a838f1f8ac6cdcbc6b946a0fb75fbd55c8bfb8e6cab5"
+      "sha256": "sha256:34d267618c1887ff39e8192dd9956e8485135a2377ab7dcb25aa52e4aae895aa"
     },
     {
       "id": "cloudflare-security-controls",
@@ -97,7 +97,7 @@
       "id": "dependabot-updates",
       "label": "Dependabot Updates",
       "path": "badges/dependabot-updates.svg",
-      "sha256": "sha256:6c2a3f4a4036c78dfc3fad8bf53e04962a486e988281ff4601b8e4fb21440f41"
+      "sha256": "sha256:dfdba541367262719e83fff7fdaafdc9942f3cee1bd12e0d05850d174be12d52"
     }
   ]
 }
