@@ -7,7 +7,7 @@
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:a83365b0b4e46111d42ec5b4a2447f255778131d2ed304e66c7b379458ef954c"
+      "sha256": "sha256:598712cfd1616df0802281a13cd7c1fd9d3e43169d8020d9277a025a49d617fb"
     },
     {
       "id": "github-code-quality",
@@ -37,13 +37,13 @@
       "id": "gitleaks",
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
-      "sha256": "sha256:fc227186cefe6ebc5e2b93f25c2ddcf1c917585b54e5d622b314e721e0f6bf6f"
+      "sha256": "sha256:0fb801f71d9b8c0c7fc3eb99bbcfd3a73d189e8b2d589813e57bd2e907c5406c"
     },
     {
       "id": "semgrep",
       "label": "Semgrep",
       "path": "badges/semgrep.svg",
-      "sha256": "sha256:cd95abc066fa40d1bcc736c655fdd40d1a2dbe48653c1cada81d2cd16903676b"
+      "sha256": "sha256:7d9bd8586ee3d81e4b9652ae509c83d8ee216d7a17e117de470e4182e3d1bf88"
     },
     {
       "id": "ci",
