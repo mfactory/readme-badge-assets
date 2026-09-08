@@ -19,7 +19,7 @@
       "id": "deployment",
       "label": "App Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:a7fc9573781308c990a6b262d5c4f747f0929602121428adacfe01080f534ee8"
+      "sha256": "sha256:ac2536b8f60d5c6365b64cddf355f05bb9017f8d7cbfb28a56cbb4be1365975e"
     },
     {
       "id": "health",
@@ -49,7 +49,7 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:34d267618c1887ff39e8192dd9956e8485135a2377ab7dcb25aa52e4aae895aa"
+      "sha256": "sha256:68f841b7d7025e03c0a6c4f77e93c49d7a78ab1be5b95919dc19e59cc07ba586"
     },
     {
       "id": "admin-access-lifecycle",
@@ -103,7 +103,7 @@
       "id": "deployment-health",
       "label": "Deployment Health",
       "path": "badges/deployment-health.svg",
-      "sha256": "sha256:593c515311b44db3025df69186628d84db2694a64ce0f17c0961757cfd3c9b72"
+      "sha256": "sha256:fd2ab3f77dbd4a1a9a3bc30f5184f324bba35b29182c8f28fa18012cfe4ee3b0"
     },
     {
       "id": "pdf-archive-smoke",
@@ -121,7 +121,7 @@
       "id": "production-submit-contract-smoke",
       "label": "Production Submit Contract Smoke",
       "path": "badges/production-submit-contract-smoke.svg",
-      "sha256": "sha256:e0cf1c158374947fdce5bc3ed97d3a8904723238ee65837e19a3a87ea2792fec"
+      "sha256": "sha256:d56c7ed87c7badaf277edb44ea70a36c4634b63fdb0bbd99d13266924b5f4759"
     },
     {
       "id": "security-evidence",
