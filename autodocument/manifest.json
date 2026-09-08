@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/autodocument",
-  "sourceSha": "0237428eabe9119f976fa19cba7bafcb5fb3d744",
+  "sourceSha": "d3faa7f869423a51ec12d7dfab7998dfb40d6641",
   "badges": [
     {
       "id": "coverage",
@@ -43,13 +43,13 @@
       "id": "lint-and-deploy",
       "label": "Lint And Deploy",
       "path": "badges/lint-and-deploy.svg",
-      "sha256": "sha256:7fced10ac35713c936e7b0804109a5c1b29082ef7097ac80c5c690e0a2bb9c78"
+      "sha256": "sha256:1d86de9cb5454f9ee7bd9d677a251037d9208cdeb88c9ff9c28fd1f0b40cdf16"
     },
     {
       "id": "dhi-security",
       "label": "DHI Security",
       "path": "badges/dhi-security.svg",
-      "sha256": "sha256:ee3e435d8804f7ac8c541bf96752f13b0daa486695513e8926a056ac841c459a"
+      "sha256": "sha256:dfd373c9236140557f0bcc4d788009e1d566129b90121bbacac8b8dfde069cbf"
     },
     {
       "id": "code-quality-scan",
