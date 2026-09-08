@@ -49,7 +49,7 @@
       "id": "dhi-security",
       "label": "DHI Security",
       "path": "badges/dhi-security.svg",
-      "sha256": "sha256:dfd373c9236140557f0bcc4d788009e1d566129b90121bbacac8b8dfde069cbf"
+      "sha256": "sha256:ee3e435d8804f7ac8c541bf96752f13b0daa486695513e8926a056ac841c459a"
     },
     {
       "id": "code-quality-scan",
