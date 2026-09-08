@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/autodocument",
-  "sourceSha": "d3faa7f869423a51ec12d7dfab7998dfb40d6641",
+  "sourceSha": "63875e539829280a56b1b8ca6a67fed60581b666",
   "badges": [
     {
       "id": "coverage",
@@ -43,19 +43,25 @@
       "id": "lint-and-deploy",
       "label": "Lint And Deploy",
       "path": "badges/lint-and-deploy.svg",
-      "sha256": "sha256:8f3a1a86812a7eda218ed87be4e7a6df3930f961ebb2c3f2f0546b237c6891a0"
+      "sha256": "sha256:1d86de9cb5454f9ee7bd9d677a251037d9208cdeb88c9ff9c28fd1f0b40cdf16"
     },
     {
       "id": "dhi-security",
       "label": "DHI Security",
       "path": "badges/dhi-security.svg",
-      "sha256": "sha256:dfd373c9236140557f0bcc4d788009e1d566129b90121bbacac8b8dfde069cbf"
+      "sha256": "sha256:ee3e435d8804f7ac8c541bf96752f13b0daa486695513e8926a056ac841c459a"
     },
     {
       "id": "code-quality-scan",
       "label": "Code Quality Scan",
       "path": "badges/code-quality-scan.svg",
       "sha256": "sha256:7d55a4639d897aad1c51c2aa2c000fee54482bbe5d613f1a578a281e6624236f"
+    },
+    {
+      "id": "codeql-scanning",
+      "label": "CodeQL Scanning",
+      "path": "badges/codeql-scanning.svg",
+      "sha256": "sha256:166bd1890eb3cdd62d639d5b1234882e704d956767ea2fd2af1c904315223ca5"
     },
     {
       "id": "dependabot-updates",
