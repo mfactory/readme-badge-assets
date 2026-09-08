@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/databasus",
-  "sourceSha": "2e29b373d6022178efb8ec49f13d33ca349853e4",
+  "sourceSha": "8ad8d88d808fd3d08d27827b610992790f0e6ee0",
   "badges": [
     {
       "id": "coverage",
@@ -55,7 +55,7 @@
       "id": "dependabot-updates",
       "label": "Dependabot Updates",
       "path": "badges/dependabot-updates.svg",
-      "sha256": "sha256:dfdba541367262719e83fff7fdaafdc9942f3cee1bd12e0d05850d174be12d52"
+      "sha256": "sha256:90dd2b716dc990467653cfd1b16f2f2648a5d15a6df943cdba95a49dab91fb0f"
     }
   ]
 }
