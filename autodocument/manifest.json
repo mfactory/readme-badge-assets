@@ -43,7 +43,7 @@
       "id": "lint-and-deploy",
       "label": "Lint And Deploy",
       "path": "badges/lint-and-deploy.svg",
-      "sha256": "sha256:1d86de9cb5454f9ee7bd9d677a251037d9208cdeb88c9ff9c28fd1f0b40cdf16"
+      "sha256": "sha256:7fced10ac35713c936e7b0804109a5c1b29082ef7097ac80c5c690e0a2bb9c78"
     },
     {
       "id": "dhi-security",
