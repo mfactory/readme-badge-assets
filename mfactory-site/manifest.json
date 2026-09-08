@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "dd23c61fe24626a583ccb00165ce00901e616450",
+  "sourceSha": "eee7b9ae099a3ee79533f2df6c48f6c6c99772d9",
   "badges": [
     {
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:0f68aa960a91b0d4b0c4521a23e320816b97fb82c6f4d633e3a9b4923784ad7b"
+      "sha256": "sha256:a83365b0b4e46111d42ec5b4a2447f255778131d2ed304e66c7b379458ef954c"
     },
     {
       "id": "github-code-quality",
@@ -19,7 +19,7 @@
       "id": "deployment",
       "label": "Site Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:8f2a93a96907577fb01c81f62f4fe0b6562b02768d8450fb6790dd1226968ec0"
+      "sha256": "sha256:9d54b68f5390d45c62c1421026ac43a6f47a2ab19ffab11be9b9d16f5e8ce9be"
     },
     {
       "id": "health",
@@ -37,19 +37,19 @@
       "id": "gitleaks",
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
-      "sha256": "sha256:0fb801f71d9b8c0c7fc3eb99bbcfd3a73d189e8b2d589813e57bd2e907c5406c"
+      "sha256": "sha256:4389d19d7ab9ec2ef96da28cfa779d2a80c9585f23f7379cc23cb7c1e3b3f0c1"
     },
     {
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:68f841b7d7025e03c0a6c4f77e93c49d7a78ab1be5b95919dc19e59cc07ba586"
+      "sha256": "sha256:34d267618c1887ff39e8192dd9956e8485135a2377ab7dcb25aa52e4aae895aa"
     },
     {
       "id": "cloudflare-security-controls",
       "label": "Cloudflare Security Controls",
       "path": "badges/cloudflare-security-controls.svg",
-      "sha256": "sha256:202ef12582c11cd68e0be17d906339eda3f0de8cc9a18b076bdc496c99629bcd"
+      "sha256": "sha256:6e2b1f2c63a2ee087b7358119a58a12c1396396efaac4df3af8c02bfc4fe18e7"
     },
     {
       "id": "code-quality-scan",
@@ -61,31 +61,31 @@
       "id": "content-governance",
       "label": "Content Governance",
       "path": "badges/content-governance.svg",
-      "sha256": "sha256:f6ab51939b3554c743af31f76118b3b22f0ddf14c5f97f6e95285edb0bb4d98b"
+      "sha256": "sha256:3a7b8015892d5b5e4da574e812157ee0f48028ac86991cdc38e7608022e9bc8b"
     },
     {
       "id": "dhi-canary",
       "label": "DHI Canary",
       "path": "badges/dhi-canary.svg",
-      "sha256": "sha256:83adc158c357f6f596ce7a1d0d428bc4872744ac84d6ce2b70b6428a526ca5a8"
+      "sha256": "sha256:42796323af0e92ae5c251d408ccf6ff16453cda1f8f00f09eba48162fdafd463"
     },
     {
       "id": "mutation-assurance",
       "label": "Mutation Assurance",
       "path": "badges/mutation-assurance.svg",
-      "sha256": "sha256:ac614f6c620f5129cd5418f1315be785ab93b2540b94e2abeae2f24358db07b0"
+      "sha256": "sha256:64b5eea8bfdfc3be63e2b23fc4cdbf4c912de91dc7e8df7aca238e8559e13b30"
     },
     {
       "id": "production-api-security-attestation",
       "label": "Production API Security Attestation",
       "path": "badges/production-api-security-attestation.svg",
-      "sha256": "sha256:2f8b00cb06bd7c67a0206d45203bba9058149b59e8d1a56fa272256f8eeb15f7"
+      "sha256": "sha256:09c8a9793fcc85d2c13d8144f5796886fd995cbebe2f7101f6837730e337b9ed"
     },
     {
       "id": "production-observability-smoke",
       "label": "Production Observability Smoke",
       "path": "badges/production-observability-smoke.svg",
-      "sha256": "sha256:4179a6af51068015178a4a4067c9a3cf6a5305c3c2a1c1da0876327edaf6a0b6"
+      "sha256": "sha256:e919d1c0fe2bd0433e647b7472d032837530124decbe333d74878ef5037354f6"
     },
     {
       "id": "production-paired-rollback",
@@ -97,7 +97,7 @@
       "id": "dependabot-updates",
       "label": "Dependabot Updates",
       "path": "badges/dependabot-updates.svg",
-      "sha256": "sha256:90dd2b716dc990467653cfd1b16f2f2648a5d15a6df943cdba95a49dab91fb0f"
+      "sha256": "sha256:dfdba541367262719e83fff7fdaafdc9942f3cee1bd12e0d05850d174be12d52"
     }
   ]
 }
