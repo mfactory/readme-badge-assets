@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mortgage-app",
-  "sourceSha": "4b1160f691788913842266fec1b98f437a6e1489",
+  "sourceSha": "cba9b72bde43d47b86856bced708dbd19f566d94",
   "badges": [
     {
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:2a89c18f87714a1340d426dd9912532fed78d6612e9e412e3401c30fb204a925"
+      "sha256": "sha256:a83365b0b4e46111d42ec5b4a2447f255778131d2ed304e66c7b379458ef954c"
     },
     {
       "id": "github-code-quality",
@@ -19,7 +19,7 @@
       "id": "deployment",
       "label": "App Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:ac2536b8f60d5c6365b64cddf355f05bb9017f8d7cbfb28a56cbb4be1365975e"
+      "sha256": "sha256:a7fc9573781308c990a6b262d5c4f747f0929602121428adacfe01080f534ee8"
     },
     {
       "id": "health",
@@ -43,31 +43,31 @@
       "id": "semgrep",
       "label": "Semgrep",
       "path": "badges/semgrep.svg",
-      "sha256": "sha256:7d9bd8586ee3d81e4b9652ae509c83d8ee216d7a17e117de470e4182e3d1bf88"
+      "sha256": "sha256:cd95abc066fa40d1bcc736c655fdd40d1a2dbe48653c1cada81d2cd16903676b"
     },
     {
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:68f841b7d7025e03c0a6c4f77e93c49d7a78ab1be5b95919dc19e59cc07ba586"
+      "sha256": "sha256:34d267618c1887ff39e8192dd9956e8485135a2377ab7dcb25aa52e4aae895aa"
     },
     {
       "id": "admin-access-lifecycle",
       "label": "Admin Access Lifecycle",
       "path": "badges/admin-access-lifecycle.svg",
-      "sha256": "sha256:4a8034024985bcc7e860bcb111930bd3ae390b484b7e4958f17cb66e3b6a2645"
+      "sha256": "sha256:945a4d5ad53c1d432d482e1fbe87058e7685b8821ecee234462d5d1a1359867b"
     },
     {
       "id": "browser-qa",
       "label": "Browser QA",
       "path": "badges/browser-qa.svg",
-      "sha256": "sha256:6cbf2544dcd02e8ffbd0e99140e9a32d58437f60be8b1884f8595194285070e3"
+      "sha256": "sha256:44c646a9c3f634c701e093772dd7e48cf04c9d51ef77cf07afde7412d128463d"
     },
     {
       "id": "cloudflare-posture-evidence",
       "label": "Cloudflare Posture Evidence",
       "path": "badges/cloudflare-posture-evidence.svg",
-      "sha256": "sha256:43f00b837e47d7ea2c418c5b0a79b46e27d0c0ed73febf556f64cb6b383209a0"
+      "sha256": "sha256:8ed90bdb1929e441a3a31ee4d39ca287b96cafcae4a50c32154795a8193253e7"
     },
     {
       "id": "code-quality-scan",
@@ -79,19 +79,19 @@
       "id": "compliance-ops-evidence",
       "label": "Compliance Ops Evidence",
       "path": "badges/compliance-ops-evidence.svg",
-      "sha256": "sha256:fecbb658f2f7da3d56369691e7e8edfc34d7478101e487d2e7e2e01256995821"
+      "sha256": "sha256:66cbd1d2885f533fc82ada7f85a5baa631684b98414b1ce4cdf3146e2fccd4b1"
     },
     {
       "id": "deep-qa",
       "label": "Deep QA",
       "path": "badges/deep-qa.svg",
-      "sha256": "sha256:1ee361f0c8d155fa596fd128e98a7f662d12579500afff50dcc569f7f4da745f"
+      "sha256": "sha256:653c4494dccfa7fa17239b0b3b3cfb3693ad9328fc5439542941add183adedc9"
     },
     {
       "id": "dhi-ci-image-verification",
       "label": "DHI CI Image Verification",
       "path": "badges/dhi-ci-image-verification.svg",
-      "sha256": "sha256:185f0a80e5add967d0f92c695283e3edd804e02823188652602a74d96ca9ec96"
+      "sha256": "sha256:10108b88a1c26ccb0783bc31205f6613791ad5a94df2aa93c22f7d8865e05116"
     },
     {
       "id": "deploy-satellite-worker",
@@ -103,37 +103,37 @@
       "id": "deployment-health",
       "label": "Deployment Health",
       "path": "badges/deployment-health.svg",
-      "sha256": "sha256:fa60997e4346b260ca9635fb461ac9a2c430291b4ea28af63d1c292e4b6407ea"
+      "sha256": "sha256:593c515311b44db3025df69186628d84db2694a64ce0f17c0961757cfd3c9b72"
     },
     {
       "id": "pdf-archive-smoke",
       "label": "PDF Archive Smoke",
       "path": "badges/pdf-archive-smoke.svg",
-      "sha256": "sha256:3265edeb0cc2d5845050c6cbac2f1652cf1caa19edf7aa5daadfc5aacba189e4"
+      "sha256": "sha256:758def672fd56dc7fe63912c5b7c7d250aaa690958dec7a4219e42b3e07cd3e6"
     },
     {
       "id": "production-matrix-smoke",
       "label": "Production Matrix Smoke",
       "path": "badges/production-matrix-smoke.svg",
-      "sha256": "sha256:4c289555a3a3dc585b226cc8542496e7151f42d0ab075f775c08bddaceaf1258"
+      "sha256": "sha256:4259490bf4e11f8abec0a844a28d7b20bc18b150dfb55cd6fba5b5e50eee850e"
     },
     {
       "id": "production-submit-contract-smoke",
       "label": "Production Submit Contract Smoke",
       "path": "badges/production-submit-contract-smoke.svg",
-      "sha256": "sha256:800b937cf122347d31df9275f06509139e1eb7906ab80d35fb34e28e2578a47a"
+      "sha256": "sha256:d56c7ed87c7badaf277edb44ea70a36c4634b63fdb0bbd99d13266924b5f4759"
     },
     {
       "id": "security-evidence",
       "label": "Security Evidence",
       "path": "badges/security-evidence.svg",
-      "sha256": "sha256:2108c98d373bd669512a2178ff3efedb0636def23c36daf5be4aa3f543ebe902"
+      "sha256": "sha256:cce644e4e7c5407c79d0cf644d0a53032fa91c313718824502fd40ac388af892"
     },
     {
       "id": "dependabot-updates",
       "label": "Dependabot Updates",
       "path": "badges/dependabot-updates.svg",
-      "sha256": "sha256:dfdba541367262719e83fff7fdaafdc9942f3cee1bd12e0d05850d174be12d52"
+      "sha256": "sha256:90dd2b716dc990467653cfd1b16f2f2648a5d15a6df943cdba95a49dab91fb0f"
     }
   ]
 }
