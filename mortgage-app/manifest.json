@@ -7,7 +7,7 @@
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:a83365b0b4e46111d42ec5b4a2447f255778131d2ed304e66c7b379458ef954c"
+      "sha256": "sha256:598712cfd1616df0802281a13cd7c1fd9d3e43169d8020d9277a025a49d617fb"
     },
     {
       "id": "github-code-quality",
@@ -19,7 +19,7 @@
       "id": "deployment",
       "label": "App Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:a7fc9573781308c990a6b262d5c4f747f0929602121428adacfe01080f534ee8"
+      "sha256": "sha256:ac2536b8f60d5c6365b64cddf355f05bb9017f8d7cbfb28a56cbb4be1365975e"
     },
     {
       "id": "health",
@@ -49,7 +49,7 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:34d267618c1887ff39e8192dd9956e8485135a2377ab7dcb25aa52e4aae895aa"
+      "sha256": "sha256:68f841b7d7025e03c0a6c4f77e93c49d7a78ab1be5b95919dc19e59cc07ba586"
     },
     {
       "id": "admin-access-lifecycle",
@@ -121,7 +121,7 @@
       "id": "production-submit-contract-smoke",
       "label": "Production Submit Contract Smoke",
       "path": "badges/production-submit-contract-smoke.svg",
-      "sha256": "sha256:2b02e8572544bb5dd2816a248f0afb040e5d91e2b531f550d8abe2b35d01c3dd"
+      "sha256": "sha256:d56c7ed87c7badaf277edb44ea70a36c4634b63fdb0bbd99d13266924b5f4759"
     },
     {
       "id": "security-evidence",
