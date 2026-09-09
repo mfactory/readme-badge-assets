@@ -131,13 +131,13 @@
       "id": "production-matrix-smoke",
       "label": "Monthly Production Matrix Smoke",
       "path": "badges/production-matrix-smoke.svg",
-      "sha256": "sha256:73713660b139f582e118e686c25cdd97bb9feb1cdbf4625b6e69d6e09dde84a3",
+      "sha256": "sha256:9afa69fdc01545664407a60e920efe8f6065497a84e9a25d1acfd7cdbc55d79b",
       "observation": {
-        "state": "pending",
+        "state": "pass",
         "run": {
           "id": 34342546999,
           "sha": "08c56ec29492e262033efd9833189ff2e5297b5a",
-          "updatedAt": "2026-09-09T10:52:38.000Z"
+          "updatedAt": "2026-09-09T10:55:20.000Z"
         }
       }
     },
@@ -162,6 +162,6 @@
   ],
   "evidence": {
     "path": "evidence.md",
-    "sha256": "sha256:6ad26248aabf14079afd9f30bccc700fe0fcd5ded401386e6ec93c0d2355a4b0"
+    "sha256": "sha256:29c6994e1b56eda0294661f1d24822bc227075d6e97b6a77532d7b3eeddcb211"
   }
 }
