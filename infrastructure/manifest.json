@@ -61,7 +61,7 @@
       "id": "deploy-cloudflare-mcp-monitor",
       "label": "Deploy Cloudflare MCP Monitor",
       "path": "badges/deploy-cloudflare-mcp-monitor.svg",
-      "sha256": "sha256:69cfa4225e4446d12f0eaf279f52376c6458c81eae530d125a8abd28173673f8"
+      "sha256": "sha256:1d535ba9c4f452508c9d2c256625b57838ae6a48a1c5b7bdc9c65727f9e558d8"
     },
     {
       "id": "code-quality-scan",
