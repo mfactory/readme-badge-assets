@@ -91,7 +91,7 @@
       "id": "dhi-ci-image-verification",
       "label": "DHI CI Image Verification",
       "path": "badges/dhi-ci-image-verification.svg",
-      "sha256": "sha256:f9f0d47f418495c9f10a6a5fdb64ba94c5ebe64c46325840ec625efe49baabef"
+      "sha256": "sha256:185f0a80e5add967d0f92c695283e3edd804e02823188652602a74d96ca9ec96"
     },
     {
       "id": "deploy-satellite-worker",
@@ -103,7 +103,7 @@
       "id": "deployment-health",
       "label": "Deployment Health",
       "path": "badges/deployment-health.svg",
-      "sha256": "sha256:f9cee40cbcc6c6a373ef5406270247517c45488f446c1bfe992de8eb03522bd4"
+      "sha256": "sha256:fd2ab3f77dbd4a1a9a3bc30f5184f324bba35b29182c8f28fa18012cfe4ee3b0"
     },
     {
       "id": "pdf-archive-smoke",
@@ -127,7 +127,7 @@
       "id": "security-evidence",
       "label": "Security Evidence",
       "path": "badges/security-evidence.svg",
-      "sha256": "sha256:0f41580e37b61a4a89af32697f67772bad748dd97605693f6d801ba7071eff4d"
+      "sha256": "sha256:2108c98d373bd669512a2178ff3efedb0636def23c36daf5be4aa3f543ebe902"
     },
     {
       "id": "dependabot-updates",
