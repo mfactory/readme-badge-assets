@@ -121,13 +121,13 @@
       "id": "production-submit-contract-smoke",
       "label": "Production Submit Contract Smoke",
       "path": "badges/production-submit-contract-smoke.svg",
-      "sha256": "sha256:d56c7ed87c7badaf277edb44ea70a36c4634b63fdb0bbd99d13266924b5f4759"
+      "sha256": "sha256:800b937cf122347d31df9275f06509139e1eb7906ab80d35fb34e28e2578a47a"
     },
     {
       "id": "security-evidence",
       "label": "Security Evidence",
       "path": "badges/security-evidence.svg",
-      "sha256": "sha256:2c5b7fce4c70864cc76c31eb282e4df770a1885a3c055c79c329f18e46ee6088"
+      "sha256": "sha256:0f41580e37b61a4a89af32697f67772bad748dd97605693f6d801ba7071eff4d"
     },
     {
       "id": "dependabot-updates",
