@@ -43,13 +43,13 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:ce32004c0d02dcdf2a22a838f1f8ac6cdcbc6b946a0fb75fbd55c8bfb8e6cab5"
+      "sha256": "sha256:52a372628f0b4e2c9aea5214d90d2b2a148b13e203003b7e1dca3e192d0300b6"
     },
     {
       "id": "cloudflare-security-controls",
       "label": "Cloudflare Security Controls",
       "path": "badges/cloudflare-security-controls.svg",
-      "sha256": "sha256:6e2b1f2c63a2ee087b7358119a58a12c1396396efaac4df3af8c02bfc4fe18e7"
+      "sha256": "sha256:68ad09ec6044026da8c4cd98813b3a98578fdc7a57bc9f5b10dba09d11b27647"
     },
     {
       "id": "code-quality-scan",
@@ -61,13 +61,13 @@
       "id": "content-governance",
       "label": "Content Governance",
       "path": "badges/content-governance.svg",
-      "sha256": "sha256:f6ab51939b3554c743af31f76118b3b22f0ddf14c5f97f6e95285edb0bb4d98b"
+      "sha256": "sha256:3a7b8015892d5b5e4da574e812157ee0f48028ac86991cdc38e7608022e9bc8b"
     },
     {
       "id": "dhi-canary",
       "label": "DHI Canary",
       "path": "badges/dhi-canary.svg",
-      "sha256": "sha256:0adbb6d0d615ddfff66a7ea6c78ce4ed610f0becca1aeaa96a6c3dd16759c804"
+      "sha256": "sha256:7fe920b43b7c5cc24dbbc64e138664c66188b5bed6d916dffd3de69c61502c1b"
     },
     {
       "id": "mutation-assurance",
@@ -79,7 +79,7 @@
       "id": "production-api-security-attestation",
       "label": "Production API Security Attestation",
       "path": "badges/production-api-security-attestation.svg",
-      "sha256": "sha256:09c8a9793fcc85d2c13d8144f5796886fd995cbebe2f7101f6837730e337b9ed"
+      "sha256": "sha256:91ddba3fdb16b1b983afffd5c9e6bea02c9e4500f6044f021162861095d6e168"
     },
     {
       "id": "production-observability-smoke",
@@ -91,7 +91,7 @@
       "id": "production-paired-rollback",
       "label": "Last Paired Rollback",
       "path": "badges/production-paired-rollback.svg",
-      "sha256": "sha256:bf17119582c51c2a63e3fd594b3b0f17c7599fa24f5016ce97791177e05df391"
+      "sha256": "sha256:66e9d67f27f3f7b9a954fdde06c294e5c8d971171e64363c9ad7c8d8da37ca7c"
     },
     {
       "id": "dependabot-updates",
