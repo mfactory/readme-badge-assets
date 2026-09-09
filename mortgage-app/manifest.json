@@ -49,13 +49,13 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:68f841b7d7025e03c0a6c4f77e93c49d7a78ab1be5b95919dc19e59cc07ba586"
+      "sha256": "sha256:52a372628f0b4e2c9aea5214d90d2b2a148b13e203003b7e1dca3e192d0300b6"
     },
     {
       "id": "admin-access-lifecycle",
       "label": "Admin Access Lifecycle",
       "path": "badges/admin-access-lifecycle.svg",
-      "sha256": "sha256:4a8034024985bcc7e860bcb111930bd3ae390b484b7e4958f17cb66e3b6a2645"
+      "sha256": "sha256:1758d65f47c6f6e24b950d0d7038a7d33dcfabfe3ab4ed4580156d1126dca565"
     },
     {
       "id": "browser-qa",
@@ -67,7 +67,7 @@
       "id": "cloudflare-posture-evidence",
       "label": "Cloudflare Posture Evidence",
       "path": "badges/cloudflare-posture-evidence.svg",
-      "sha256": "sha256:43f00b837e47d7ea2c418c5b0a79b46e27d0c0ed73febf556f64cb6b383209a0"
+      "sha256": "sha256:0da5d23e4e8334f2b8484c5241d9dd41d6a8767020744a97d6a6c84cfd10ac92"
     },
     {
       "id": "code-quality-scan",
@@ -79,7 +79,7 @@
       "id": "compliance-ops-evidence",
       "label": "Compliance Ops Evidence",
       "path": "badges/compliance-ops-evidence.svg",
-      "sha256": "sha256:fecbb658f2f7da3d56369691e7e8edfc34d7478101e487d2e7e2e01256995821"
+      "sha256": "sha256:29a6933c39fb5c504e936f4d87dd73aee1c93ad3b2fc518aeffd6c9eab934dd9"
     },
     {
       "id": "deep-qa",
@@ -91,15 +91,15 @@
       "id": "dhi-ci-image-verification",
       "label": "DHI CI Image Verification",
       "path": "badges/dhi-ci-image-verification.svg",
-      "sha256": "sha256:185f0a80e5add967d0f92c695283e3edd804e02823188652602a74d96ca9ec96"
+      "sha256": "sha256:1828edd55b9a68a01f00b602d7413fd23d2e2a1c5a02bba3a93142ce486cf855"
     },
     {
       "id": "satellite-workers",
       "label": "Satellite Workers",
       "path": "badges/satellite-workers.svg",
-      "sha256": "sha256:7de0dfc71ab65a125aba08d839ee9c43f7f639d4128a75ebe260f4d39829cf30",
+      "sha256": "sha256:6fe917e8df571d840b929285812b4aab3b5fab9d18eb3ac6dd96e63e0ea9a6ae",
       "observation": {
-        "state": "pass",
+        "state": "off",
         "run": {
           "id": 34371748930,
           "sha": "96660506df0bffab655d38c87e30cc4f9de03c27",
@@ -111,15 +111,15 @@
       "id": "deployment-health",
       "label": "Deployment Health",
       "path": "badges/deployment-health.svg",
-      "sha256": "sha256:fa60997e4346b260ca9635fb461ac9a2c430291b4ea28af63d1c292e4b6407ea"
+      "sha256": "sha256:2a5dfa0012562101b07a88b78ada990b3c504e99e9acb101906c182f9df56a21"
     },
     {
       "id": "pdf-archive-smoke",
       "label": "Monthly PDF Archive Smoke",
       "path": "badges/pdf-archive-smoke.svg",
-      "sha256": "sha256:f4231e8c073c238f7c0cb2530f830fa33406f2ac606016059f2fd6927274bfbd",
+      "sha256": "sha256:07599fbc96fbc164ec78ae21737cfe211a54339701dcfe77d03410dc1aaeaa49",
       "observation": {
-        "state": "pass",
+        "state": "off",
         "run": {
           "id": 34342549593,
           "sha": "08c56ec29492e262033efd9833189ff2e5297b5a",
@@ -131,9 +131,9 @@
       "id": "production-matrix-smoke",
       "label": "Monthly Production Matrix Smoke",
       "path": "badges/production-matrix-smoke.svg",
-      "sha256": "sha256:9afa69fdc01545664407a60e920efe8f6065497a84e9a25d1acfd7cdbc55d79b",
+      "sha256": "sha256:eff80c3f271c336ca6821340cb866d209dc3d16d70c81128fb1c631997e56053",
       "observation": {
-        "state": "pass",
+        "state": "off",
         "run": {
           "id": 34342546999,
           "sha": "08c56ec29492e262033efd9833189ff2e5297b5a",
@@ -145,13 +145,13 @@
       "id": "production-submit-contract-smoke",
       "label": "Production Submit Contract Smoke",
       "path": "badges/production-submit-contract-smoke.svg",
-      "sha256": "sha256:800b937cf122347d31df9275f06509139e1eb7906ab80d35fb34e28e2578a47a"
+      "sha256": "sha256:a0cc23e41bf917538d3fcfd1eba00f4797c3df49b940df71f79c1a5e91a12f19"
     },
     {
       "id": "security-evidence",
       "label": "Security Evidence",
       "path": "badges/security-evidence.svg",
-      "sha256": "sha256:2108c98d373bd669512a2178ff3efedb0636def23c36daf5be4aa3f543ebe902"
+      "sha256": "sha256:0831b189d4bec95bd5216e9fc23c851455ac16d7c7509a3997f0b2cb2534f3ab"
     },
     {
       "id": "dependabot-updates",
@@ -162,6 +162,6 @@
   ],
   "evidence": {
     "path": "evidence.md",
-    "sha256": "sha256:7b52665d9cadbc439334ecd4759e1e028b53c0e00337cee1f7ddd8c840889aa8"
+    "sha256": "sha256:4ea80474c4399e347eed857bf158a9f06944ea1db035ca7af04a172cc30c6500"
   }
 }
