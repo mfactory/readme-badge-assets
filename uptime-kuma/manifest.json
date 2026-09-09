@@ -43,13 +43,13 @@
       "id": "dhi-maintenance",
       "label": "DHI Maintenance",
       "path": "badges/dhi-maintenance.svg",
-      "sha256": "sha256:464572d854b285a569e4f6ecc6ae34608eb3b133f3b058f07847b042ce525673"
+      "sha256": "sha256:2e9d98724fe2b422cbfa29f483a447c4c7e237f7af7bd761207faff0f031193c"
     },
     {
       "id": "lint-and-deploy",
       "label": "Lint And Deploy",
       "path": "badges/lint-and-deploy.svg",
-      "sha256": "sha256:7fced10ac35713c936e7b0804109a5c1b29082ef7097ac80c5c690e0a2bb9c78"
+      "sha256": "sha256:91f6b3623f55d81f9a4ce3911c5fb07687bf1912422ddd328c3c662ab60bc047"
     },
     {
       "id": "validate",
