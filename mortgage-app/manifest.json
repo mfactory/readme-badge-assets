@@ -121,9 +121,9 @@
       "observation": {
         "state": "pass",
         "run": {
-          "id": 34158336827,
-          "sha": "4b1160f691788913842266fec1b98f437a6e1489",
-          "updatedAt": "2026-09-07T20:11:22.000Z"
+          "id": 34342549593,
+          "sha": "08c56ec29492e262033efd9833189ff2e5297b5a",
+          "updatedAt": "2026-09-09T10:54:09.000Z"
         }
       }
     },
@@ -131,13 +131,13 @@
       "id": "production-matrix-smoke",
       "label": "Monthly Production Matrix Smoke",
       "path": "badges/production-matrix-smoke.svg",
-      "sha256": "sha256:9afa69fdc01545664407a60e920efe8f6065497a84e9a25d1acfd7cdbc55d79b",
+      "sha256": "sha256:73713660b139f582e118e686c25cdd97bb9feb1cdbf4625b6e69d6e09dde84a3",
       "observation": {
-        "state": "pass",
+        "state": "pending",
         "run": {
-          "id": 34158367908,
-          "sha": "4b1160f691788913842266fec1b98f437a6e1489",
-          "updatedAt": "2026-09-07T20:12:48.000Z"
+          "id": 34342546999,
+          "sha": "08c56ec29492e262033efd9833189ff2e5297b5a",
+          "updatedAt": "2026-09-09T10:52:38.000Z"
         }
       }
     },
@@ -162,6 +162,6 @@
   ],
   "evidence": {
     "path": "evidence.md",
-    "sha256": "sha256:a54078bb6e4850ae5f062a5b5c83abc302fb8f2156a8d8bd11548b41216ef074"
+    "sha256": "sha256:6ad26248aabf14079afd9f30bccc700fe0fcd5ded401386e6ec93c0d2355a4b0"
   }
 }
