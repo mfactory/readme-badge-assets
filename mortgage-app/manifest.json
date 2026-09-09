@@ -85,7 +85,7 @@
       "id": "deep-qa",
       "label": "Deep QA",
       "path": "badges/deep-qa.svg",
-      "sha256": "sha256:167c1336b276f525e4dfa5a7f0b6b73128e64e8f99d126607997ed04871f5d2e"
+      "sha256": "sha256:1ee361f0c8d155fa596fd128e98a7f662d12579500afff50dcc569f7f4da745f"
     },
     {
       "id": "dhi-ci-image-verification",
@@ -127,7 +127,7 @@
       "id": "security-evidence",
       "label": "Security Evidence",
       "path": "badges/security-evidence.svg",
-      "sha256": "sha256:2c5b7fce4c70864cc76c31eb282e4df770a1885a3c055c79c329f18e46ee6088"
+      "sha256": "sha256:0f41580e37b61a4a89af32697f67772bad748dd97605693f6d801ba7071eff4d"
     },
     {
       "id": "dependabot-updates",
