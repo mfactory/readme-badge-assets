@@ -43,13 +43,13 @@
       "id": "lint-and-deploy",
       "label": "Lint And Deploy",
       "path": "badges/lint-and-deploy.svg",
-      "sha256": "sha256:7fced10ac35713c936e7b0804109a5c1b29082ef7097ac80c5c690e0a2bb9c78"
+      "sha256": "sha256:91f6b3623f55d81f9a4ce3911c5fb07687bf1912422ddd328c3c662ab60bc047"
     },
     {
       "id": "dhi-security",
       "label": "DHI Security",
       "path": "badges/dhi-security.svg",
-      "sha256": "sha256:ee3e435d8804f7ac8c541bf96752f13b0daa486695513e8926a056ac841c459a"
+      "sha256": "sha256:cb7a257946a3361bc697f87b6cd81e64cd50d9d7d26eba36aced4158c4850c89"
     },
     {
       "id": "code-quality-scan",
