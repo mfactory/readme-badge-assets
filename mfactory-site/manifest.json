@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "0ac93814071a05ed504d6dd8c7a917633302c8fd",
+  "sourceSha": "6c05dd3f174895cb0e845749e6ad914385dd174a",
   "badges": [
     {
       "id": "coverage",
@@ -19,7 +19,7 @@
       "id": "deployment",
       "label": "Site Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:9d54b68f5390d45c62c1421026ac43a6f47a2ab19ffab11be9b9d16f5e8ce9be"
+      "sha256": "sha256:8f2a93a96907577fb01c81f62f4fe0b6562b02768d8450fb6790dd1226968ec0"
     },
     {
       "id": "health",
@@ -43,13 +43,13 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:ce32004c0d02dcdf2a22a838f1f8ac6cdcbc6b946a0fb75fbd55c8bfb8e6cab5"
+      "sha256": "sha256:68f841b7d7025e03c0a6c4f77e93c49d7a78ab1be5b95919dc19e59cc07ba586"
     },
     {
       "id": "cloudflare-security-controls",
       "label": "Cloudflare Security Controls",
       "path": "badges/cloudflare-security-controls.svg",
-      "sha256": "sha256:6e2b1f2c63a2ee087b7358119a58a12c1396396efaac4df3af8c02bfc4fe18e7"
+      "sha256": "sha256:f3da2c3377739c153058839156405e3c533c2bef01ba845d789e5ec79b7790af"
     },
     {
       "id": "code-quality-scan",
@@ -67,7 +67,7 @@
       "id": "dhi-canary",
       "label": "DHI Canary",
       "path": "badges/dhi-canary.svg",
-      "sha256": "sha256:0adbb6d0d615ddfff66a7ea6c78ce4ed610f0becca1aeaa96a6c3dd16759c804"
+      "sha256": "sha256:83adc158c357f6f596ce7a1d0d428bc4872744ac84d6ce2b70b6428a526ca5a8"
     },
     {
       "id": "mutation-assurance",
@@ -79,13 +79,13 @@
       "id": "production-api-security-attestation",
       "label": "Production API Security Attestation",
       "path": "badges/production-api-security-attestation.svg",
-      "sha256": "sha256:09c8a9793fcc85d2c13d8144f5796886fd995cbebe2f7101f6837730e337b9ed"
+      "sha256": "sha256:97fdd42ee363c0e6cfa3c047d3517707369297a8d4810efba21481dedd4bb2e5"
     },
     {
       "id": "production-observability-smoke",
       "label": "Production Observability Smoke",
       "path": "badges/production-observability-smoke.svg",
-      "sha256": "sha256:e919d1c0fe2bd0433e647b7472d032837530124decbe333d74878ef5037354f6"
+      "sha256": "sha256:4179a6af51068015178a4a4067c9a3cf6a5305c3c2a1c1da0876327edaf6a0b6"
     },
     {
       "id": "production-paired-rollback",
