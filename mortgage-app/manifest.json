@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mortgage-app",
-  "sourceSha": "15b9ba24ad8e53f3bda8c673506e4e9614c90fe2",
+  "sourceSha": "2d70d809fcda112df6c44dbd0e3e97e9c96fca3e",
   "badges": [
     {
       "id": "coverage",
@@ -19,7 +19,7 @@
       "id": "deployment",
       "label": "App Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:a7fc9573781308c990a6b262d5c4f747f0929602121428adacfe01080f534ee8"
+      "sha256": "sha256:ac2536b8f60d5c6365b64cddf355f05bb9017f8d7cbfb28a56cbb4be1365975e"
     },
     {
       "id": "health",
@@ -49,7 +49,7 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:ce32004c0d02dcdf2a22a838f1f8ac6cdcbc6b946a0fb75fbd55c8bfb8e6cab5"
+      "sha256": "sha256:68f841b7d7025e03c0a6c4f77e93c49d7a78ab1be5b95919dc19e59cc07ba586"
     },
     {
       "id": "admin-access-lifecycle",
@@ -61,7 +61,7 @@
       "id": "browser-qa",
       "label": "Browser QA",
       "path": "badges/browser-qa.svg",
-      "sha256": "sha256:44c646a9c3f634c701e093772dd7e48cf04c9d51ef77cf07afde7412d128463d"
+      "sha256": "sha256:f9f1f882e845cf766cbcad71fd7e16a4db9157decb20cf702c130b6e9404fe67"
     },
     {
       "id": "cloudflare-posture-evidence",
@@ -85,25 +85,25 @@
       "id": "deep-qa",
       "label": "Deep QA",
       "path": "badges/deep-qa.svg",
-      "sha256": "sha256:653c4494dccfa7fa17239b0b3b3cfb3693ad9328fc5439542941add183adedc9"
+      "sha256": "sha256:167c1336b276f525e4dfa5a7f0b6b73128e64e8f99d126607997ed04871f5d2e"
     },
     {
       "id": "dhi-ci-image-verification",
       "label": "DHI CI Image Verification",
       "path": "badges/dhi-ci-image-verification.svg",
-      "sha256": "sha256:1828edd55b9a68a01f00b602d7413fd23d2e2a1c5a02bba3a93142ce486cf855"
+      "sha256": "sha256:185f0a80e5add967d0f92c695283e3edd804e02823188652602a74d96ca9ec96"
     },
     {
       "id": "satellite-workers",
       "label": "Satellite Workers",
       "path": "badges/satellite-workers.svg",
-      "sha256": "sha256:6fe917e8df571d840b929285812b4aab3b5fab9d18eb3ac6dd96e63e0ea9a6ae",
+      "sha256": "sha256:e3fd74b92a4c2570f9d9bd8113dd4a524f623dc2d02903551cbf12fee072ec7d",
       "observation": {
-        "state": "off",
+        "state": "pending",
         "run": {
-          "id": 34371748930,
-          "sha": "96660506df0bffab655d38c87e30cc4f9de03c27",
-          "updatedAt": "2026-09-09T15:42:03.000Z"
+          "id": 34405516691,
+          "sha": "2d70d809fcda112df6c44dbd0e3e97e9c96fca3e",
+          "updatedAt": "2026-09-09T21:11:44.000Z"
         }
       }
     },
@@ -111,7 +111,7 @@
       "id": "deployment-health",
       "label": "Deployment Health",
       "path": "badges/deployment-health.svg",
-      "sha256": "sha256:2a5dfa0012562101b07a88b78ada990b3c504e99e9acb101906c182f9df56a21"
+      "sha256": "sha256:fd2ab3f77dbd4a1a9a3bc30f5184f324bba35b29182c8f28fa18012cfe4ee3b0"
     },
     {
       "id": "pdf-archive-smoke",
@@ -145,13 +145,13 @@
       "id": "production-submit-contract-smoke",
       "label": "Production Submit Contract Smoke",
       "path": "badges/production-submit-contract-smoke.svg",
-      "sha256": "sha256:a0cc23e41bf917538d3fcfd1eba00f4797c3df49b940df71f79c1a5e91a12f19"
+      "sha256": "sha256:d56c7ed87c7badaf277edb44ea70a36c4634b63fdb0bbd99d13266924b5f4759"
     },
     {
       "id": "security-evidence",
       "label": "Security Evidence",
       "path": "badges/security-evidence.svg",
-      "sha256": "sha256:0831b189d4bec95bd5216e9fc23c851455ac16d7c7509a3997f0b2cb2534f3ab"
+      "sha256": "sha256:2c5b7fce4c70864cc76c31eb282e4df770a1885a3c055c79c329f18e46ee6088"
     },
     {
       "id": "dependabot-updates",
@@ -162,6 +162,6 @@
   ],
   "evidence": {
     "path": "evidence.md",
-    "sha256": "sha256:12db38713d5af103d1321886f4953bc3e38c93207fcfc1f1424b9e8382bfe437"
+    "sha256": "sha256:3389644f300ed03b1ee209e380f83973e665559671eeaa1a6518c7ab32675731"
   }
 }
