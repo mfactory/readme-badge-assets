@@ -55,7 +55,7 @@
       "id": "admin-access-lifecycle",
       "label": "Admin Access Lifecycle",
       "path": "badges/admin-access-lifecycle.svg",
-      "sha256": "sha256:1758d65f47c6f6e24b950d0d7038a7d33dcfabfe3ab4ed4580156d1126dca565"
+      "sha256": "sha256:4a8034024985bcc7e860bcb111930bd3ae390b484b7e4958f17cb66e3b6a2645"
     },
     {
       "id": "browser-qa",
@@ -67,7 +67,7 @@
       "id": "cloudflare-posture-evidence",
       "label": "Cloudflare Posture Evidence",
       "path": "badges/cloudflare-posture-evidence.svg",
-      "sha256": "sha256:0da5d23e4e8334f2b8484c5241d9dd41d6a8767020744a97d6a6c84cfd10ac92"
+      "sha256": "sha256:43f00b837e47d7ea2c418c5b0a79b46e27d0c0ed73febf556f64cb6b383209a0"
     },
     {
       "id": "code-quality-scan",
@@ -79,7 +79,7 @@
       "id": "compliance-ops-evidence",
       "label": "Compliance Ops Evidence",
       "path": "badges/compliance-ops-evidence.svg",
-      "sha256": "sha256:29a6933c39fb5c504e936f4d87dd73aee1c93ad3b2fc518aeffd6c9eab934dd9"
+      "sha256": "sha256:fecbb658f2f7da3d56369691e7e8edfc34d7478101e487d2e7e2e01256995821"
     },
     {
       "id": "deep-qa",
@@ -117,9 +117,9 @@
       "id": "pdf-archive-smoke",
       "label": "Monthly PDF Archive Smoke",
       "path": "badges/pdf-archive-smoke.svg",
-      "sha256": "sha256:07599fbc96fbc164ec78ae21737cfe211a54339701dcfe77d03410dc1aaeaa49",
+      "sha256": "sha256:f4231e8c073c238f7c0cb2530f830fa33406f2ac606016059f2fd6927274bfbd",
       "observation": {
-        "state": "off",
+        "state": "pass",
         "run": {
           "id": 34342549593,
           "sha": "08c56ec29492e262033efd9833189ff2e5297b5a",
@@ -131,9 +131,9 @@
       "id": "production-matrix-smoke",
       "label": "Monthly Production Matrix Smoke",
       "path": "badges/production-matrix-smoke.svg",
-      "sha256": "sha256:eff80c3f271c336ca6821340cb866d209dc3d16d70c81128fb1c631997e56053",
+      "sha256": "sha256:9afa69fdc01545664407a60e920efe8f6065497a84e9a25d1acfd7cdbc55d79b",
       "observation": {
-        "state": "off",
+        "state": "pass",
         "run": {
           "id": 34342546999,
           "sha": "08c56ec29492e262033efd9833189ff2e5297b5a",
@@ -162,6 +162,6 @@
   ],
   "evidence": {
     "path": "evidence.md",
-    "sha256": "sha256:cfc979d8f74cd1fc952e529b7f78ba867c24a0290ea591b86edaeba8bc08a8ce"
+    "sha256": "sha256:0a99bfdd915640701fb026911c61d71450970bb101df695c94d6a2f319fc1d06"
   }
 }
