@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mortgage-app",
-  "sourceSha": "96660506df0bffab655d38c87e30cc4f9de03c27",
+  "sourceSha": "15b9ba24ad8e53f3bda8c673506e4e9614c90fe2",
   "badges": [
     {
       "id": "coverage",
@@ -19,7 +19,7 @@
       "id": "deployment",
       "label": "App Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:ac2536b8f60d5c6365b64cddf355f05bb9017f8d7cbfb28a56cbb4be1365975e"
+      "sha256": "sha256:a7fc9573781308c990a6b262d5c4f747f0929602121428adacfe01080f534ee8"
     },
     {
       "id": "health",
@@ -49,7 +49,7 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:52a372628f0b4e2c9aea5214d90d2b2a148b13e203003b7e1dca3e192d0300b6"
+      "sha256": "sha256:ce32004c0d02dcdf2a22a838f1f8ac6cdcbc6b946a0fb75fbd55c8bfb8e6cab5"
     },
     {
       "id": "admin-access-lifecycle",
@@ -61,7 +61,7 @@
       "id": "browser-qa",
       "label": "Browser QA",
       "path": "badges/browser-qa.svg",
-      "sha256": "sha256:6cbf2544dcd02e8ffbd0e99140e9a32d58437f60be8b1884f8595194285070e3"
+      "sha256": "sha256:44c646a9c3f634c701e093772dd7e48cf04c9d51ef77cf07afde7412d128463d"
     },
     {
       "id": "cloudflare-posture-evidence",
@@ -85,7 +85,7 @@
       "id": "deep-qa",
       "label": "Deep QA",
       "path": "badges/deep-qa.svg",
-      "sha256": "sha256:1ee361f0c8d155fa596fd128e98a7f662d12579500afff50dcc569f7f4da745f"
+      "sha256": "sha256:653c4494dccfa7fa17239b0b3b3cfb3693ad9328fc5439542941add183adedc9"
     },
     {
       "id": "dhi-ci-image-verification",
@@ -162,6 +162,6 @@
   ],
   "evidence": {
     "path": "evidence.md",
-    "sha256": "sha256:4ea80474c4399e347eed857bf158a9f06944ea1db035ca7af04a172cc30c6500"
+    "sha256": "sha256:12db38713d5af103d1321886f4953bc3e38c93207fcfc1f1424b9e8382bfe437"
   }
 }
