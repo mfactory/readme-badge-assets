@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mortgage-app",
-  "sourceSha": "08c56ec29492e262033efd9833189ff2e5297b5a",
+  "sourceSha": "96660506df0bffab655d38c87e30cc4f9de03c27",
   "badges": [
     {
       "id": "coverage",
@@ -61,7 +61,7 @@
       "id": "browser-qa",
       "label": "Browser QA",
       "path": "badges/browser-qa.svg",
-      "sha256": "sha256:6cbf2544dcd02e8ffbd0e99140e9a32d58437f60be8b1884f8595194285070e3"
+      "sha256": "sha256:f9f1f882e845cf766cbcad71fd7e16a4db9157decb20cf702c130b6e9404fe67"
     },
     {
       "id": "cloudflare-posture-evidence",
@@ -85,7 +85,7 @@
       "id": "deep-qa",
       "label": "Deep QA",
       "path": "badges/deep-qa.svg",
-      "sha256": "sha256:1ee361f0c8d155fa596fd128e98a7f662d12579500afff50dcc569f7f4da745f"
+      "sha256": "sha256:167c1336b276f525e4dfa5a7f0b6b73128e64e8f99d126607997ed04871f5d2e"
     },
     {
       "id": "dhi-ci-image-verification",
@@ -97,13 +97,13 @@
       "id": "satellite-workers",
       "label": "Satellite Workers",
       "path": "badges/satellite-workers.svg",
-      "sha256": "sha256:7de0dfc71ab65a125aba08d839ee9c43f7f639d4128a75ebe260f4d39829cf30",
+      "sha256": "sha256:e3fd74b92a4c2570f9d9bd8113dd4a524f623dc2d02903551cbf12fee072ec7d",
       "observation": {
-        "state": "pass",
+        "state": "pending",
         "run": {
-          "id": 34345948436,
-          "sha": "08c56ec29492e262033efd9833189ff2e5297b5a",
-          "updatedAt": "2026-09-09T11:32:20.000Z"
+          "id": 34371748930,
+          "sha": "96660506df0bffab655d38c87e30cc4f9de03c27",
+          "updatedAt": "2026-09-09T15:40:17.000Z"
         }
       }
     },
@@ -111,7 +111,7 @@
       "id": "deployment-health",
       "label": "Deployment Health",
       "path": "badges/deployment-health.svg",
-      "sha256": "sha256:fa60997e4346b260ca9635fb461ac9a2c430291b4ea28af63d1c292e4b6407ea"
+      "sha256": "sha256:fd2ab3f77dbd4a1a9a3bc30f5184f324bba35b29182c8f28fa18012cfe4ee3b0"
     },
     {
       "id": "pdf-archive-smoke",
@@ -145,13 +145,13 @@
       "id": "production-submit-contract-smoke",
       "label": "Production Submit Contract Smoke",
       "path": "badges/production-submit-contract-smoke.svg",
-      "sha256": "sha256:800b937cf122347d31df9275f06509139e1eb7906ab80d35fb34e28e2578a47a"
+      "sha256": "sha256:d56c7ed87c7badaf277edb44ea70a36c4634b63fdb0bbd99d13266924b5f4759"
     },
     {
       "id": "security-evidence",
       "label": "Security Evidence",
       "path": "badges/security-evidence.svg",
-      "sha256": "sha256:2108c98d373bd669512a2178ff3efedb0636def23c36daf5be4aa3f543ebe902"
+      "sha256": "sha256:2c5b7fce4c70864cc76c31eb282e4df770a1885a3c055c79c329f18e46ee6088"
     },
     {
       "id": "dependabot-updates",
@@ -162,6 +162,6 @@
   ],
   "evidence": {
     "path": "evidence.md",
-    "sha256": "sha256:0174bca6d662d99a5a9eff00c1da16c26790d8d473ffd1311e49c8bd3c7ded41"
+    "sha256": "sha256:5e109727f9bbfc5c2c85c9002b8c77019ae7bf816fc808203437e56458d6d536"
   }
 }
