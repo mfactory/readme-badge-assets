@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/infrastructure",
-  "sourceSha": "462d72e3a3926f252839a66b3e9958c2c5f8a9fc",
+  "sourceSha": "31a862f4ca9cf69b1d4f74aea8eeab582b42131e",
   "badges": [
     {
       "id": "coverage",
@@ -37,7 +37,7 @@
       "id": "mcp-monitor",
       "label": "MCP Monitor",
       "path": "badges/mcp-monitor.svg",
-      "sha256": "sha256:2a6b8d929a25eb53782f2651e038724d706d6d68b6f7e0810c1aacf461bb35eb"
+      "sha256": "sha256:e2bc27d30caa44aa0c225b5d7fafac841ad0932925d5a74a98c1526bf987f6e8"
     },
     {
       "id": "socket",
