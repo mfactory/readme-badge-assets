@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mortgage-app",
-  "sourceSha": "545220ac10fa2d499c36c5942aa92ffdf632de3c",
+  "sourceSha": "ec16544366d73d2233f4b46a9a0e619ca9e0b778",
   "badges": [
     {
       "id": "coverage",
@@ -61,7 +61,7 @@
       "id": "browser-qa",
       "label": "Browser QA",
       "path": "badges/browser-qa.svg",
-      "sha256": "sha256:6cbf2544dcd02e8ffbd0e99140e9a32d58437f60be8b1884f8595194285070e3"
+      "sha256": "sha256:f9f1f882e845cf766cbcad71fd7e16a4db9157decb20cf702c130b6e9404fe67"
     },
     {
       "id": "cloudflare-posture-evidence",
@@ -85,25 +85,25 @@
       "id": "deep-qa",
       "label": "Deep QA",
       "path": "badges/deep-qa.svg",
-      "sha256": "sha256:1ee361f0c8d155fa596fd128e98a7f662d12579500afff50dcc569f7f4da745f"
+      "sha256": "sha256:167c1336b276f525e4dfa5a7f0b6b73128e64e8f99d126607997ed04871f5d2e"
     },
     {
       "id": "dhi-ci-image-verification",
       "label": "DHI CI Image Verification",
       "path": "badges/dhi-ci-image-verification.svg",
-      "sha256": "sha256:185f0a80e5add967d0f92c695283e3edd804e02823188652602a74d96ca9ec96"
+      "sha256": "sha256:de6381054ba844df50c0b3cc1c7a262a131faa88bf7126f192a45e827d54aa79"
     },
     {
       "id": "satellite-workers",
       "label": "Satellite Workers",
       "path": "badges/satellite-workers.svg",
-      "sha256": "sha256:7de0dfc71ab65a125aba08d839ee9c43f7f639d4128a75ebe260f4d39829cf30",
+      "sha256": "sha256:e3fd74b92a4c2570f9d9bd8113dd4a524f623dc2d02903551cbf12fee072ec7d",
       "observation": {
-        "state": "pass",
+        "state": "pending",
         "run": {
-          "id": 34442176888,
-          "sha": "545220ac10fa2d499c36c5942aa92ffdf632de3c",
-          "updatedAt": "2026-09-10T05:44:46.000Z"
+          "id": 34467504870,
+          "sha": "ec16544366d73d2233f4b46a9a0e619ca9e0b778",
+          "updatedAt": "2026-09-10T10:43:04.000Z"
         }
       }
     },
@@ -111,7 +111,7 @@
       "id": "deployment-health",
       "label": "Deployment Health",
       "path": "badges/deployment-health.svg",
-      "sha256": "sha256:fa60997e4346b260ca9635fb461ac9a2c430291b4ea28af63d1c292e4b6407ea"
+      "sha256": "sha256:fd2ab3f77dbd4a1a9a3bc30f5184f324bba35b29182c8f28fa18012cfe4ee3b0"
     },
     {
       "id": "pdf-archive-smoke",
@@ -145,13 +145,13 @@
       "id": "production-submit-contract-smoke",
       "label": "Production Submit Contract Smoke",
       "path": "badges/production-submit-contract-smoke.svg",
-      "sha256": "sha256:800b937cf122347d31df9275f06509139e1eb7906ab80d35fb34e28e2578a47a"
+      "sha256": "sha256:d56c7ed87c7badaf277edb44ea70a36c4634b63fdb0bbd99d13266924b5f4759"
     },
     {
       "id": "security-evidence",
       "label": "Security Evidence",
       "path": "badges/security-evidence.svg",
-      "sha256": "sha256:2108c98d373bd669512a2178ff3efedb0636def23c36daf5be4aa3f543ebe902"
+      "sha256": "sha256:2c5b7fce4c70864cc76c31eb282e4df770a1885a3c055c79c329f18e46ee6088"
     },
     {
       "id": "dependabot-updates",
@@ -162,6 +162,6 @@
   ],
   "evidence": {
     "path": "evidence.md",
-    "sha256": "sha256:ad83b3c296bf0b862ab8ad3d3f3903baac65b8cab68ee569e185e0085868c9de"
+    "sha256": "sha256:937405562e9b9e0876031cde6e030606df70a510a603c26b8e8e068b8d7b888d"
   }
 }
