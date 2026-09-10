@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "09f6b65cbe3c668118fe9927d5ac202eb2a8bb0f",
+  "sourceSha": "1b9d299be7f7d45fcc5f7bdacd4821199f2469ed",
   "health": {
-    "generatedAt": "2026-09-10T17:43:48.032Z",
-    "healthy": true,
+    "generatedAt": "2026-09-10T22:23:30.865Z",
+    "healthy": false,
     "checks": [
       {
         "id": "ci",
-        "state": "pass"
+        "state": "fail"
       },
       {
         "id": "dhi-canary",
-        "state": "pass"
+        "state": "fail"
       },
       {
         "id": "cloudflare-security-controls",
-        "state": "pass"
+        "state": "stale"
       },
       {
         "id": "production-api-security-attestation",
-        "state": "pass"
+        "state": "stale"
       }
     ]
   },
@@ -41,7 +41,7 @@
       "id": "deployment",
       "label": "Site Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:8f2a93a96907577fb01c81f62f4fe0b6562b02768d8450fb6790dd1226968ec0"
+      "sha256": "sha256:9d54b68f5390d45c62c1421026ac43a6f47a2ab19ffab11be9b9d16f5e8ce9be"
     },
     {
       "id": "health",
@@ -65,13 +65,13 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:68f841b7d7025e03c0a6c4f77e93c49d7a78ab1be5b95919dc19e59cc07ba586"
+      "sha256": "sha256:ce32004c0d02dcdf2a22a838f1f8ac6cdcbc6b946a0fb75fbd55c8bfb8e6cab5"
     },
     {
       "id": "cloudflare-security-controls",
       "label": "Cloudflare Security Controls",
       "path": "badges/cloudflare-security-controls.svg",
-      "sha256": "sha256:202ef12582c11cd68e0be17d906339eda3f0de8cc9a18b076bdc496c99629bcd"
+      "sha256": "sha256:6e2b1f2c63a2ee087b7358119a58a12c1396396efaac4df3af8c02bfc4fe18e7"
     },
     {
       "id": "code-quality-scan",
@@ -89,7 +89,7 @@
       "id": "dhi-canary",
       "label": "DHI Canary",
       "path": "badges/dhi-canary.svg",
-      "sha256": "sha256:83adc158c357f6f596ce7a1d0d428bc4872744ac84d6ce2b70b6428a526ca5a8"
+      "sha256": "sha256:0adbb6d0d615ddfff66a7ea6c78ce4ed610f0becca1aeaa96a6c3dd16759c804"
     },
     {
       "id": "mutation-assurance",
@@ -101,7 +101,7 @@
       "id": "production-api-security-attestation",
       "label": "Production API Security Attestation",
       "path": "badges/production-api-security-attestation.svg",
-      "sha256": "sha256:2f8b00cb06bd7c67a0206d45203bba9058149b59e8d1a56fa272256f8eeb15f7"
+      "sha256": "sha256:09c8a9793fcc85d2c13d8144f5796886fd995cbebe2f7101f6837730e337b9ed"
     },
     {
       "id": "production-observability-smoke",
