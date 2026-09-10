@@ -97,13 +97,13 @@
       "id": "satellite-workers",
       "label": "Satellite Workers",
       "path": "badges/satellite-workers.svg",
-      "sha256": "sha256:e3fd74b92a4c2570f9d9bd8113dd4a524f623dc2d02903551cbf12fee072ec7d",
+      "sha256": "sha256:7de0dfc71ab65a125aba08d839ee9c43f7f639d4128a75ebe260f4d39829cf30",
       "observation": {
-        "state": "pending",
+        "state": "pass",
         "run": {
           "id": 34442176888,
           "sha": "545220ac10fa2d499c36c5942aa92ffdf632de3c",
-          "updatedAt": "2026-09-10T05:43:01.000Z"
+          "updatedAt": "2026-09-10T05:44:46.000Z"
         }
       }
     },
@@ -111,7 +111,7 @@
       "id": "deployment-health",
       "label": "Deployment Health",
       "path": "badges/deployment-health.svg",
-      "sha256": "sha256:fd2ab3f77dbd4a1a9a3bc30f5184f324bba35b29182c8f28fa18012cfe4ee3b0"
+      "sha256": "sha256:fa60997e4346b260ca9635fb461ac9a2c430291b4ea28af63d1c292e4b6407ea"
     },
     {
       "id": "pdf-archive-smoke",
@@ -145,7 +145,7 @@
       "id": "production-submit-contract-smoke",
       "label": "Production Submit Contract Smoke",
       "path": "badges/production-submit-contract-smoke.svg",
-      "sha256": "sha256:d56c7ed87c7badaf277edb44ea70a36c4634b63fdb0bbd99d13266924b5f4759"
+      "sha256": "sha256:800b937cf122347d31df9275f06509139e1eb7906ab80d35fb34e28e2578a47a"
     },
     {
       "id": "security-evidence",
@@ -162,6 +162,6 @@
   ],
   "evidence": {
     "path": "evidence.md",
-    "sha256": "sha256:0ee9f745fd26600f6e7f0a166ee26c47bd55b7e936dae8dfb4c825dba9c1ca7b"
+    "sha256": "sha256:ad83b3c296bf0b862ab8ad3d3f3903baac65b8cab68ee569e185e0085868c9de"
   }
 }
