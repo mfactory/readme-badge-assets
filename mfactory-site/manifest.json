@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "72f5ec7573836b26da64f8d837ab9a0565394a90",
+  "sourceSha": "dcf47c5779ab5d8a830c5351c90d035328ce20d5",
   "badges": [
     {
       "id": "coverage",
@@ -49,7 +49,7 @@
       "id": "cloudflare-security-controls",
       "label": "Cloudflare Security Controls",
       "path": "badges/cloudflare-security-controls.svg",
-      "sha256": "sha256:202ef12582c11cd68e0be17d906339eda3f0de8cc9a18b076bdc496c99629bcd"
+      "sha256": "sha256:f3da2c3377739c153058839156405e3c533c2bef01ba845d789e5ec79b7790af"
     },
     {
       "id": "code-quality-scan",
@@ -79,7 +79,7 @@
       "id": "production-api-security-attestation",
       "label": "Production API Security Attestation",
       "path": "badges/production-api-security-attestation.svg",
-      "sha256": "sha256:2f8b00cb06bd7c67a0206d45203bba9058149b59e8d1a56fa272256f8eeb15f7"
+      "sha256": "sha256:97fdd42ee363c0e6cfa3c047d3517707369297a8d4810efba21481dedd4bb2e5"
     },
     {
       "id": "production-observability-smoke",
