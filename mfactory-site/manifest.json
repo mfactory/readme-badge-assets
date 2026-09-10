@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "1b9d299be7f7d45fcc5f7bdacd4821199f2469ed",
+  "sourceSha": "92c9a22407c4a9e996f84c489c9a2674e5b6be13",
   "health": {
-    "generatedAt": "2026-09-10T22:23:30.865Z",
+    "generatedAt": "2026-09-10T22:55:51.896Z",
     "healthy": false,
     "checks": [
       {
@@ -12,7 +12,7 @@
       },
       {
         "id": "dhi-canary",
-        "state": "fail"
+        "state": "pass"
       },
       {
         "id": "cloudflare-security-controls",
@@ -89,7 +89,7 @@
       "id": "dhi-canary",
       "label": "DHI Canary",
       "path": "badges/dhi-canary.svg",
-      "sha256": "sha256:0adbb6d0d615ddfff66a7ea6c78ce4ed610f0becca1aeaa96a6c3dd16759c804"
+      "sha256": "sha256:83adc158c357f6f596ce7a1d0d428bc4872744ac84d6ce2b70b6428a526ca5a8"
     },
     {
       "id": "mutation-assurance",
