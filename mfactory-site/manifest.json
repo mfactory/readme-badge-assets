@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "8fa758978b2d8dfe73346e1e85f683249cca017e",
+  "sourceSha": "09f6b65cbe3c668118fe9927d5ac202eb2a8bb0f",
   "health": {
-    "generatedAt": "2026-09-10T13:50:55.619Z",
-    "healthy": true,
+    "generatedAt": "2026-09-10T17:23:14.236Z",
+    "healthy": false,
     "checks": [
       {
         "id": "ci",
@@ -20,7 +20,7 @@
       },
       {
         "id": "production-api-security-attestation",
-        "state": "pass"
+        "state": "pending"
       }
     ]
   },
@@ -101,7 +101,7 @@
       "id": "production-api-security-attestation",
       "label": "Production API Security Attestation",
       "path": "badges/production-api-security-attestation.svg",
-      "sha256": "sha256:2f8b00cb06bd7c67a0206d45203bba9058149b59e8d1a56fa272256f8eeb15f7"
+      "sha256": "sha256:97fdd42ee363c0e6cfa3c047d3517707369297a8d4810efba21481dedd4bb2e5"
     },
     {
       "id": "production-observability-smoke",
