@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "48586f74666d40eb41de0e4381ceac6db6fc06b2",
+  "sourceSha": "72f5ec7573836b26da64f8d837ab9a0565394a90",
   "badges": [
     {
       "id": "coverage",
@@ -67,7 +67,7 @@
       "id": "dhi-canary",
       "label": "DHI Canary",
       "path": "badges/dhi-canary.svg",
-      "sha256": "sha256:7fe920b43b7c5cc24dbbc64e138664c66188b5bed6d916dffd3de69c61502c1b"
+      "sha256": "sha256:83adc158c357f6f596ce7a1d0d428bc4872744ac84d6ce2b70b6428a526ca5a8"
     },
     {
       "id": "mutation-assurance",
@@ -79,7 +79,7 @@
       "id": "production-api-security-attestation",
       "label": "Production API Security Attestation",
       "path": "badges/production-api-security-attestation.svg",
-      "sha256": "sha256:97fdd42ee363c0e6cfa3c047d3517707369297a8d4810efba21481dedd4bb2e5"
+      "sha256": "sha256:2f8b00cb06bd7c67a0206d45203bba9058149b59e8d1a56fa272256f8eeb15f7"
     },
     {
       "id": "production-observability-smoke",
