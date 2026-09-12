@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/infrastructure",
-  "sourceSha": "5ef6b8510a100b4fb07e1960a8c0279d4afa0653",
+  "sourceSha": "6ecb4622f2f89864d3c988eaf52a6e38e691e8c3",
   "badges": [
     {
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:7bb392489f3ca57d3acf807e2ceea50dbd25408d4739dee5aef79a5bbd41768a"
+      "sha256": "sha256:a83365b0b4e46111d42ec5b4a2447f255778131d2ed304e66c7b379458ef954c"
     },
     {
       "id": "github-code-quality",
@@ -19,7 +19,7 @@
       "id": "mcp-deployment",
       "label": "MCP Deployment",
       "path": "badges/mcp-deployment.svg",
-      "sha256": "sha256:f5010cecf3ab10058bde133c2a82b87c371b17e2d68e0075d99d82a461e13a47"
+      "sha256": "sha256:22966a2f05478cd1888605749040dbeacbd4d9f934153da910bc33f43bc27069"
     },
     {
       "id": "relay-health",
@@ -49,7 +49,7 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:68f841b7d7025e03c0a6c4f77e93c49d7a78ab1be5b95919dc19e59cc07ba586"
+      "sha256": "sha256:ce32004c0d02dcdf2a22a838f1f8ac6cdcbc6b946a0fb75fbd55c8bfb8e6cab5"
     },
     {
       "id": "dhi-supply-chain",
