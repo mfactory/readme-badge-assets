@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/infrastructure",
-  "sourceSha": "75212521c2957ade56221f2768fd260a2b6f5d32",
+  "sourceSha": "79cadf2c1b85483988e7f8d9c837110806647627",
   "badges": [
     {
       "id": "coverage",
@@ -28,12 +28,6 @@
       "sha256": "sha256:ca517e09827d57b4bd64ede4611d06c586449251cb82dc77a2693d8982d81bbd"
     },
     {
-      "id": "dockhand-route",
-      "label": "Dockhand Route",
-      "path": "badges/dockhand-route.svg",
-      "sha256": "sha256:a8a1f5b3c59d754744a037f2767409512a3e6d0585024d7e6b6382ee32919047"
-    },
-    {
       "id": "mcp-monitor",
       "label": "MCP Monitor",
       "path": "badges/mcp-monitor.svg",
@@ -49,31 +43,31 @@
       "id": "gitleaks",
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
-      "sha256": "sha256:0fb801f71d9b8c0c7fc3eb99bbcfd3a73d189e8b2d589813e57bd2e907c5406c"
+      "sha256": "sha256:ade9784a5b2332ae8dce8424cf6c13c2f48666fe9dfc1261852db4348fa46fcc"
     },
     {
-      "id": "validate",
-      "label": "Validate",
-      "path": "badges/validate.svg",
-      "sha256": "sha256:11290a72c5e0cdae554b1bfb39cb90c63e919f2518b5fdbfbdb476513fd96a62"
+      "id": "ci",
+      "label": "CI",
+      "path": "badges/ci.svg",
+      "sha256": "sha256:ce32004c0d02dcdf2a22a838f1f8ac6cdcbc6b946a0fb75fbd55c8bfb8e6cab5"
     },
     {
-      "id": "deploy-cloudflare-mcp-monitor",
-      "label": "Deploy Cloudflare MCP Monitor",
-      "path": "badges/deploy-cloudflare-mcp-monitor.svg",
-      "sha256": "sha256:1d535ba9c4f452508c9d2c256625b57838ae6a48a1c5b7bdc9c65727f9e558d8"
+      "id": "dhi-supply-chain",
+      "label": "DHI Supply Chain",
+      "path": "badges/dhi-supply-chain.svg",
+      "sha256": "sha256:51fd7091d48a7e29469ac5e7bfbda7d1430ff663f0bb2f0018703a3f755df706"
     },
     {
       "id": "code-quality-scan",
       "label": "Code Quality Scan",
       "path": "badges/code-quality-scan.svg",
-      "sha256": "sha256:7d55a4639d897aad1c51c2aa2c000fee54482bbe5d613f1a578a281e6624236f"
+      "sha256": "sha256:0503a51ae7c6e97adaab7170aedaedfd5dacaac998b7fbe221feca06dc11208e"
     },
     {
       "id": "dependabot-updates",
       "label": "Dependabot Updates",
       "path": "badges/dependabot-updates.svg",
-      "sha256": "sha256:90dd2b716dc990467653cfd1b16f2f2648a5d15a6df943cdba95a49dab91fb0f"
+      "sha256": "sha256:dfdba541367262719e83fff7fdaafdc9942f3cee1bd12e0d05850d174be12d52"
     }
   ]
 }
