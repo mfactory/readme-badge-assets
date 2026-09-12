@@ -1,14 +1,14 @@
 {
   "schemaVersion": 2,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "f3b414391f284e4472fea17cfe98153dbcb95fca",
+  "sourceSha": "a3c79996cc42f4ee5ad9cc1bd4ee165d6337bed3",
   "health": {
-    "generatedAt": "2026-09-12T03:59:24.440Z",
+    "generatedAt": "2026-09-12T05:56:26.270Z",
     "healthy": false,
     "checks": [
       {
         "id": "ci",
-        "state": "pass"
+        "state": "pending"
       },
       {
         "id": "dhi-canary",
@@ -16,11 +16,11 @@
       },
       {
         "id": "cloudflare-security-controls",
-        "state": "pending"
+        "state": "stale"
       },
       {
         "id": "production-api-security-attestation",
-        "state": "pending"
+        "state": "stale"
       }
     ]
   },
@@ -41,7 +41,7 @@
       "id": "deployment",
       "label": "Site Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:8f2a93a96907577fb01c81f62f4fe0b6562b02768d8450fb6790dd1226968ec0"
+      "sha256": "sha256:9d54b68f5390d45c62c1421026ac43a6f47a2ab19ffab11be9b9d16f5e8ce9be"
     },
     {
       "id": "health",
@@ -65,13 +65,13 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:68f841b7d7025e03c0a6c4f77e93c49d7a78ab1be5b95919dc19e59cc07ba586"
+      "sha256": "sha256:34d267618c1887ff39e8192dd9956e8485135a2377ab7dcb25aa52e4aae895aa"
     },
     {
       "id": "cloudflare-security-controls",
       "label": "Cloudflare Security Controls",
       "path": "badges/cloudflare-security-controls.svg",
-      "sha256": "sha256:f3da2c3377739c153058839156405e3c533c2bef01ba845d789e5ec79b7790af"
+      "sha256": "sha256:6e2b1f2c63a2ee087b7358119a58a12c1396396efaac4df3af8c02bfc4fe18e7"
     },
     {
       "id": "code-quality-scan",
@@ -101,7 +101,7 @@
       "id": "production-api-security-attestation",
       "label": "Production API Security Attestation",
       "path": "badges/production-api-security-attestation.svg",
-      "sha256": "sha256:97fdd42ee363c0e6cfa3c047d3517707369297a8d4810efba21481dedd4bb2e5"
+      "sha256": "sha256:09c8a9793fcc85d2c13d8144f5796886fd995cbebe2f7101f6837730e337b9ed"
     },
     {
       "id": "production-observability-smoke",
