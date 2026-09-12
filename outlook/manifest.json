@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/outlook",
-  "sourceSha": "be6fa0f51bd404341d3c84296ec12fadb3ca7357",
+  "sourceSha": "70e0766c6ce5f6be881a7d0381d8cd4dabfdfdc9",
   "badges": [
     {
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:0cb7ac11671047c4b1b4218b2ebe63d5650abc4077a45775d2b2c24a9710f3f1"
+      "sha256": "sha256:1e3dc6963ff1ae8cac29248fb8e8cf30185f19e039ad133d9b504a192c8c4f8e"
     },
     {
       "id": "github-code-quality",
@@ -43,7 +43,7 @@
       "id": "dependabot-updates",
       "label": "Dependabot Updates",
       "path": "badges/dependabot-updates.svg",
-      "sha256": "sha256:dfdba541367262719e83fff7fdaafdc9942f3cee1bd12e0d05850d174be12d52"
+      "sha256": "sha256:90dd2b716dc990467653cfd1b16f2f2648a5d15a6df943cdba95a49dab91fb0f"
     }
   ]
 }
