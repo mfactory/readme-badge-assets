@@ -7,7 +7,7 @@
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:a83365b0b4e46111d42ec5b4a2447f255778131d2ed304e66c7b379458ef954c"
+      "sha256": "sha256:f819f99f175f500e582022f2cd56ca22cbca7e1ef17041eaf64847c5357b315d"
     },
     {
       "id": "github-code-quality",
@@ -43,7 +43,7 @@
       "id": "semgrep",
       "label": "Semgrep",
       "path": "badges/semgrep.svg",
-      "sha256": "sha256:cd95abc066fa40d1bcc736c655fdd40d1a2dbe48653c1cada81d2cd16903676b"
+      "sha256": "sha256:7d9bd8586ee3d81e4b9652ae509c83d8ee216d7a17e117de470e4182e3d1bf88"
     },
     {
       "id": "ci",
