@@ -3,7 +3,7 @@
   "sourceRepository": "mfactory/mfactory-site",
   "sourceSha": "f1a49879ca9e99b83f41b361b0c3b8ce594fc516",
   "health": {
-    "generatedAt": "2026-09-12T01:58:34.668Z",
+    "generatedAt": "2026-09-12T02:00:04.007Z",
     "healthy": true,
     "checks": [
       {
@@ -113,7 +113,7 @@
       "id": "production-paired-rollback",
       "label": "Last Paired Rollback",
       "path": "badges/production-paired-rollback.svg",
-      "sha256": "sha256:bf17119582c51c2a63e3fd594b3b0f17c7599fa24f5016ce97791177e05df391"
+      "sha256": "sha256:eff4bff2da1cb6067f366e5c96fbcf61c1e80449ffc5bd87d969676156facdaf"
     },
     {
       "id": "dependabot-updates",
