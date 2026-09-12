@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/autodocument",
-  "sourceSha": "cf425f95707fccb717bbe8136858afb3e6115aa2",
+  "sourceSha": "d66adcb739870b56c20c8b4c5cc819ffdd71b275",
   "badges": [
     {
       "id": "coverage",
@@ -49,7 +49,7 @@
       "id": "dhi-security",
       "label": "DHI Security",
       "path": "badges/dhi-security.svg",
-      "sha256": "sha256:ee3e435d8804f7ac8c541bf96752f13b0daa486695513e8926a056ac841c459a"
+      "sha256": "sha256:cb7a257946a3361bc697f87b6cd81e64cd50d9d7d26eba36aced4158c4850c89"
     },
     {
       "id": "code-quality-scan",
