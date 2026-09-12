@@ -1,17 +1,17 @@
 # Mortgage app badge evidence
 
-Badge source: [582197f78d538fb6798ce59875990f7a41c2fde5](https://github.com/mfactory/mortgage-app/commit/582197f78d538fb6798ce59875990f7a41c2fde5).
+Badge source: [6d55ae51f8b6b49ec70989f166bd173b65855888](https://github.com/mfactory/mortgage-app/commit/6d55ae51f8b6b49ec70989f166bd173b65855888).
 
 Monthly checks report the latest trusted run within 35 days. They do not certify later application commits.
 Satellite Workers requires current-main deployment-health verification of all seven active Worker versions.
 
 ## Satellite Workers
 
-Result: **Pass**.
+Result: **Pending**.
 
-- [Workflow run 34673473793](https://github.com/mfactory/mortgage-app/actions/runs/34673473793)
-- Tested commit: [582197f78d538fb6798ce59875990f7a41c2fde5](https://github.com/mfactory/mortgage-app/commit/582197f78d538fb6798ce59875990f7a41c2fde5)
-- Run updated at: 2026-09-12T04:38:34.000Z
+- [Workflow run 34677937663](https://github.com/mfactory/mortgage-app/actions/runs/34677937663)
+- Tested commit: [6d55ae51f8b6b49ec70989f166bd173b65855888](https://github.com/mfactory/mortgage-app/commit/6d55ae51f8b6b49ec70989f166bd173b65855888)
+- Run updated at: 2026-09-12T06:22:08.000Z
 
 ## Monthly PDF Archive Smoke
 
