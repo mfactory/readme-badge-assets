@@ -1,26 +1,26 @@
 {
   "schemaVersion": 2,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "f1a49879ca9e99b83f41b361b0c3b8ce594fc516",
+  "sourceSha": "f3b414391f284e4472fea17cfe98153dbcb95fca",
   "health": {
-    "generatedAt": "2026-09-12T02:39:03.473Z",
+    "generatedAt": "2026-09-12T03:47:34.239Z",
     "healthy": false,
     "checks": [
       {
         "id": "ci",
-        "state": "pass"
+        "state": "pending"
       },
       {
         "id": "dhi-canary",
-        "state": "fail"
+        "state": "pending"
       },
       {
         "id": "cloudflare-security-controls",
-        "state": "pass"
+        "state": "stale"
       },
       {
         "id": "production-api-security-attestation",
-        "state": "pass"
+        "state": "stale"
       }
     ]
   },
@@ -29,7 +29,7 @@
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:b8b2cce34bc904db58950444637c380ced2d4601a342473b531b133a7962f2c8"
+      "sha256": "sha256:a83365b0b4e46111d42ec5b4a2447f255778131d2ed304e66c7b379458ef954c"
     },
     {
       "id": "github-code-quality",
@@ -41,7 +41,7 @@
       "id": "deployment",
       "label": "Site Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:8f2a93a96907577fb01c81f62f4fe0b6562b02768d8450fb6790dd1226968ec0"
+      "sha256": "sha256:9d54b68f5390d45c62c1421026ac43a6f47a2ab19ffab11be9b9d16f5e8ce9be"
     },
     {
       "id": "health",
@@ -65,13 +65,13 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:68f841b7d7025e03c0a6c4f77e93c49d7a78ab1be5b95919dc19e59cc07ba586"
+      "sha256": "sha256:34d267618c1887ff39e8192dd9956e8485135a2377ab7dcb25aa52e4aae895aa"
     },
     {
       "id": "cloudflare-security-controls",
       "label": "Cloudflare Security Controls",
       "path": "badges/cloudflare-security-controls.svg",
-      "sha256": "sha256:202ef12582c11cd68e0be17d906339eda3f0de8cc9a18b076bdc496c99629bcd"
+      "sha256": "sha256:6e2b1f2c63a2ee087b7358119a58a12c1396396efaac4df3af8c02bfc4fe18e7"
     },
     {
       "id": "code-quality-scan",
@@ -83,13 +83,13 @@
       "id": "content-governance",
       "label": "Content Governance",
       "path": "badges/content-governance.svg",
-      "sha256": "sha256:f6ab51939b3554c743af31f76118b3b22f0ddf14c5f97f6e95285edb0bb4d98b"
+      "sha256": "sha256:d33bc1826e29a7b340981703a735f54a16bd2ce9ddcac72724559780c743f4f8"
     },
     {
       "id": "dhi-canary",
       "label": "DHI Canary",
       "path": "badges/dhi-canary.svg",
-      "sha256": "sha256:0adbb6d0d615ddfff66a7ea6c78ce4ed610f0becca1aeaa96a6c3dd16759c804"
+      "sha256": "sha256:f12218690422d9dcaab849b1309de1e9b88b7190901f7314fe658fefd82c371f"
     },
     {
       "id": "mutation-assurance",
@@ -101,7 +101,7 @@
       "id": "production-api-security-attestation",
       "label": "Production API Security Attestation",
       "path": "badges/production-api-security-attestation.svg",
-      "sha256": "sha256:2f8b00cb06bd7c67a0206d45203bba9058149b59e8d1a56fa272256f8eeb15f7"
+      "sha256": "sha256:09c8a9793fcc85d2c13d8144f5796886fd995cbebe2f7101f6837730e337b9ed"
     },
     {
       "id": "production-observability-smoke",
