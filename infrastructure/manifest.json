@@ -19,7 +19,7 @@
       "id": "mcp-deployment",
       "label": "MCP Deployment",
       "path": "badges/mcp-deployment.svg",
-      "sha256": "sha256:22966a2f05478cd1888605749040dbeacbd4d9f934153da910bc33f43bc27069"
+      "sha256": "sha256:6e260709594754bab098145a767798b0795b3784cbb0833ad6014c30723dd3e0"
     },
     {
       "id": "relay-health",
