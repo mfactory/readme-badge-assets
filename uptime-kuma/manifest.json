@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/uptime-kuma",
-  "sourceSha": "d2bda73bc355cc347648935b6dc9efe988dd8ba3",
+  "sourceSha": "4aafc7e8ab62ec6686d4c71e01742614ca089335",
   "badges": [
     {
       "id": "coverage",
@@ -37,25 +37,25 @@
       "id": "gitleaks",
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
-      "sha256": "sha256:4389d19d7ab9ec2ef96da28cfa779d2a80c9585f23f7379cc23cb7c1e3b3f0c1"
+      "sha256": "sha256:0fb801f71d9b8c0c7fc3eb99bbcfd3a73d189e8b2d589813e57bd2e907c5406c"
     },
     {
       "id": "dhi-maintenance",
       "label": "DHI Maintenance",
       "path": "badges/dhi-maintenance.svg",
-      "sha256": "sha256:2e9d98724fe2b422cbfa29f483a447c4c7e237f7af7bd761207faff0f031193c"
+      "sha256": "sha256:027ac7432508311a9a35e1a0d2dabb2c9444e3bf8e77fd3c956ab4255d05a08c"
     },
     {
       "id": "lint-and-deploy",
       "label": "Lint And Deploy",
       "path": "badges/lint-and-deploy.svg",
-      "sha256": "sha256:91f6b3623f55d81f9a4ce3911c5fb07687bf1912422ddd328c3c662ab60bc047"
+      "sha256": "sha256:7fced10ac35713c936e7b0804109a5c1b29082ef7097ac80c5c690e0a2bb9c78"
     },
     {
       "id": "validate",
       "label": "Validate",
       "path": "badges/validate.svg",
-      "sha256": "sha256:035335d6b1cd3e0ec7a7ac09b9178a8f609f1ffe46e5c596e6922f60b35e2e1e"
+      "sha256": "sha256:b6ec24043768d3ec527d17c677a1a62d66e1c23f7cb98fd9065ba5dbc9014c6f"
     },
     {
       "id": "code-quality-scan",
