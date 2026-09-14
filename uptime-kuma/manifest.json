@@ -43,7 +43,7 @@
       "id": "dhi-maintenance",
       "label": "DHI Maintenance",
       "path": "badges/dhi-maintenance.svg",
-      "sha256": "sha256:027ac7432508311a9a35e1a0d2dabb2c9444e3bf8e77fd3c956ab4255d05a08c"
+      "sha256": "sha256:464572d854b285a569e4f6ecc6ae34608eb3b133f3b058f07847b042ce525673"
     },
     {
       "id": "lint-and-deploy",
@@ -67,7 +67,7 @@
       "id": "dependabot-updates",
       "label": "Dependabot Updates",
       "path": "badges/dependabot-updates.svg",
-      "sha256": "sha256:90dd2b716dc990467653cfd1b16f2f2648a5d15a6df943cdba95a49dab91fb0f"
+      "sha256": "sha256:dfdba541367262719e83fff7fdaafdc9942f3cee1bd12e0d05850d174be12d52"
     },
     {
       "id": "dependency-graph",
