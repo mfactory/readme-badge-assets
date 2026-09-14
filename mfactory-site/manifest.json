@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "d86c93b3f03ec3f317e73ef6ea1b3ac8b643921c",
+  "sourceSha": "10d290425ba7e90857e4e71aa5b39a02be163dfc",
   "health": {
-    "generatedAt": "2026-09-14T16:00:53.837Z",
+    "generatedAt": "2026-09-14T17:00:32.451Z",
     "healthy": false,
     "checks": [
       {
@@ -20,7 +20,7 @@
       },
       {
         "id": "production-api-security-attestation",
-        "state": "pass"
+        "state": "stale"
       }
     ]
   },
@@ -53,13 +53,13 @@
       "id": "socket",
       "label": "Socket",
       "path": "badges/socket.svg",
-      "sha256": "sha256:8ff71a8bd5301a003353891c46b54da7e341fc48db45ad82a697c5f052aa8cf5"
+      "sha256": "sha256:181d1525abb74c5a5801dc45e1f6c26b945cb9f16ed18ff8abcdf4333d618708"
     },
     {
       "id": "gitleaks",
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
-      "sha256": "sha256:ade9784a5b2332ae8dce8424cf6c13c2f48666fe9dfc1261852db4348fa46fcc"
+      "sha256": "sha256:0fb801f71d9b8c0c7fc3eb99bbcfd3a73d189e8b2d589813e57bd2e907c5406c"
     },
     {
       "id": "ci",
@@ -101,7 +101,7 @@
       "id": "production-api-security-attestation",
       "label": "Production API Security Attestation",
       "path": "badges/production-api-security-attestation.svg",
-      "sha256": "sha256:2f8b00cb06bd7c67a0206d45203bba9058149b59e8d1a56fa272256f8eeb15f7"
+      "sha256": "sha256:09c8a9793fcc85d2c13d8144f5796886fd995cbebe2f7101f6837730e337b9ed"
     },
     {
       "id": "production-observability-smoke",
