@@ -31,7 +31,7 @@
       "id": "socket",
       "label": "Socket",
       "path": "badges/socket.svg",
-      "sha256": "sha256:181d1525abb74c5a5801dc45e1f6c26b945cb9f16ed18ff8abcdf4333d618708"
+      "sha256": "sha256:8ff71a8bd5301a003353891c46b54da7e341fc48db45ad82a697c5f052aa8cf5"
     },
     {
       "id": "gitleaks",
