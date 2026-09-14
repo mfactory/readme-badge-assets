@@ -25,7 +25,7 @@
       "id": "health",
       "label": "Health",
       "path": "badges/health.svg",
-      "sha256": "sha256:52a35cc44ae23fa154e00c82f71dbf5dd0de52f4494ad54968a72936ba354097"
+      "sha256": "sha256:dbf3d4bb648e920ba7d3dd4941776befe6e55d5b44fc8b02c0586a1644654856"
     },
     {
       "id": "socket",
