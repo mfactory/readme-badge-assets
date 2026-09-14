@@ -3,12 +3,12 @@
   "sourceRepository": "mfactory/mfactory-site",
   "sourceSha": "d86c93b3f03ec3f317e73ef6ea1b3ac8b643921c",
   "health": {
-    "generatedAt": "2026-09-14T15:26:23.190Z",
+    "generatedAt": "2026-09-14T15:35:04.025Z",
     "healthy": false,
     "checks": [
       {
         "id": "ci",
-        "state": "pending"
+        "state": "fail"
       },
       {
         "id": "dhi-canary",
@@ -65,7 +65,7 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:34d267618c1887ff39e8192dd9956e8485135a2377ab7dcb25aa52e4aae895aa"
+      "sha256": "sha256:ce32004c0d02dcdf2a22a838f1f8ac6cdcbc6b946a0fb75fbd55c8bfb8e6cab5"
     },
     {
       "id": "cloudflare-security-controls",
@@ -83,7 +83,7 @@
       "id": "content-governance",
       "label": "Content Governance",
       "path": "badges/content-governance.svg",
-      "sha256": "sha256:d33bc1826e29a7b340981703a735f54a16bd2ce9ddcac72724559780c743f4f8"
+      "sha256": "sha256:f6ab51939b3554c743af31f76118b3b22f0ddf14c5f97f6e95285edb0bb4d98b"
     },
     {
       "id": "dhi-canary",
