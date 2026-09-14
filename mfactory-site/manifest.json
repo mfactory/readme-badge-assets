@@ -3,16 +3,16 @@
   "sourceRepository": "mfactory/mfactory-site",
   "sourceSha": "d86c93b3f03ec3f317e73ef6ea1b3ac8b643921c",
   "health": {
-    "generatedAt": "2026-09-14T06:19:29.826Z",
+    "generatedAt": "2026-09-14T15:26:23.190Z",
     "healthy": false,
     "checks": [
       {
         "id": "ci",
-        "state": "fail"
+        "state": "pending"
       },
       {
         "id": "dhi-canary",
-        "state": "pass"
+        "state": "fail"
       },
       {
         "id": "cloudflare-security-controls",
@@ -59,13 +59,13 @@
       "id": "gitleaks",
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
-      "sha256": "sha256:0fb801f71d9b8c0c7fc3eb99bbcfd3a73d189e8b2d589813e57bd2e907c5406c"
+      "sha256": "sha256:ade9784a5b2332ae8dce8424cf6c13c2f48666fe9dfc1261852db4348fa46fcc"
     },
     {
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:ce32004c0d02dcdf2a22a838f1f8ac6cdcbc6b946a0fb75fbd55c8bfb8e6cab5"
+      "sha256": "sha256:34d267618c1887ff39e8192dd9956e8485135a2377ab7dcb25aa52e4aae895aa"
     },
     {
       "id": "cloudflare-security-controls",
@@ -83,13 +83,13 @@
       "id": "content-governance",
       "label": "Content Governance",
       "path": "badges/content-governance.svg",
-      "sha256": "sha256:f6ab51939b3554c743af31f76118b3b22f0ddf14c5f97f6e95285edb0bb4d98b"
+      "sha256": "sha256:d33bc1826e29a7b340981703a735f54a16bd2ce9ddcac72724559780c743f4f8"
     },
     {
       "id": "dhi-canary",
       "label": "DHI Canary",
       "path": "badges/dhi-canary.svg",
-      "sha256": "sha256:83adc158c357f6f596ce7a1d0d428bc4872744ac84d6ce2b70b6428a526ca5a8"
+      "sha256": "sha256:0adbb6d0d615ddfff66a7ea6c78ce4ed610f0becca1aeaa96a6c3dd16759c804"
     },
     {
       "id": "mutation-assurance",
@@ -119,7 +119,7 @@
       "id": "dependabot-updates",
       "label": "Dependabot Updates",
       "path": "badges/dependabot-updates.svg",
-      "sha256": "sha256:d254d23f1f1dd634d5d2d0572dbc871420495b7c73b595a8c0c87d7ba4949449"
+      "sha256": "sha256:dfdba541367262719e83fff7fdaafdc9942f3cee1bd12e0d05850d174be12d52"
     }
   ]
 }
