@@ -19,7 +19,7 @@
       "id": "deployment",
       "label": "App Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:a7fc9573781308c990a6b262d5c4f747f0929602121428adacfe01080f534ee8"
+      "sha256": "sha256:ac2536b8f60d5c6365b64cddf355f05bb9017f8d7cbfb28a56cbb4be1365975e"
     },
     {
       "id": "health",
@@ -49,7 +49,7 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:ce32004c0d02dcdf2a22a838f1f8ac6cdcbc6b946a0fb75fbd55c8bfb8e6cab5"
+      "sha256": "sha256:68f841b7d7025e03c0a6c4f77e93c49d7a78ab1be5b95919dc19e59cc07ba586"
     },
     {
       "id": "admin-access-lifecycle",
@@ -61,7 +61,7 @@
       "id": "browser-qa",
       "label": "Browser QA",
       "path": "badges/browser-qa.svg",
-      "sha256": "sha256:44c646a9c3f634c701e093772dd7e48cf04c9d51ef77cf07afde7412d128463d"
+      "sha256": "sha256:f9f1f882e845cf766cbcad71fd7e16a4db9157decb20cf702c130b6e9404fe67"
     },
     {
       "id": "cloudflare-posture-evidence",
@@ -85,25 +85,25 @@
       "id": "deep-qa",
       "label": "Deep QA",
       "path": "badges/deep-qa.svg",
-      "sha256": "sha256:653c4494dccfa7fa17239b0b3b3cfb3693ad9328fc5439542941add183adedc9"
+      "sha256": "sha256:167c1336b276f525e4dfa5a7f0b6b73128e64e8f99d126607997ed04871f5d2e"
     },
     {
       "id": "dhi-ci-image-verification",
       "label": "DHI CI Image Verification",
       "path": "badges/dhi-ci-image-verification.svg",
-      "sha256": "sha256:10108b88a1c26ccb0783bc31205f6613791ad5a94df2aa93c22f7d8865e05116"
+      "sha256": "sha256:185f0a80e5add967d0f92c695283e3edd804e02823188652602a74d96ca9ec96"
     },
     {
       "id": "satellite-workers",
       "label": "Satellite Workers",
       "path": "badges/satellite-workers.svg",
-      "sha256": "sha256:525eb646109a33b66d6225123062bd194113c8054dbcfc23d11a1e9cc091dee0",
+      "sha256": "sha256:e3fd74b92a4c2570f9d9bd8113dd4a524f623dc2d02903551cbf12fee072ec7d",
       "observation": {
-        "state": "fail",
+        "state": "pending",
         "run": {
-          "id": 34998578309,
+          "id": 35022497190,
           "sha": "cd3740041d0e52b436305337e0a84e3c0de1dad6",
-          "updatedAt": "2026-09-15T17:01:50.000Z"
+          "updatedAt": "2026-09-15T20:54:58.000Z"
         }
       }
     },
@@ -111,7 +111,7 @@
       "id": "deployment-health",
       "label": "Deployment Health",
       "path": "badges/deployment-health.svg",
-      "sha256": "sha256:f9cee40cbcc6c6a373ef5406270247517c45488f446c1bfe992de8eb03522bd4"
+      "sha256": "sha256:fd2ab3f77dbd4a1a9a3bc30f5184f324bba35b29182c8f28fa18012cfe4ee3b0"
     },
     {
       "id": "pdf-archive-smoke",
@@ -145,13 +145,13 @@
       "id": "production-submit-contract-smoke",
       "label": "Production Submit Contract Smoke",
       "path": "badges/production-submit-contract-smoke.svg",
-      "sha256": "sha256:e0cf1c158374947fdce5bc3ed97d3a8904723238ee65837e19a3a87ea2792fec"
+      "sha256": "sha256:d56c7ed87c7badaf277edb44ea70a36c4634b63fdb0bbd99d13266924b5f4759"
     },
     {
       "id": "security-evidence",
       "label": "Security Evidence",
       "path": "badges/security-evidence.svg",
-      "sha256": "sha256:cce644e4e7c5407c79d0cf644d0a53032fa91c313718824502fd40ac388af892"
+      "sha256": "sha256:2c5b7fce4c70864cc76c31eb282e4df770a1885a3c055c79c329f18e46ee6088"
     },
     {
       "id": "dependabot-updates",
@@ -162,6 +162,6 @@
   ],
   "evidence": {
     "path": "evidence.md",
-    "sha256": "sha256:7a8348b5adf5297000dfa9a4069838fe160c02c17f3bffe1cc65e491d86ee50a"
+    "sha256": "sha256:e6c6b4c11839146199a769c558be36bcce17e6bd3f68d28e354353cf88e76cc4"
   }
 }
