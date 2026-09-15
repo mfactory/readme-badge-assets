@@ -97,13 +97,13 @@
       "id": "satellite-workers",
       "label": "Satellite Workers",
       "path": "badges/satellite-workers.svg",
-      "sha256": "sha256:cd1b719a297941c12579c3670ccb8efb1184cbd3b76346ab484d007e9ad7a2ed",
+      "sha256": "sha256:525eb646109a33b66d6225123062bd194113c8054dbcfc23d11a1e9cc091dee0",
       "observation": {
-        "state": "stale",
+        "state": "fail",
         "run": {
-          "id": 34965054820,
-          "sha": "1d5124fe38a1643e1dce47de5f75527be4547cef",
-          "updatedAt": "2026-09-15T11:46:53.000Z"
+          "id": 34998578309,
+          "sha": "cd3740041d0e52b436305337e0a84e3c0de1dad6",
+          "updatedAt": "2026-09-15T17:01:50.000Z"
         }
       }
     },
@@ -111,7 +111,7 @@
       "id": "deployment-health",
       "label": "Deployment Health",
       "path": "badges/deployment-health.svg",
-      "sha256": "sha256:593c515311b44db3025df69186628d84db2694a64ce0f17c0961757cfd3c9b72"
+      "sha256": "sha256:f9cee40cbcc6c6a373ef5406270247517c45488f446c1bfe992de8eb03522bd4"
     },
     {
       "id": "pdf-archive-smoke",
@@ -162,6 +162,6 @@
   ],
   "evidence": {
     "path": "evidence.md",
-    "sha256": "sha256:ca0e18504fe1563d1f41c22220e9a50be9b1854968f5dab84ac205179ae3db40"
+    "sha256": "sha256:7a8348b5adf5297000dfa9a4069838fe160c02c17f3bffe1cc65e491d86ee50a"
   }
 }
