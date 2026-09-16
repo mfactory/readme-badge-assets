@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "2e9a066b4cdb5ac03411c0f06fa904a7f074aefd",
+  "sourceSha": "2a969180ac3f23982cc9817d8ae14d204a5b91d8",
   "health": {
-    "generatedAt": "2026-09-16T16:35:40.376Z",
+    "generatedAt": "2026-09-16T16:43:49.076Z",
     "healthy": false,
     "checks": [
       {
@@ -29,7 +29,7 @@
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:b269b68b58fc953d08c8969066f1b80da4cf5fc87a29c5778520cf71abc0eaf3"
+      "sha256": "sha256:a83365b0b4e46111d42ec5b4a2447f255778131d2ed304e66c7b379458ef954c"
     },
     {
       "id": "github-code-quality",
@@ -119,7 +119,7 @@
       "id": "dependabot-updates",
       "label": "Dependabot Updates",
       "path": "badges/dependabot-updates.svg",
-      "sha256": "sha256:6c2a3f4a4036c78dfc3fad8bf53e04962a486e988281ff4601b8e4fb21440f41"
+      "sha256": "sha256:dfdba541367262719e83fff7fdaafdc9942f3cee1bd12e0d05850d174be12d52"
     }
   ]
 }
