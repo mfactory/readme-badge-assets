@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/infrastructure",
-  "sourceSha": "866c405d58b514e3316ee6e56f3d0022cad61fdb",
+  "sourceSha": "79ed1dd28373ffc08c07e6bb96dd055db200d0fd",
   "badges": [
     {
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:7f091e79fc068454b2202825cccba7e3a0d6cf4ab439d9245b5a49fa76ddc298"
+      "sha256": "sha256:070794b43325c8acfbda898a5584a40de777bea7a60695df7dc0188c9797c06b"
     },
     {
       "id": "github-code-quality",
@@ -19,7 +19,7 @@
       "id": "mcp-deployment",
       "label": "MCP Deployment",
       "path": "badges/mcp-deployment.svg",
-      "sha256": "sha256:f5010cecf3ab10058bde133c2a82b87c371b17e2d68e0075d99d82a461e13a47"
+      "sha256": "sha256:22966a2f05478cd1888605749040dbeacbd4d9f934153da910bc33f43bc27069"
     },
     {
       "id": "relay-health",
