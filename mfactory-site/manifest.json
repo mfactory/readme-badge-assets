@@ -1,18 +1,18 @@
 {
   "schemaVersion": 2,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "f48e91acd7d8aa4846b6eea8bf9fbea83ebb582a",
+  "sourceSha": "c0c92083e6efb5c26434f1cb4fb524d5a3c9ea9e",
   "health": {
-    "generatedAt": "2026-09-16T15:51:50.123Z",
+    "generatedAt": "2026-09-16T16:25:52.903Z",
     "healthy": false,
     "checks": [
       {
         "id": "ci",
-        "state": "fail"
+        "state": "pending"
       },
       {
         "id": "dhi-canary",
-        "state": "pass"
+        "state": "pending"
       },
       {
         "id": "cloudflare-security-controls",
@@ -29,7 +29,7 @@
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:b269b68b58fc953d08c8969066f1b80da4cf5fc87a29c5778520cf71abc0eaf3"
+      "sha256": "sha256:a83365b0b4e46111d42ec5b4a2447f255778131d2ed304e66c7b379458ef954c"
     },
     {
       "id": "github-code-quality",
@@ -41,7 +41,7 @@
       "id": "deployment",
       "label": "Site Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:7c4fd72f84da9a03801ed7c983897bd220cc2bba77733ee45b5001b9e6d58656"
+      "sha256": "sha256:9d54b68f5390d45c62c1421026ac43a6f47a2ab19ffab11be9b9d16f5e8ce9be"
     },
     {
       "id": "health",
@@ -65,7 +65,7 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:ce32004c0d02dcdf2a22a838f1f8ac6cdcbc6b946a0fb75fbd55c8bfb8e6cab5"
+      "sha256": "sha256:34d267618c1887ff39e8192dd9956e8485135a2377ab7dcb25aa52e4aae895aa"
     },
     {
       "id": "cloudflare-security-controls",
@@ -83,13 +83,13 @@
       "id": "content-governance",
       "label": "Content Governance",
       "path": "badges/content-governance.svg",
-      "sha256": "sha256:f6ab51939b3554c743af31f76118b3b22f0ddf14c5f97f6e95285edb0bb4d98b"
+      "sha256": "sha256:d33bc1826e29a7b340981703a735f54a16bd2ce9ddcac72724559780c743f4f8"
     },
     {
       "id": "dhi-canary",
       "label": "DHI Canary",
       "path": "badges/dhi-canary.svg",
-      "sha256": "sha256:83adc158c357f6f596ce7a1d0d428bc4872744ac84d6ce2b70b6428a526ca5a8"
+      "sha256": "sha256:f12218690422d9dcaab849b1309de1e9b88b7190901f7314fe658fefd82c371f"
     },
     {
       "id": "mutation-assurance",
@@ -119,7 +119,7 @@
       "id": "dependabot-updates",
       "label": "Dependabot Updates",
       "path": "badges/dependabot-updates.svg",
-      "sha256": "sha256:dfdba541367262719e83fff7fdaafdc9942f3cee1bd12e0d05850d174be12d52"
+      "sha256": "sha256:6c2a3f4a4036c78dfc3fad8bf53e04962a486e988281ff4601b8e4fb21440f41"
     }
   ]
 }
