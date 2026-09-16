@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "6b0bcbd2c43eab0eea21cf28624f947f869d3e47",
+  "sourceSha": "9c32a5e490fb771464f43bab52ca1f2dc4c6f07a",
   "health": {
-    "generatedAt": "2026-09-16T16:52:39.096Z",
+    "generatedAt": "2026-09-16T17:06:19.897Z",
     "healthy": false,
     "checks": [
       {
@@ -29,7 +29,7 @@
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:a83365b0b4e46111d42ec5b4a2447f255778131d2ed304e66c7b379458ef954c"
+      "sha256": "sha256:b269b68b58fc953d08c8969066f1b80da4cf5fc87a29c5778520cf71abc0eaf3"
     },
     {
       "id": "github-code-quality",
@@ -59,7 +59,7 @@
       "id": "gitleaks",
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
-      "sha256": "sha256:0fb801f71d9b8c0c7fc3eb99bbcfd3a73d189e8b2d589813e57bd2e907c5406c"
+      "sha256": "sha256:fc227186cefe6ebc5e2b93f25c2ddcf1c917585b54e5d622b314e721e0f6bf6f"
     },
     {
       "id": "ci",
@@ -83,7 +83,7 @@
       "id": "content-governance",
       "label": "Content Governance",
       "path": "badges/content-governance.svg",
-      "sha256": "sha256:d33bc1826e29a7b340981703a735f54a16bd2ce9ddcac72724559780c743f4f8"
+      "sha256": "sha256:f6ab51939b3554c743af31f76118b3b22f0ddf14c5f97f6e95285edb0bb4d98b"
     },
     {
       "id": "dhi-canary",
