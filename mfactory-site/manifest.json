@@ -3,16 +3,16 @@
   "sourceRepository": "mfactory/mfactory-site",
   "sourceSha": "f11ca5b32b3bfbbb0570cf8023e16861768961a0",
   "health": {
-    "generatedAt": "2026-09-16T17:34:08.785Z",
+    "generatedAt": "2026-09-16T17:46:41.359Z",
     "healthy": false,
     "checks": [
       {
         "id": "ci",
-        "state": "pending"
+        "state": "fail"
       },
       {
         "id": "dhi-canary",
-        "state": "pending"
+        "state": "pass"
       },
       {
         "id": "cloudflare-security-controls",
@@ -29,7 +29,7 @@
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:a83365b0b4e46111d42ec5b4a2447f255778131d2ed304e66c7b379458ef954c"
+      "sha256": "sha256:b269b68b58fc953d08c8969066f1b80da4cf5fc87a29c5778520cf71abc0eaf3"
     },
     {
       "id": "github-code-quality",
@@ -41,7 +41,7 @@
       "id": "deployment",
       "label": "Site Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:9d54b68f5390d45c62c1421026ac43a6f47a2ab19ffab11be9b9d16f5e8ce9be"
+      "sha256": "sha256:7c4fd72f84da9a03801ed7c983897bd220cc2bba77733ee45b5001b9e6d58656"
     },
     {
       "id": "health",
@@ -65,7 +65,7 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:34d267618c1887ff39e8192dd9956e8485135a2377ab7dcb25aa52e4aae895aa"
+      "sha256": "sha256:ce32004c0d02dcdf2a22a838f1f8ac6cdcbc6b946a0fb75fbd55c8bfb8e6cab5"
     },
     {
       "id": "cloudflare-security-controls",
@@ -83,13 +83,13 @@
       "id": "content-governance",
       "label": "Content Governance",
       "path": "badges/content-governance.svg",
-      "sha256": "sha256:d33bc1826e29a7b340981703a735f54a16bd2ce9ddcac72724559780c743f4f8"
+      "sha256": "sha256:f6ab51939b3554c743af31f76118b3b22f0ddf14c5f97f6e95285edb0bb4d98b"
     },
     {
       "id": "dhi-canary",
       "label": "DHI Canary",
       "path": "badges/dhi-canary.svg",
-      "sha256": "sha256:f12218690422d9dcaab849b1309de1e9b88b7190901f7314fe658fefd82c371f"
+      "sha256": "sha256:83adc158c357f6f596ce7a1d0d428bc4872744ac84d6ce2b70b6428a526ca5a8"
     },
     {
       "id": "mutation-assurance",
