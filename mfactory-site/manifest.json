@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "2a969180ac3f23982cc9817d8ae14d204a5b91d8",
+  "sourceSha": "6b0bcbd2c43eab0eea21cf28624f947f869d3e47",
   "health": {
-    "generatedAt": "2026-09-16T16:43:49.076Z",
+    "generatedAt": "2026-09-16T16:52:39.096Z",
     "healthy": false,
     "checks": [
       {
