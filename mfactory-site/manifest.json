@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "fb06a58ab9674bfcff729bb30c5cf863b4117c46",
+  "sourceSha": "f48e91acd7d8aa4846b6eea8bf9fbea83ebb582a",
   "health": {
-    "generatedAt": "2026-09-16T15:30:31.437Z",
+    "generatedAt": "2026-09-16T15:39:43.008Z",
     "healthy": false,
     "checks": [
       {
@@ -83,7 +83,7 @@
       "id": "content-governance",
       "label": "Content Governance",
       "path": "badges/content-governance.svg",
-      "sha256": "sha256:f6ab51939b3554c743af31f76118b3b22f0ddf14c5f97f6e95285edb0bb4d98b"
+      "sha256": "sha256:d33bc1826e29a7b340981703a735f54a16bd2ce9ddcac72724559780c743f4f8"
     },
     {
       "id": "dhi-canary",
