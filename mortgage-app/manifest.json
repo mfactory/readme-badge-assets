@@ -37,25 +37,25 @@
       "id": "gitleaks",
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
-      "sha256": "sha256:0fb801f71d9b8c0c7fc3eb99bbcfd3a73d189e8b2d589813e57bd2e907c5406c"
+      "sha256": "sha256:4389d19d7ab9ec2ef96da28cfa779d2a80c9585f23f7379cc23cb7c1e3b3f0c1"
     },
     {
       "id": "semgrep",
       "label": "Semgrep",
       "path": "badges/semgrep.svg",
-      "sha256": "sha256:7d9bd8586ee3d81e4b9652ae509c83d8ee216d7a17e117de470e4182e3d1bf88"
+      "sha256": "sha256:a7de6b75c200119a74f032cb68e5fc7baa82a7d6c639a530214dcafaab0ee39a"
     },
     {
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:68f841b7d7025e03c0a6c4f77e93c49d7a78ab1be5b95919dc19e59cc07ba586"
+      "sha256": "sha256:52a372628f0b4e2c9aea5214d90d2b2a148b13e203003b7e1dca3e192d0300b6"
     },
     {
       "id": "admin-access-lifecycle",
       "label": "Admin Access Lifecycle",
       "path": "badges/admin-access-lifecycle.svg",
-      "sha256": "sha256:4a8034024985bcc7e860bcb111930bd3ae390b484b7e4958f17cb66e3b6a2645"
+      "sha256": "sha256:1758d65f47c6f6e24b950d0d7038a7d33dcfabfe3ab4ed4580156d1126dca565"
     },
     {
       "id": "browser-qa",
@@ -79,7 +79,7 @@
       "id": "compliance-ops-evidence",
       "label": "Compliance Ops Evidence",
       "path": "badges/compliance-ops-evidence.svg",
-      "sha256": "sha256:fecbb658f2f7da3d56369691e7e8edfc34d7478101e487d2e7e2e01256995821"
+      "sha256": "sha256:29a6933c39fb5c504e936f4d87dd73aee1c93ad3b2fc518aeffd6c9eab934dd9"
     },
     {
       "id": "deep-qa",
@@ -117,9 +117,9 @@
       "id": "pdf-archive-smoke",
       "label": "Monthly PDF Archive Smoke",
       "path": "badges/pdf-archive-smoke.svg",
-      "sha256": "sha256:f4231e8c073c238f7c0cb2530f830fa33406f2ac606016059f2fd6927274bfbd",
+      "sha256": "sha256:07599fbc96fbc164ec78ae21737cfe211a54339701dcfe77d03410dc1aaeaa49",
       "observation": {
-        "state": "pass",
+        "state": "off",
         "run": {
           "id": 34342549593,
           "sha": "08c56ec29492e262033efd9833189ff2e5297b5a",
@@ -131,9 +131,9 @@
       "id": "production-matrix-smoke",
       "label": "Monthly Production Matrix Smoke",
       "path": "badges/production-matrix-smoke.svg",
-      "sha256": "sha256:9afa69fdc01545664407a60e920efe8f6065497a84e9a25d1acfd7cdbc55d79b",
+      "sha256": "sha256:eff80c3f271c336ca6821340cb866d209dc3d16d70c81128fb1c631997e56053",
       "observation": {
-        "state": "pass",
+        "state": "off",
         "run": {
           "id": 34342546999,
           "sha": "08c56ec29492e262033efd9833189ff2e5297b5a",
@@ -145,13 +145,13 @@
       "id": "production-submit-contract-smoke",
       "label": "Production Submit Contract Smoke",
       "path": "badges/production-submit-contract-smoke.svg",
-      "sha256": "sha256:800b937cf122347d31df9275f06509139e1eb7906ab80d35fb34e28e2578a47a"
+      "sha256": "sha256:a0cc23e41bf917538d3fcfd1eba00f4797c3df49b940df71f79c1a5e91a12f19"
     },
     {
       "id": "security-evidence",
       "label": "Security Evidence",
       "path": "badges/security-evidence.svg",
-      "sha256": "sha256:2108c98d373bd669512a2178ff3efedb0636def23c36daf5be4aa3f543ebe902"
+      "sha256": "sha256:2c5b7fce4c70864cc76c31eb282e4df770a1885a3c055c79c329f18e46ee6088"
     },
     {
       "id": "dependabot-updates",
@@ -162,6 +162,6 @@
   ],
   "evidence": {
     "path": "evidence.md",
-    "sha256": "sha256:e0b0ca8a0701cd240dcb58eb49cbea1239a0fe465dee969e80400d44c032076f"
+    "sha256": "sha256:608756fdd21535a0795f5392e82b4c0e8eff62949f7c98cf3f607fafbd4dd49c"
   }
 }
