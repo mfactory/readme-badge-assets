@@ -3,8 +3,8 @@
   "sourceRepository": "mfactory/mfactory-site",
   "sourceSha": "b9b7b3e37b080de6c03d23b4f7fe3ee6cf062fc7",
   "health": {
-    "generatedAt": "2026-09-16T19:06:46.198Z",
-    "healthy": false,
+    "generatedAt": "2026-09-17T14:29:13.857Z",
+    "healthy": true,
     "checks": [
       {
         "id": "ci",
@@ -16,7 +16,7 @@
       },
       {
         "id": "cloudflare-security-controls",
-        "state": "pending"
+        "state": "pass"
       },
       {
         "id": "production-api-security-attestation",
@@ -71,7 +71,7 @@
       "id": "cloudflare-security-controls",
       "label": "Cloudflare Security Controls",
       "path": "badges/cloudflare-security-controls.svg",
-      "sha256": "sha256:f3da2c3377739c153058839156405e3c533c2bef01ba845d789e5ec79b7790af"
+      "sha256": "sha256:202ef12582c11cd68e0be17d906339eda3f0de8cc9a18b076bdc496c99629bcd"
     },
     {
       "id": "code-quality-scan",
