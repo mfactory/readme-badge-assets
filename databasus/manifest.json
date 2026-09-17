@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/databasus",
-  "sourceSha": "628ddc70bf9d17bf371a2664639babe5ce438530",
+  "sourceSha": "c1811ee7f98b6a00c3f8b99d1ff4fabbf12c630d",
   "badges": [
     {
       "id": "coverage",
@@ -44,6 +44,12 @@
       "label": "Lint And Deploy",
       "path": "badges/lint-and-deploy.svg",
       "sha256": "sha256:7fced10ac35713c936e7b0804109a5c1b29082ef7097ac80c5c690e0a2bb9c78"
+    },
+    {
+      "id": "mail-runtime-registration",
+      "label": "Build Mail Runtime (Registration Only)",
+      "path": "badges/mail-runtime-registration.svg",
+      "sha256": "sha256:41d0cea9c7a398e68bd89ca2b479e39985493f237daf996d3675da542e8f6a93"
     },
     {
       "id": "code-quality-scan",
