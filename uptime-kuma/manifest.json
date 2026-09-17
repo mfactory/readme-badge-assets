@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/uptime-kuma",
-  "sourceSha": "4aafc7e8ab62ec6686d4c71e01742614ca089335",
+  "sourceSha": "c4fa94f18b2f89682a58397b9a6318f0990c892c",
   "badges": [
     {
       "id": "coverage",
@@ -43,7 +43,7 @@
       "id": "dhi-maintenance",
       "label": "DHI Maintenance",
       "path": "badges/dhi-maintenance.svg",
-      "sha256": "sha256:464572d854b285a569e4f6ecc6ae34608eb3b133f3b058f07847b042ce525673"
+      "sha256": "sha256:027ac7432508311a9a35e1a0d2dabb2c9444e3bf8e77fd3c956ab4255d05a08c"
     },
     {
       "id": "lint-and-deploy",
@@ -58,6 +58,12 @@
       "sha256": "sha256:b6ec24043768d3ec527d17c677a1a62d66e1c23f7cb98fd9065ba5dbc9014c6f"
     },
     {
+      "id": "mail-runtime-registration",
+      "label": "Build Mail Runtime (Registration Only)",
+      "path": "badges/mail-runtime-registration.svg",
+      "sha256": "sha256:41d0cea9c7a398e68bd89ca2b479e39985493f237daf996d3675da542e8f6a93"
+    },
+    {
       "id": "code-quality-scan",
       "label": "Code Quality Scan",
       "path": "badges/code-quality-scan.svg",
@@ -67,7 +73,7 @@
       "id": "dependabot-updates",
       "label": "Dependabot Updates",
       "path": "badges/dependabot-updates.svg",
-      "sha256": "sha256:dfdba541367262719e83fff7fdaafdc9942f3cee1bd12e0d05850d174be12d52"
+      "sha256": "sha256:90dd2b716dc990467653cfd1b16f2f2648a5d15a6df943cdba95a49dab91fb0f"
     },
     {
       "id": "dependency-graph",
