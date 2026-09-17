@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/databasus",
-  "sourceSha": "efa55e5f1d12091204dc60c5fc8c470ba0b7a638",
+  "sourceSha": "79c42dcb02402e14147e4c7127c6428067e5b886",
   "badges": [
     {
       "id": "coverage",
@@ -43,7 +43,7 @@
       "id": "lint-and-deploy",
       "label": "Lint And Deploy",
       "path": "badges/lint-and-deploy.svg",
-      "sha256": "sha256:8f3a1a86812a7eda218ed87be4e7a6df3930f961ebb2c3f2f0546b237c6891a0"
+      "sha256": "sha256:7fced10ac35713c936e7b0804109a5c1b29082ef7097ac80c5c690e0a2bb9c78"
     },
     {
       "id": "code-quality-scan",
