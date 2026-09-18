@@ -3,20 +3,20 @@
   "sourceRepository": "mfactory/mfactory-site",
   "sourceSha": "b9b7b3e37b080de6c03d23b4f7fe3ee6cf062fc7",
   "health": {
-    "generatedAt": "2026-09-17T18:15:27.087Z",
-    "healthy": true,
+    "generatedAt": "2026-09-18T13:52:18.190Z",
+    "healthy": false,
     "checks": [
       {
         "id": "ci",
-        "state": "pass"
+        "state": "off"
       },
       {
         "id": "dhi-canary",
-        "state": "pass"
+        "state": "stale"
       },
       {
         "id": "cloudflare-security-controls",
-        "state": "pass"
+        "state": "off"
       },
       {
         "id": "production-api-security-attestation",
@@ -65,13 +65,13 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:68f841b7d7025e03c0a6c4f77e93c49d7a78ab1be5b95919dc19e59cc07ba586"
+      "sha256": "sha256:52a372628f0b4e2c9aea5214d90d2b2a148b13e203003b7e1dca3e192d0300b6"
     },
     {
       "id": "cloudflare-security-controls",
       "label": "Cloudflare Security Controls",
       "path": "badges/cloudflare-security-controls.svg",
-      "sha256": "sha256:202ef12582c11cd68e0be17d906339eda3f0de8cc9a18b076bdc496c99629bcd"
+      "sha256": "sha256:68ad09ec6044026da8c4cd98813b3a98578fdc7a57bc9f5b10dba09d11b27647"
     },
     {
       "id": "code-quality-scan",
@@ -83,13 +83,13 @@
       "id": "content-governance",
       "label": "Content Governance",
       "path": "badges/content-governance.svg",
-      "sha256": "sha256:f6ab51939b3554c743af31f76118b3b22f0ddf14c5f97f6e95285edb0bb4d98b"
+      "sha256": "sha256:3a7b8015892d5b5e4da574e812157ee0f48028ac86991cdc38e7608022e9bc8b"
     },
     {
       "id": "dhi-canary",
       "label": "DHI Canary",
       "path": "badges/dhi-canary.svg",
-      "sha256": "sha256:83adc158c357f6f596ce7a1d0d428bc4872744ac84d6ce2b70b6428a526ca5a8"
+      "sha256": "sha256:42796323af0e92ae5c251d408ccf6ff16453cda1f8f00f09eba48162fdafd463"
     },
     {
       "id": "mutation-assurance",
@@ -113,7 +113,7 @@
       "id": "production-paired-rollback",
       "label": "Last Paired Rollback",
       "path": "badges/production-paired-rollback.svg",
-      "sha256": "sha256:eff4bff2da1cb6067f366e5c96fbcf61c1e80449ffc5bd87d969676156facdaf"
+      "sha256": "sha256:66e9d67f27f3f7b9a954fdde06c294e5c8d971171e64363c9ad7c8d8da37ca7c"
     },
     {
       "id": "dependabot-updates",
