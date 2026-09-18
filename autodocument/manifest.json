@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/autodocument",
-  "sourceSha": "d66adcb739870b56c20c8b4c5cc819ffdd71b275",
+  "sourceSha": "69e8c34f56c47ad3cf8a112238b3d79bcbb3a98d",
   "badges": [
     {
       "id": "coverage",
@@ -52,6 +52,12 @@
       "sha256": "sha256:cb7a257946a3361bc697f87b6cd81e64cd50d9d7d26eba36aced4158c4850c89"
     },
     {
+      "id": "dhi-candidate-validation",
+      "label": "DHI Candidate Source Validation",
+      "path": "badges/dhi-candidate-validation.svg",
+      "sha256": "sha256:aeff7f791d738829bb8b2f539de7188c6f275e8c64276fbcd3a16c6d36d54c15"
+    },
+    {
       "id": "code-quality-scan",
       "label": "Code Quality Scan",
       "path": "badges/code-quality-scan.svg",
@@ -67,7 +73,7 @@
       "id": "dependabot-updates",
       "label": "Dependabot Updates",
       "path": "badges/dependabot-updates.svg",
-      "sha256": "sha256:dfdba541367262719e83fff7fdaafdc9942f3cee1bd12e0d05850d174be12d52"
+      "sha256": "sha256:90dd2b716dc990467653cfd1b16f2f2648a5d15a6df943cdba95a49dab91fb0f"
     },
     {
       "id": "dependency-graph",
