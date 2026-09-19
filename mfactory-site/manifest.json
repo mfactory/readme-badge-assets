@@ -3,7 +3,7 @@
   "sourceRepository": "mfactory/mfactory-site",
   "sourceSha": "b9b7b3e37b080de6c03d23b4f7fe3ee6cf062fc7",
   "health": {
-    "generatedAt": "2026-09-19T13:26:17.312Z",
+    "generatedAt": "2026-09-19T17:18:20.368Z",
     "healthy": false,
     "checks": [
       {
@@ -29,7 +29,7 @@
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:b269b68b58fc953d08c8969066f1b80da4cf5fc87a29c5778520cf71abc0eaf3"
+      "sha256": "sha256:a83365b0b4e46111d42ec5b4a2447f255778131d2ed304e66c7b379458ef954c"
     },
     {
       "id": "github-code-quality",
