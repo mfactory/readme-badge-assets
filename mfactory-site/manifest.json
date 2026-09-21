@@ -3,7 +3,7 @@
   "sourceRepository": "mfactory/mfactory-site",
   "sourceSha": "b9b7b3e37b080de6c03d23b4f7fe3ee6cf062fc7",
   "health": {
-    "generatedAt": "2026-09-20T17:29:53.434Z",
+    "generatedAt": "2026-09-21T16:02:43.120Z",
     "healthy": false,
     "checks": [
       {
@@ -53,13 +53,13 @@
       "id": "socket",
       "label": "Socket",
       "path": "badges/socket.svg",
-      "sha256": "sha256:181d1525abb74c5a5801dc45e1f6c26b945cb9f16ed18ff8abcdf4333d618708"
+      "sha256": "sha256:8ff71a8bd5301a003353891c46b54da7e341fc48db45ad82a697c5f052aa8cf5"
     },
     {
       "id": "gitleaks",
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
-      "sha256": "sha256:0fb801f71d9b8c0c7fc3eb99bbcfd3a73d189e8b2d589813e57bd2e907c5406c"
+      "sha256": "sha256:4389d19d7ab9ec2ef96da28cfa779d2a80c9585f23f7379cc23cb7c1e3b3f0c1"
     },
     {
       "id": "ci",
