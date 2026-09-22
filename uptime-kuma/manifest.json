@@ -43,7 +43,7 @@
       "id": "dhi-maintenance",
       "label": "DHI Maintenance",
       "path": "badges/dhi-maintenance.svg",
-      "sha256": "sha256:027ac7432508311a9a35e1a0d2dabb2c9444e3bf8e77fd3c956ab4255d05a08c"
+      "sha256": "sha256:7538652efd4aefb66519ca9a6dcbc3b2227f6b573f1674050fb3bba6989d94ef"
     },
     {
       "id": "lint-and-deploy",
