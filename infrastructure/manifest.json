@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/infrastructure",
-  "sourceSha": "f5b0c42aa771c342573c83214b2bdcf636b251e4",
+  "sourceSha": "f94956e2ba039c97b75c7ef649c04ee070dd5b35",
   "badges": [
     {
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:a83365b0b4e46111d42ec5b4a2447f255778131d2ed304e66c7b379458ef954c"
+      "sha256": "sha256:d8aa703907c81a367a1eba55abb1c771109255fc4d5f8106083c2c1c9b23ebcf"
     },
     {
       "id": "github-code-quality",
@@ -43,19 +43,19 @@
       "id": "gitleaks",
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
-      "sha256": "sha256:ade9784a5b2332ae8dce8424cf6c13c2f48666fe9dfc1261852db4348fa46fcc"
+      "sha256": "sha256:0fb801f71d9b8c0c7fc3eb99bbcfd3a73d189e8b2d589813e57bd2e907c5406c"
     },
     {
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:ce32004c0d02dcdf2a22a838f1f8ac6cdcbc6b946a0fb75fbd55c8bfb8e6cab5"
+      "sha256": "sha256:68f841b7d7025e03c0a6c4f77e93c49d7a78ab1be5b95919dc19e59cc07ba586"
     },
     {
       "id": "dhi-supply-chain",
       "label": "DHI Supply Chain",
       "path": "badges/dhi-supply-chain.svg",
-      "sha256": "sha256:51fd7091d48a7e29469ac5e7bfbda7d1430ff663f0bb2f0018703a3f755df706"
+      "sha256": "sha256:79cfc967a5de09545cb957b46722eebd039f3352851555174f3a622ee00ca8db"
     },
     {
       "id": "code-quality-scan",
