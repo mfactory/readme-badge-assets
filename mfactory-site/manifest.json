@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "b9b7b3e37b080de6c03d23b4f7fe3ee6cf062fc7",
+  "sourceSha": "7e6314080c4ead23195376a054c460c2ebe94cca",
   "health": {
-    "generatedAt": "2026-09-23T18:28:18.804Z",
+    "generatedAt": "2026-09-24T03:23:38.886Z",
     "healthy": false,
     "checks": [
       {
@@ -20,7 +20,7 @@
       },
       {
         "id": "production-api-security-attestation",
-        "state": "pass"
+        "state": "stale"
       }
     ]
   },
@@ -41,7 +41,7 @@
       "id": "deployment",
       "label": "Site Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:8f2a93a96907577fb01c81f62f4fe0b6562b02768d8450fb6790dd1226968ec0"
+      "sha256": "sha256:9d54b68f5390d45c62c1421026ac43a6f47a2ab19ffab11be9b9d16f5e8ce9be"
     },
     {
       "id": "health",
@@ -53,7 +53,7 @@
       "id": "socket",
       "label": "Socket",
       "path": "badges/socket.svg",
-      "sha256": "sha256:8ff71a8bd5301a003353891c46b54da7e341fc48db45ad82a697c5f052aa8cf5"
+      "sha256": "sha256:181d1525abb74c5a5801dc45e1f6c26b945cb9f16ed18ff8abcdf4333d618708"
     },
     {
       "id": "gitleaks",
@@ -83,7 +83,7 @@
       "id": "content-governance",
       "label": "Content Governance",
       "path": "badges/content-governance.svg",
-      "sha256": "sha256:23f4db93cac9e1541a87104ea4ecdb7ceb26a60482d37017c435bead90c81b3b"
+      "sha256": "sha256:3a7b8015892d5b5e4da574e812157ee0f48028ac86991cdc38e7608022e9bc8b"
     },
     {
       "id": "dhi-canary",
@@ -95,13 +95,13 @@
       "id": "mutation-assurance",
       "label": "Mutation Assurance",
       "path": "badges/mutation-assurance.svg",
-      "sha256": "sha256:ac614f6c620f5129cd5418f1315be785ab93b2540b94e2abeae2f24358db07b0"
+      "sha256": "sha256:64b5eea8bfdfc3be63e2b23fc4cdbf4c912de91dc7e8df7aca238e8559e13b30"
     },
     {
       "id": "production-api-security-attestation",
       "label": "Production API Security Attestation",
       "path": "badges/production-api-security-attestation.svg",
-      "sha256": "sha256:2f8b00cb06bd7c67a0206d45203bba9058149b59e8d1a56fa272256f8eeb15f7"
+      "sha256": "sha256:09c8a9793fcc85d2c13d8144f5796886fd995cbebe2f7101f6837730e337b9ed"
     },
     {
       "id": "production-observability-smoke",
