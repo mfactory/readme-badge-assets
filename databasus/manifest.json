@@ -43,7 +43,7 @@
       "id": "lint-and-deploy",
       "label": "Lint And Deploy",
       "path": "badges/lint-and-deploy.svg",
-      "sha256": "sha256:7fced10ac35713c936e7b0804109a5c1b29082ef7097ac80c5c690e0a2bb9c78"
+      "sha256": "sha256:a45006614597890c7923fbf24912bd18f0aa76e95758135a0cd1fd44ad3d757b"
     },
     {
       "id": "mail-runtime-registration",
