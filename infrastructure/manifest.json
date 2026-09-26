@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/infrastructure",
-  "sourceSha": "c2c557cc69be9c72a5431214d5517fcd19e73754",
+  "sourceSha": "97a2b924be27ce5e54deb1531ca80f1da89fb923",
   "badges": [
     {
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:d8aa703907c81a367a1eba55abb1c771109255fc4d5f8106083c2c1c9b23ebcf"
+      "sha256": "sha256:19784ad350f83035cfb54409a5707a14563001546bb938cb1f1b72b594688b1c"
     },
     {
       "id": "github-code-quality",
