@@ -3,7 +3,7 @@
   "sourceRepository": "mfactory/mfactory-site",
   "sourceSha": "838e5343d46bd7f382fb81dbcf6ceac39a99dece",
   "health": {
-    "generatedAt": "2026-09-28T17:50:45.689Z",
+    "generatedAt": "2026-09-28T20:34:42.354Z",
     "healthy": false,
     "checks": [
       {
@@ -95,7 +95,7 @@
       "id": "mutation-assurance",
       "label": "Mutation Assurance",
       "path": "badges/mutation-assurance.svg",
-      "sha256": "sha256:64b5eea8bfdfc3be63e2b23fc4cdbf4c912de91dc7e8df7aca238e8559e13b30"
+      "sha256": "sha256:ac614f6c620f5129cd5418f1315be785ab93b2540b94e2abeae2f24358db07b0"
     },
     {
       "id": "production-api-security-attestation",
