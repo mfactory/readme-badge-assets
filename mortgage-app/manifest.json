@@ -91,7 +91,7 @@
       "id": "dhi-ci-image-verification",
       "label": "DHI CI Image Verification",
       "path": "badges/dhi-ci-image-verification.svg",
-      "sha256": "sha256:10108b88a1c26ccb0783bc31205f6613791ad5a94df2aa93c22f7d8865e05116"
+      "sha256": "sha256:185f0a80e5add967d0f92c695283e3edd804e02823188652602a74d96ca9ec96"
     },
     {
       "id": "satellite-workers",
@@ -121,9 +121,9 @@
       "observation": {
         "state": "off",
         "run": {
-          "id": 32373221545,
-          "sha": "8c3e3f6274038446c4b541d91860171007a126de",
-          "updatedAt": "2026-08-20T13:16:23.000Z"
+          "id": 34342549593,
+          "sha": "08c56ec29492e262033efd9833189ff2e5297b5a",
+          "updatedAt": "2026-09-09T10:54:09.000Z"
         }
       }
     },
@@ -162,6 +162,6 @@
   ],
   "evidence": {
     "path": "evidence.md",
-    "sha256": "sha256:5d9eafa8355de8812165c0de4ccabe06a124aafef4922a07de49ac21ac7dab40"
+    "sha256": "sha256:5bf41c1805fa2dcc0d7eff3e0e405fa7a6dfe2199b598722fbe11ca1b5ec39be"
   }
 }
