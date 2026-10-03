@@ -3,7 +3,7 @@
   "sourceRepository": "mfactory/mfactory-site",
   "sourceSha": "838e5343d46bd7f382fb81dbcf6ceac39a99dece",
   "health": {
-    "generatedAt": "2026-10-02T19:20:14.181Z",
+    "generatedAt": "2026-10-03T14:26:51.789Z",
     "healthy": false,
     "checks": [
       {
@@ -119,7 +119,7 @@
       "id": "dependabot-updates",
       "label": "Dependabot Updates",
       "path": "badges/dependabot-updates.svg",
-      "sha256": "sha256:90dd2b716dc990467653cfd1b16f2f2648a5d15a6df943cdba95a49dab91fb0f"
+      "sha256": "sha256:d254d23f1f1dd634d5d2d0572dbc871420495b7c73b595a8c0c87d7ba4949449"
     }
   ]
 }
