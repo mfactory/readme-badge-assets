@@ -1,13 +1,25 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/autodocument",
-  "sourceSha": "7b9fe6f9fa1c2e144045627e2f10af2b4d2a500f",
+  "sourceSha": "cd4bf88041c9d6239a685b608127747bbca2fa60",
   "badges": [
     {
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
       "sha256": "sha256:a83365b0b4e46111d42ec5b4a2447f255778131d2ed304e66c7b379458ef954c"
+    },
+    {
+      "id": "linux-supervisor-qualification",
+      "label": "Linux Supervisor Qualification",
+      "path": "badges/linux-supervisor-qualification.svg",
+      "sha256": "sha256:7d5d0dde09171a2a87010d94a8fe909011f43f92db0ccdaef3458480e50ac09f"
+    },
+    {
+      "id": "runtime-health",
+      "label": "Runtime Health",
+      "path": "badges/runtime-health.svg",
+      "sha256": "sha256:f5bb1cb1d0c6920987ce700dedf9b10cf2baf45552d392839f6a90f3e2ac4d06"
     },
     {
       "id": "github-code-quality",
@@ -40,16 +52,16 @@
       "sha256": "sha256:4389d19d7ab9ec2ef96da28cfa779d2a80c9585f23f7379cc23cb7c1e3b3f0c1"
     },
     {
-      "id": "lint-and-deploy",
-      "label": "Lint And Deploy",
-      "path": "badges/lint-and-deploy.svg",
-      "sha256": "sha256:91f6b3623f55d81f9a4ce3911c5fb07687bf1912422ddd328c3c662ab60bc047"
+      "id": "ci",
+      "label": "CI",
+      "path": "badges/ci.svg",
+      "sha256": "sha256:3050304a5ebaba038fedcaa12a0fdd9f79b230096caa972b3220b0b03abdc5fc"
     },
     {
       "id": "dhi-security",
-      "label": "DHI Security",
+      "label": "DHI Tooling",
       "path": "badges/dhi-security.svg",
-      "sha256": "sha256:cb7a257946a3361bc697f87b6cd81e64cd50d9d7d26eba36aced4158c4850c89"
+      "sha256": "sha256:590c2a446911c9ea5c7c23bf56053a8e68aed8c547fde5d8b9f0361f73103ae5"
     },
     {
       "id": "dhi-candidate-validation",
@@ -73,7 +85,7 @@
       "id": "dependabot-updates",
       "label": "Dependabot Updates",
       "path": "badges/dependabot-updates.svg",
-      "sha256": "sha256:90dd2b716dc990467653cfd1b16f2f2648a5d15a6df943cdba95a49dab91fb0f"
+      "sha256": "sha256:dfdba541367262719e83fff7fdaafdc9942f3cee1bd12e0d05850d174be12d52"
     },
     {
       "id": "dependency-graph",
