@@ -101,9 +101,9 @@
       "observation": {
         "state": "fail",
         "run": {
-          "id": 37579326825,
+          "id": 37628490455,
           "sha": "3ea4328d0c05501ea33f91e39e61ad6f10af1150",
-          "updatedAt": "2026-10-07T06:03:05.000Z"
+          "updatedAt": "2026-10-07T13:27:27.000Z"
         }
       }
     },
@@ -157,11 +157,11 @@
       "id": "dependabot-updates",
       "label": "Dependabot Updates",
       "path": "badges/dependabot-updates.svg",
-      "sha256": "sha256:dfdba541367262719e83fff7fdaafdc9942f3cee1bd12e0d05850d174be12d52"
+      "sha256": "sha256:90dd2b716dc990467653cfd1b16f2f2648a5d15a6df943cdba95a49dab91fb0f"
     }
   ],
   "evidence": {
     "path": "evidence.md",
-    "sha256": "sha256:a4f2d3618887cd3d3fc0d1260cbd7797facee2e714f5de2867f9896056a6b5c0"
+    "sha256": "sha256:b93deb5b2bffa2c14967446fb7b846c8c969dc674d2e59ad98114b9757334c6e"
   }
 }
