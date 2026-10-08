@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/infrastructure",
-  "sourceSha": "fdfe60c211da2976965873ede7d88e4160dfd604",
+  "sourceSha": "921d87fbb0d969561ab24e049fad4c4b8a3f020d",
   "badges": [
     {
       "id": "coverage",
@@ -43,7 +43,7 @@
       "id": "gitleaks",
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
-      "sha256": "sha256:4389d19d7ab9ec2ef96da28cfa779d2a80c9585f23f7379cc23cb7c1e3b3f0c1"
+      "sha256": "sha256:ade9784a5b2332ae8dce8424cf6c13c2f48666fe9dfc1261852db4348fa46fcc"
     },
     {
       "id": "ci",
@@ -55,7 +55,7 @@
       "id": "dhi-supply-chain",
       "label": "DHI Supply Chain",
       "path": "badges/dhi-supply-chain.svg",
-      "sha256": "sha256:ea593eb21aeb092a668196a1f65f51bc1f9049f69fedae55de5d34790aa7106b"
+      "sha256": "sha256:51fd7091d48a7e29469ac5e7bfbda7d1430ff663f0bb2f0018703a3f755df706"
     },
     {
       "id": "code-quality-scan",
