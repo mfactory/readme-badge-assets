@@ -3,12 +3,12 @@
   "sourceRepository": "mfactory/mfactory-site",
   "sourceSha": "838e5343d46bd7f382fb81dbcf6ceac39a99dece",
   "health": {
-    "generatedAt": "2026-10-12T22:09:24.131Z",
+    "generatedAt": "2026-10-13T17:09:40.336Z",
     "healthy": false,
     "checks": [
       {
         "id": "ci",
-        "state": "off"
+        "state": "stale"
       },
       {
         "id": "dhi-canary",
@@ -65,7 +65,7 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:52a372628f0b4e2c9aea5214d90d2b2a148b13e203003b7e1dca3e192d0300b6"
+      "sha256": "sha256:3050304a5ebaba038fedcaa12a0fdd9f79b230096caa972b3220b0b03abdc5fc"
     },
     {
       "id": "cloudflare-security-controls",
