@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mortgage-app",
-  "sourceSha": "2de9a2b44b12ae4a4690a23b009adce52d57dfa8",
+  "sourceSha": "34ed39fa8b0e910b916ec548bcacf3133329bdc9",
   "badges": [
     {
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:907124e54ca7cb0b530d67535c8e11a8e5faa53ed0877ebbce3d55d4b8e0c349"
+      "sha256": "sha256:5cc6440fa877a53c94026ed015b0c3126b15f2d84d0d8c804254b62e0ea4ee26"
     },
     {
       "id": "github-code-quality",
@@ -97,9 +97,9 @@
       "id": "satellite-workers",
       "label": "Satellite Workers",
       "path": "badges/satellite-workers.svg",
-      "sha256": "sha256:525eb646109a33b66d6225123062bd194113c8054dbcfc23d11a1e9cc091dee0",
+      "sha256": "sha256:cd1b719a297941c12579c3670ccb8efb1184cbd3b76346ab484d007e9ad7a2ed",
       "observation": {
-        "state": "fail",
+        "state": "stale",
         "run": {
           "id": 38682794959,
           "sha": "2de9a2b44b12ae4a4690a23b009adce52d57dfa8",
@@ -111,7 +111,7 @@
       "id": "deployment-health",
       "label": "Deployment Health",
       "path": "badges/deployment-health.svg",
-      "sha256": "sha256:f9cee40cbcc6c6a373ef5406270247517c45488f446c1bfe992de8eb03522bd4"
+      "sha256": "sha256:593c515311b44db3025df69186628d84db2694a64ce0f17c0961757cfd3c9b72"
     },
     {
       "id": "pdf-archive-smoke",
@@ -162,6 +162,6 @@
   ],
   "evidence": {
     "path": "evidence.md",
-    "sha256": "sha256:4d7f79d45184a380761b9971db044c3c58f77088e7e34169fc11a3273b6a59be"
+    "sha256": "sha256:a5d49e5c027c0e3766492c982be2f95b0d0dc88fc7b475ed88fe6184c72d1f95"
   }
 }
