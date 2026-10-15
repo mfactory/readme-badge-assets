@@ -85,7 +85,7 @@
       "id": "deep-qa",
       "label": "Deep QA",
       "path": "badges/deep-qa.svg",
-      "sha256": "sha256:653c4494dccfa7fa17239b0b3b3cfb3693ad9328fc5439542941add183adedc9"
+      "sha256": "sha256:1ee361f0c8d155fa596fd128e98a7f662d12579500afff50dcc569f7f4da745f"
     },
     {
       "id": "dhi-ci-image-verification",
