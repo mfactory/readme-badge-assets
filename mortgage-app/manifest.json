@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/mortgage-app",
-  "sourceSha": "3ea4328d0c05501ea33f91e39e61ad6f10af1150",
+  "sourceSha": "2de9a2b44b12ae4a4690a23b009adce52d57dfa8",
   "badges": [
     {
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:a83365b0b4e46111d42ec5b4a2447f255778131d2ed304e66c7b379458ef954c"
+      "sha256": "sha256:907124e54ca7cb0b530d67535c8e11a8e5faa53ed0877ebbce3d55d4b8e0c349"
     },
     {
       "id": "github-code-quality",
@@ -19,7 +19,7 @@
       "id": "deployment",
       "label": "App Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:ac2536b8f60d5c6365b64cddf355f05bb9017f8d7cbfb28a56cbb4be1365975e"
+      "sha256": "sha256:a7fc9573781308c990a6b262d5c4f747f0929602121428adacfe01080f534ee8"
     },
     {
       "id": "health",
@@ -31,25 +31,25 @@
       "id": "socket",
       "label": "Socket",
       "path": "badges/socket.svg",
-      "sha256": "sha256:8ff71a8bd5301a003353891c46b54da7e341fc48db45ad82a697c5f052aa8cf5"
+      "sha256": "sha256:181d1525abb74c5a5801dc45e1f6c26b945cb9f16ed18ff8abcdf4333d618708"
     },
     {
       "id": "gitleaks",
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
-      "sha256": "sha256:4389d19d7ab9ec2ef96da28cfa779d2a80c9585f23f7379cc23cb7c1e3b3f0c1"
+      "sha256": "sha256:0fb801f71d9b8c0c7fc3eb99bbcfd3a73d189e8b2d589813e57bd2e907c5406c"
     },
     {
       "id": "semgrep",
       "label": "Semgrep",
       "path": "badges/semgrep.svg",
-      "sha256": "sha256:a7de6b75c200119a74f032cb68e5fc7baa82a7d6c639a530214dcafaab0ee39a"
+      "sha256": "sha256:7d9bd8586ee3d81e4b9652ae509c83d8ee216d7a17e117de470e4182e3d1bf88"
     },
     {
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:3050304a5ebaba038fedcaa12a0fdd9f79b230096caa972b3220b0b03abdc5fc"
+      "sha256": "sha256:ce32004c0d02dcdf2a22a838f1f8ac6cdcbc6b946a0fb75fbd55c8bfb8e6cab5"
     },
     {
       "id": "admin-access-lifecycle",
@@ -61,7 +61,7 @@
       "id": "browser-qa",
       "label": "Browser QA",
       "path": "badges/browser-qa.svg",
-      "sha256": "sha256:6cbf2544dcd02e8ffbd0e99140e9a32d58437f60be8b1884f8595194285070e3"
+      "sha256": "sha256:44c646a9c3f634c701e093772dd7e48cf04c9d51ef77cf07afde7412d128463d"
     },
     {
       "id": "cloudflare-posture-evidence",
@@ -85,21 +85,21 @@
       "id": "deep-qa",
       "label": "Deep QA",
       "path": "badges/deep-qa.svg",
-      "sha256": "sha256:1ee361f0c8d155fa596fd128e98a7f662d12579500afff50dcc569f7f4da745f"
+      "sha256": "sha256:653c4494dccfa7fa17239b0b3b3cfb3693ad9328fc5439542941add183adedc9"
     },
     {
       "id": "dhi-ci-image-verification",
       "label": "DHI CI Image Verification",
       "path": "badges/dhi-ci-image-verification.svg",
-      "sha256": "sha256:f9f0d47f418495c9f10a6a5fdb64ba94c5ebe64c46325840ec625efe49baabef"
+      "sha256": "sha256:10108b88a1c26ccb0783bc31205f6613791ad5a94df2aa93c22f7d8865e05116"
     },
     {
       "id": "satellite-workers",
       "label": "Satellite Workers",
       "path": "badges/satellite-workers.svg",
-      "sha256": "sha256:525eb646109a33b66d6225123062bd194113c8054dbcfc23d11a1e9cc091dee0",
+      "sha256": "sha256:cd1b719a297941c12579c3670ccb8efb1184cbd3b76346ab484d007e9ad7a2ed",
       "observation": {
-        "state": "fail",
+        "state": "stale",
         "run": {
           "id": 38642281538,
           "sha": "3ea4328d0c05501ea33f91e39e61ad6f10af1150",
@@ -111,7 +111,7 @@
       "id": "deployment-health",
       "label": "Deployment Health",
       "path": "badges/deployment-health.svg",
-      "sha256": "sha256:f9cee40cbcc6c6a373ef5406270247517c45488f446c1bfe992de8eb03522bd4"
+      "sha256": "sha256:593c515311b44db3025df69186628d84db2694a64ce0f17c0961757cfd3c9b72"
     },
     {
       "id": "pdf-archive-smoke",
@@ -151,7 +151,7 @@
       "id": "security-evidence",
       "label": "Security Evidence",
       "path": "badges/security-evidence.svg",
-      "sha256": "sha256:0f41580e37b61a4a89af32697f67772bad748dd97605693f6d801ba7071eff4d"
+      "sha256": "sha256:cce644e4e7c5407c79d0cf644d0a53032fa91c313718824502fd40ac388af892"
     },
     {
       "id": "dependabot-updates",
@@ -162,6 +162,6 @@
   ],
   "evidence": {
     "path": "evidence.md",
-    "sha256": "sha256:03ce8d864e0859048d7692a089c2deef9730b408f78f59bcdc84b1ffb65c75e3"
+    "sha256": "sha256:b7a3c1f5d92a38d13ec4e81f59ac5f04894d1fb95ece5354caf648a3398fef41"
   }
 }
