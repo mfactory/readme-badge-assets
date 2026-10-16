@@ -31,7 +31,7 @@
       "id": "socket",
       "label": "Socket",
       "path": "badges/socket.svg",
-      "sha256": "sha256:181d1525abb74c5a5801dc45e1f6c26b945cb9f16ed18ff8abcdf4333d618708"
+      "sha256": "sha256:8ff71a8bd5301a003353891c46b54da7e341fc48db45ad82a697c5f052aa8cf5"
     },
     {
       "id": "gitleaks",
@@ -101,9 +101,9 @@
       "observation": {
         "state": "fail",
         "run": {
-          "id": 38893777035,
+          "id": 38933829304,
           "sha": "34ed39fa8b0e910b916ec548bcacf3133329bdc9",
-          "updatedAt": "2026-10-16T11:27:08.000Z"
+          "updatedAt": "2026-10-16T16:41:35.000Z"
         }
       }
     },
@@ -162,6 +162,6 @@
   ],
   "evidence": {
     "path": "evidence.md",
-    "sha256": "sha256:71e276098520be7e45ac10261e9a7ca031af5bf299fd7193c9c4b9fe6580e1db"
+    "sha256": "sha256:e48aa5cac73273ed0b79f51db5bacd1e466c369e1469ed6468e203fb67cedf8d"
   }
 }
