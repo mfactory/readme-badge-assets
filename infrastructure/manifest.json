@@ -43,7 +43,7 @@
       "id": "gitleaks",
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
-      "sha256": "sha256:ade9784a5b2332ae8dce8424cf6c13c2f48666fe9dfc1261852db4348fa46fcc"
+      "sha256": "sha256:0fb801f71d9b8c0c7fc3eb99bbcfd3a73d189e8b2d589813e57bd2e907c5406c"
     },
     {
       "id": "ci",
@@ -55,7 +55,7 @@
       "id": "dhi-supply-chain",
       "label": "DHI Supply Chain",
       "path": "badges/dhi-supply-chain.svg",
-      "sha256": "sha256:51fd7091d48a7e29469ac5e7bfbda7d1430ff663f0bb2f0018703a3f755df706"
+      "sha256": "sha256:79cfc967a5de09545cb957b46722eebd039f3352851555174f3a622ee00ca8db"
     },
     {
       "id": "code-quality-scan",
