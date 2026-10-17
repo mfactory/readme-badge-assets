@@ -67,7 +67,7 @@
       "id": "cloudflare-posture-evidence",
       "label": "Cloudflare Posture Evidence",
       "path": "badges/cloudflare-posture-evidence.svg",
-      "sha256": "sha256:720fb9ddf413d445ef0e75c7ad08ef9ab9ad7680bf382b5aae9ce81f375bcc49"
+      "sha256": "sha256:43f00b837e47d7ea2c418c5b0a79b46e27d0c0ed73febf556f64cb6b383209a0"
     },
     {
       "id": "code-quality-scan",
@@ -79,7 +79,7 @@
       "id": "compliance-ops-evidence",
       "label": "Compliance Ops Evidence",
       "path": "badges/compliance-ops-evidence.svg",
-      "sha256": "sha256:66cbd1d2885f533fc82ada7f85a5baa631684b98414b1ce4cdf3146e2fccd4b1"
+      "sha256": "sha256:dc45132847987e847dda81b51c6c1184976e2cc8b403166764f3da8f0591ddcc"
     },
     {
       "id": "deep-qa",
