@@ -55,7 +55,7 @@
       "id": "admin-access-lifecycle",
       "label": "Admin Access Lifecycle",
       "path": "badges/admin-access-lifecycle.svg",
-      "sha256": "sha256:1758d65f47c6f6e24b950d0d7038a7d33dcfabfe3ab4ed4580156d1126dca565"
+      "sha256": "sha256:945a4d5ad53c1d432d482e1fbe87058e7685b8821ecee234462d5d1a1359867b"
     },
     {
       "id": "browser-qa",
@@ -79,7 +79,7 @@
       "id": "compliance-ops-evidence",
       "label": "Compliance Ops Evidence",
       "path": "badges/compliance-ops-evidence.svg",
-      "sha256": "sha256:29a6933c39fb5c504e936f4d87dd73aee1c93ad3b2fc518aeffd6c9eab934dd9"
+      "sha256": "sha256:66cbd1d2885f533fc82ada7f85a5baa631684b98414b1ce4cdf3146e2fccd4b1"
     },
     {
       "id": "deep-qa",
@@ -117,9 +117,9 @@
       "id": "pdf-archive-smoke",
       "label": "Monthly PDF Archive Smoke",
       "path": "badges/pdf-archive-smoke.svg",
-      "sha256": "sha256:07599fbc96fbc164ec78ae21737cfe211a54339701dcfe77d03410dc1aaeaa49",
+      "sha256": "sha256:5fe70be15250e767261d087aaa6334cdc03247898c244831e194715946fbe38e",
       "observation": {
-        "state": "off",
+        "state": "stale",
         "run": {
           "id": 34342549593,
           "sha": "08c56ec29492e262033efd9833189ff2e5297b5a",
@@ -131,9 +131,9 @@
       "id": "production-matrix-smoke",
       "label": "Monthly Production Matrix Smoke",
       "path": "badges/production-matrix-smoke.svg",
-      "sha256": "sha256:eff80c3f271c336ca6821340cb866d209dc3d16d70c81128fb1c631997e56053",
+      "sha256": "sha256:3d6671089463df425dd9016ba2a172d8e3b36932d25c5b137bbf16db51d3564a",
       "observation": {
-        "state": "off",
+        "state": "stale",
         "run": {
           "id": 34342546999,
           "sha": "08c56ec29492e262033efd9833189ff2e5297b5a",
@@ -145,7 +145,7 @@
       "id": "production-submit-contract-smoke",
       "label": "Production Submit Contract Smoke",
       "path": "badges/production-submit-contract-smoke.svg",
-      "sha256": "sha256:a0cc23e41bf917538d3fcfd1eba00f4797c3df49b940df71f79c1a5e91a12f19"
+      "sha256": "sha256:e0cf1c158374947fdce5bc3ed97d3a8904723238ee65837e19a3a87ea2792fec"
     },
     {
       "id": "security-evidence",
@@ -162,6 +162,6 @@
   ],
   "evidence": {
     "path": "evidence.md",
-    "sha256": "sha256:d4b1b587d5845ec8a3cb2948a28ae8570c8955a5888e2354c1381cfe689a90dd"
+    "sha256": "sha256:8df72155c16ad1fac332ebea9496327d56190538baa3a6d0eff4587a9867731b"
   }
 }
