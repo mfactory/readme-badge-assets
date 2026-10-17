@@ -7,7 +7,7 @@
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:a83365b0b4e46111d42ec5b4a2447f255778131d2ed304e66c7b379458ef954c"
+      "sha256": "sha256:aab6fe8f21efef2796cc0468571eb1627de55219185eec969b8ab7797e94becb"
     },
     {
       "id": "github-code-quality",
