@@ -3,7 +3,7 @@
   "sourceRepository": "mfactory/mfactory-site",
   "sourceSha": "7dddd0849fdbb5f7c572d0d284fc3f3351946c32",
   "health": {
-    "generatedAt": "2026-10-17T17:11:38.660Z",
+    "generatedAt": "2026-10-17T18:51:06.701Z",
     "healthy": false,
     "checks": [
       {
@@ -53,7 +53,7 @@
       "id": "socket",
       "label": "Socket",
       "path": "badges/socket.svg",
-      "sha256": "sha256:181d1525abb74c5a5801dc45e1f6c26b945cb9f16ed18ff8abcdf4333d618708"
+      "sha256": "sha256:8ff71a8bd5301a003353891c46b54da7e341fc48db45ad82a697c5f052aa8cf5"
     },
     {
       "id": "gitleaks",
