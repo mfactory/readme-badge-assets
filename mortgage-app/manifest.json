@@ -117,13 +117,13 @@
       "id": "pdf-archive-smoke",
       "label": "Monthly PDF Archive Smoke",
       "path": "badges/pdf-archive-smoke.svg",
-      "sha256": "sha256:6f26239d5d16167d11803cc939e65aaa76f13ca619e697ec1c21965862866ede",
+      "sha256": "sha256:35484f6d10263bdd8acfd3e3196ab700ab849b403249f35adf8222f578f6f495",
       "observation": {
-        "state": "pending",
+        "state": "fail",
         "run": {
           "id": 39059900832,
           "sha": "34ed39fa8b0e910b916ec548bcacf3133329bdc9",
-          "updatedAt": "2026-10-17T18:51:01.000Z"
+          "updatedAt": "2026-10-17T18:52:16.000Z"
         }
       }
     },
@@ -162,6 +162,6 @@
   ],
   "evidence": {
     "path": "evidence.md",
-    "sha256": "sha256:78f2b79d4ae98a938d9da916886230766a531885aed6a6a4ecd32816981b1115"
+    "sha256": "sha256:a5e2d542994058799118c2f223b0e3f91bcf8e498764f7183b2e7a1ef538e81a"
   }
 }
