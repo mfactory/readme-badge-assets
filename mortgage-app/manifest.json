@@ -117,13 +117,13 @@
       "id": "pdf-archive-smoke",
       "label": "Monthly PDF Archive Smoke",
       "path": "badges/pdf-archive-smoke.svg",
-      "sha256": "sha256:35484f6d10263bdd8acfd3e3196ab700ab849b403249f35adf8222f578f6f495",
+      "sha256": "sha256:f4231e8c073c238f7c0cb2530f830fa33406f2ac606016059f2fd6927274bfbd",
       "observation": {
-        "state": "fail",
+        "state": "pass",
         "run": {
           "id": 39059900832,
           "sha": "34ed39fa8b0e910b916ec548bcacf3133329bdc9",
-          "updatedAt": "2026-10-17T18:52:16.000Z"
+          "updatedAt": "2026-10-17T18:57:53.000Z"
         }
       }
     },
@@ -131,13 +131,13 @@
       "id": "production-matrix-smoke",
       "label": "Monthly Production Matrix Smoke",
       "path": "badges/production-matrix-smoke.svg",
-      "sha256": "sha256:3d6671089463df425dd9016ba2a172d8e3b36932d25c5b137bbf16db51d3564a",
+      "sha256": "sha256:73713660b139f582e118e686c25cdd97bb9feb1cdbf4625b6e69d6e09dde84a3",
       "observation": {
-        "state": "stale",
+        "state": "pending",
         "run": {
-          "id": 34342546999,
-          "sha": "08c56ec29492e262033efd9833189ff2e5297b5a",
-          "updatedAt": "2026-09-09T10:55:20.000Z"
+          "id": 39060436431,
+          "sha": "34ed39fa8b0e910b916ec548bcacf3133329bdc9",
+          "updatedAt": "2026-10-17T18:58:46.000Z"
         }
       }
     },
@@ -162,6 +162,6 @@
   ],
   "evidence": {
     "path": "evidence.md",
-    "sha256": "sha256:a5e2d542994058799118c2f223b0e3f91bcf8e498764f7183b2e7a1ef538e81a"
+    "sha256": "sha256:87cc1ac4345a40ae8ceb13037efcb2d29bfc856efc201061c111545a38a45905"
   }
 }
