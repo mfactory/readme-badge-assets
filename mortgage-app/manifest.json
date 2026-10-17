@@ -79,7 +79,7 @@
       "id": "compliance-ops-evidence",
       "label": "Compliance Ops Evidence",
       "path": "badges/compliance-ops-evidence.svg",
-      "sha256": "sha256:dc45132847987e847dda81b51c6c1184976e2cc8b403166764f3da8f0591ddcc"
+      "sha256": "sha256:fecbb658f2f7da3d56369691e7e8edfc34d7478101e487d2e7e2e01256995821"
     },
     {
       "id": "deep-qa",
@@ -117,13 +117,13 @@
       "id": "pdf-archive-smoke",
       "label": "Monthly PDF Archive Smoke",
       "path": "badges/pdf-archive-smoke.svg",
-      "sha256": "sha256:5fe70be15250e767261d087aaa6334cdc03247898c244831e194715946fbe38e",
+      "sha256": "sha256:6f26239d5d16167d11803cc939e65aaa76f13ca619e697ec1c21965862866ede",
       "observation": {
-        "state": "stale",
+        "state": "pending",
         "run": {
-          "id": 34342549593,
-          "sha": "08c56ec29492e262033efd9833189ff2e5297b5a",
-          "updatedAt": "2026-09-09T10:54:09.000Z"
+          "id": 39059900832,
+          "sha": "34ed39fa8b0e910b916ec548bcacf3133329bdc9",
+          "updatedAt": "2026-10-17T18:51:01.000Z"
         }
       }
     },
@@ -162,6 +162,6 @@
   ],
   "evidence": {
     "path": "evidence.md",
-    "sha256": "sha256:8df72155c16ad1fac332ebea9496327d56190538baa3a6d0eff4587a9867731b"
+    "sha256": "sha256:78f2b79d4ae98a938d9da916886230766a531885aed6a6a4ecd32816981b1115"
   }
 }

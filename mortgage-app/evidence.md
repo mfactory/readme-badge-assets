@@ -15,11 +15,11 @@ Result: **Fail**.
 
 ## Monthly PDF Archive Smoke
 
-Result: **Stale**.
+Result: **Pending**.
 
-- [Workflow run 34342549593](https://github.com/mfactory/mortgage-app/actions/runs/34342549593)
-- Tested commit: [08c56ec29492e262033efd9833189ff2e5297b5a](https://github.com/mfactory/mortgage-app/commit/08c56ec29492e262033efd9833189ff2e5297b5a)
-- Run updated at: 2026-09-09T10:54:09.000Z
+- [Workflow run 39059900832](https://github.com/mfactory/mortgage-app/actions/runs/39059900832)
+- Tested commit: [34ed39fa8b0e910b916ec548bcacf3133329bdc9](https://github.com/mfactory/mortgage-app/commit/34ed39fa8b0e910b916ec548bcacf3133329bdc9)
+- Run updated at: 2026-10-17T18:51:01.000Z
 
 ## Monthly Production Matrix Smoke
 
