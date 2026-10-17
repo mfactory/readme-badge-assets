@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "4d16de5f0692408044f0d84d8333408fc053f23e",
+  "sourceSha": "1d058aca8df917ace8ba8ab68fd987b8428ff308",
   "health": {
-    "generatedAt": "2026-10-17T19:20:34.442Z",
+    "generatedAt": "2026-10-17T23:06:27.596Z",
     "healthy": false,
     "checks": [
       {
@@ -41,7 +41,7 @@
       "id": "deployment",
       "label": "Site Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:7c4fd72f84da9a03801ed7c983897bd220cc2bba77733ee45b5001b9e6d58656"
+      "sha256": "sha256:8f2a93a96907577fb01c81f62f4fe0b6562b02768d8450fb6790dd1226968ec0"
     },
     {
       "id": "health",
