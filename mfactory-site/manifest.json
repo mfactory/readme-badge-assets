@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "sourceRepository": "mfactory/mfactory-site",
-  "sourceSha": "7dddd0849fdbb5f7c572d0d284fc3f3351946c32",
+  "sourceSha": "4d16de5f0692408044f0d84d8333408fc053f23e",
   "health": {
-    "generatedAt": "2026-10-17T18:51:06.701Z",
+    "generatedAt": "2026-10-17T19:20:34.442Z",
     "healthy": false,
     "checks": [
       {
@@ -12,7 +12,7 @@
       },
       {
         "id": "dhi-canary",
-        "state": "fail"
+        "state": "pass"
       },
       {
         "id": "cloudflare-security-controls",
@@ -20,7 +20,7 @@
       },
       {
         "id": "production-api-security-attestation",
-        "state": "fail"
+        "state": "stale"
       }
     ]
   },
@@ -41,7 +41,7 @@
       "id": "deployment",
       "label": "Site Deployment",
       "path": "badges/deployment.svg",
-      "sha256": "sha256:9d54b68f5390d45c62c1421026ac43a6f47a2ab19ffab11be9b9d16f5e8ce9be"
+      "sha256": "sha256:7c4fd72f84da9a03801ed7c983897bd220cc2bba77733ee45b5001b9e6d58656"
     },
     {
       "id": "health",
@@ -53,7 +53,7 @@
       "id": "socket",
       "label": "Socket",
       "path": "badges/socket.svg",
-      "sha256": "sha256:8ff71a8bd5301a003353891c46b54da7e341fc48db45ad82a697c5f052aa8cf5"
+      "sha256": "sha256:181d1525abb74c5a5801dc45e1f6c26b945cb9f16ed18ff8abcdf4333d618708"
     },
     {
       "id": "gitleaks",
@@ -89,7 +89,7 @@
       "id": "dhi-canary",
       "label": "DHI Canary",
       "path": "badges/dhi-canary.svg",
-      "sha256": "sha256:0adbb6d0d615ddfff66a7ea6c78ce4ed610f0becca1aeaa96a6c3dd16759c804"
+      "sha256": "sha256:83adc158c357f6f596ce7a1d0d428bc4872744ac84d6ce2b70b6428a526ca5a8"
     },
     {
       "id": "mutation-assurance",
@@ -101,7 +101,7 @@
       "id": "production-api-security-attestation",
       "label": "Production API Security Attestation",
       "path": "badges/production-api-security-attestation.svg",
-      "sha256": "sha256:5f2b7502036bba5bfc96db143ebbaf083681180351e79a32c536ccb97d292537"
+      "sha256": "sha256:09c8a9793fcc85d2c13d8144f5796886fd995cbebe2f7101f6837730e337b9ed"
     },
     {
       "id": "production-observability-smoke",
