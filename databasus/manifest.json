@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/databasus",
-  "sourceSha": "c1811ee7f98b6a00c3f8b99d1ff4fabbf12c630d",
+  "sourceSha": "6580c0326b5eee757ecd9868d68dd78d3ecdde70",
   "badges": [
     {
       "id": "coverage",
@@ -43,7 +43,7 @@
       "id": "lint-and-deploy",
       "label": "Lint And Deploy",
       "path": "badges/lint-and-deploy.svg",
-      "sha256": "sha256:a45006614597890c7923fbf24912bd18f0aa76e95758135a0cd1fd44ad3d757b"
+      "sha256": "sha256:8f3a1a86812a7eda218ed87be4e7a6df3930f961ebb2c3f2f0546b237c6891a0"
     },
     {
       "id": "mail-runtime-registration",
