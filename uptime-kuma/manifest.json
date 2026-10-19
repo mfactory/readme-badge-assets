@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/uptime-kuma",
-  "sourceSha": "c4fa94f18b2f89682a58397b9a6318f0990c892c",
+  "sourceSha": "a1dcd8d0830b147ce6e8a95a1365aa108b3e21bb",
   "badges": [
     {
       "id": "coverage",
@@ -43,13 +43,13 @@
       "id": "dhi-maintenance",
       "label": "DHI Maintenance",
       "path": "badges/dhi-maintenance.svg",
-      "sha256": "sha256:7538652efd4aefb66519ca9a6dcbc3b2227f6b573f1674050fb3bba6989d94ef"
+      "sha256": "sha256:027ac7432508311a9a35e1a0d2dabb2c9444e3bf8e77fd3c956ab4255d05a08c"
     },
     {
       "id": "lint-and-deploy",
       "label": "Lint And Deploy",
       "path": "badges/lint-and-deploy.svg",
-      "sha256": "sha256:a45006614597890c7923fbf24912bd18f0aa76e95758135a0cd1fd44ad3d757b"
+      "sha256": "sha256:7fced10ac35713c936e7b0804109a5c1b29082ef7097ac80c5c690e0a2bb9c78"
     },
     {
       "id": "validate",
@@ -73,7 +73,7 @@
       "id": "dependabot-updates",
       "label": "Dependabot Updates",
       "path": "badges/dependabot-updates.svg",
-      "sha256": "sha256:dfdba541367262719e83fff7fdaafdc9942f3cee1bd12e0d05850d174be12d52"
+      "sha256": "sha256:d254d23f1f1dd634d5d2d0572dbc871420495b7c73b595a8c0c87d7ba4949449"
     },
     {
       "id": "dependency-graph",
