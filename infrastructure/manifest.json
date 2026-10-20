@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/infrastructure",
-  "sourceSha": "f88ff6bde6bfecc71a63d33110029d2cc8db94b6",
+  "sourceSha": "7e6636bf5e53068b68ee1f734ab6cdd1e525c8d8",
   "badges": [
     {
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:dcb9095ea459b8727bd38df8ae6b8241eeb857d777e103bf4c91b5a29a75fa0e"
+      "sha256": "sha256:98804d90dc1c4a293f9b46e9015bc867719dfee5514da75aa766abb6f834cabb"
     },
     {
       "id": "github-code-quality",
@@ -19,7 +19,7 @@
       "id": "mcp-deployment",
       "label": "MCP Deployment",
       "path": "badges/mcp-deployment.svg",
-      "sha256": "sha256:f5010cecf3ab10058bde133c2a82b87c371b17e2d68e0075d99d82a461e13a47"
+      "sha256": "sha256:22966a2f05478cd1888605749040dbeacbd4d9f934153da910bc33f43bc27069"
     },
     {
       "id": "relay-health",
@@ -31,7 +31,7 @@
       "id": "mcp-monitor",
       "label": "MCP Monitor",
       "path": "badges/mcp-monitor.svg",
-      "sha256": "sha256:2a6b8d929a25eb53782f2651e038724d706d6d68b6f7e0810c1aacf461bb35eb"
+      "sha256": "sha256:e2bc27d30caa44aa0c225b5d7fafac841ad0932925d5a74a98c1526bf987f6e8"
     },
     {
       "id": "socket",
