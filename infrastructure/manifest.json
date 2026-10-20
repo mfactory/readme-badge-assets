@@ -19,7 +19,7 @@
       "id": "mcp-deployment",
       "label": "MCP Deployment",
       "path": "badges/mcp-deployment.svg",
-      "sha256": "sha256:22966a2f05478cd1888605749040dbeacbd4d9f934153da910bc33f43bc27069"
+      "sha256": "sha256:f5010cecf3ab10058bde133c2a82b87c371b17e2d68e0075d99d82a461e13a47"
     },
     {
       "id": "relay-health",
@@ -31,7 +31,7 @@
       "id": "mcp-monitor",
       "label": "MCP Monitor",
       "path": "badges/mcp-monitor.svg",
-      "sha256": "sha256:e2bc27d30caa44aa0c225b5d7fafac841ad0932925d5a74a98c1526bf987f6e8"
+      "sha256": "sha256:2a6b8d929a25eb53782f2651e038724d706d6d68b6f7e0810c1aacf461bb35eb"
     },
     {
       "id": "socket",
