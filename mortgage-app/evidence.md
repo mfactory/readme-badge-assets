@@ -15,11 +15,9 @@ Result: **Pass**.
 
 ## Monthly PDF Archive Smoke
 
-Result: **Pass**.
+Result: **Missing**.
 
-- [Workflow run 39059900832](https://github.com/mfactory/mortgage-app/actions/runs/39059900832)
-- Tested commit: [34ed39fa8b0e910b916ec548bcacf3133329bdc9](https://github.com/mfactory/mortgage-app/commit/34ed39fa8b0e910b916ec548bcacf3133329bdc9)
-- Run updated at: 2026-10-17T18:57:53.000Z
+No valid run identity is available.
 
 ## Monthly Production Matrix Smoke
 
