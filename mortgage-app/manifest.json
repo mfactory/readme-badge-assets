@@ -49,7 +49,7 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:4d6f1e43e5ba1968a01eaa3a028735703fdde8ef247506624cdfab60160bc264"
+      "sha256": "sha256:68f841b7d7025e03c0a6c4f77e93c49d7a78ab1be5b95919dc19e59cc07ba586"
     },
     {
       "id": "admin-access-lifecycle",
@@ -67,7 +67,7 @@
       "id": "cloudflare-posture-evidence",
       "label": "Cloudflare Posture Evidence",
       "path": "badges/cloudflare-posture-evidence.svg",
-      "sha256": "sha256:51759b46f7c80afc196f57260918a022a91bece25e42fc14b6985323c2a77c4f"
+      "sha256": "sha256:43f00b837e47d7ea2c418c5b0a79b46e27d0c0ed73febf556f64cb6b383209a0"
     },
     {
       "id": "code-quality-scan",
@@ -85,7 +85,7 @@
       "id": "deep-qa",
       "label": "Deep QA",
       "path": "badges/deep-qa.svg",
-      "sha256": "sha256:a1762a3a5144e036d10daf0c2f7e19efb19b3ce5b877745ad0d2cc17848b090d"
+      "sha256": "sha256:1ee361f0c8d155fa596fd128e98a7f662d12579500afff50dcc569f7f4da745f"
     },
     {
       "id": "dhi-ci-image-verification",
@@ -101,9 +101,9 @@
       "observation": {
         "state": "pass",
         "run": {
-          "id": 39416495895,
+          "id": 39463514702,
           "sha": "aed11120c97fb8a9316db4d6bdfcb1ae561fa12d",
-          "updatedAt": "2026-10-20T11:40:49.000Z"
+          "updatedAt": "2026-10-20T17:11:12.000Z"
         }
       }
     },
@@ -117,10 +117,14 @@
       "id": "pdf-archive-smoke",
       "label": "Monthly PDF Archive Smoke",
       "path": "badges/pdf-archive-smoke.svg",
-      "sha256": "sha256:eb7f7996b96b7a97d273f7de3ef68991d6b5d9e09c044c9d0503b92c4d1d1716",
+      "sha256": "sha256:f4231e8c073c238f7c0cb2530f830fa33406f2ac606016059f2fd6927274bfbd",
       "observation": {
-        "state": "missing",
-        "run": null
+        "state": "pass",
+        "run": {
+          "id": 39059900832,
+          "sha": "34ed39fa8b0e910b916ec548bcacf3133329bdc9",
+          "updatedAt": "2026-10-17T18:57:53.000Z"
+        }
       }
     },
     {
@@ -158,6 +162,6 @@
   ],
   "evidence": {
     "path": "evidence.md",
-    "sha256": "sha256:ae778b39aff5f54e80b166d75166961fa34ca2a117d69b0c5fc697b7d13979d0"
+    "sha256": "sha256:d5f0bf427b190155fbd84bbf3d2a2ac3e8d0535c097d17052408220ba828a386"
   }
 }
