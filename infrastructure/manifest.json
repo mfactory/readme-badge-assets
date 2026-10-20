@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/infrastructure",
-  "sourceSha": "7e6636bf5e53068b68ee1f734ab6cdd1e525c8d8",
+  "sourceSha": "60b4d27979e0105525729d4c7309ef89a4234b40",
   "badges": [
     {
       "id": "coverage",
@@ -19,7 +19,7 @@
       "id": "mcp-deployment",
       "label": "MCP Deployment",
       "path": "badges/mcp-deployment.svg",
-      "sha256": "sha256:f5010cecf3ab10058bde133c2a82b87c371b17e2d68e0075d99d82a461e13a47"
+      "sha256": "sha256:22966a2f05478cd1888605749040dbeacbd4d9f934153da910bc33f43bc27069"
     },
     {
       "id": "relay-health",
