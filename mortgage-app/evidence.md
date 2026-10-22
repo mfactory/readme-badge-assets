@@ -9,18 +9,22 @@ Satellite Workers requires current-main deployment-health verification of all se
 
 Result: **Pass**.
 
-- [Workflow run 39774184256](https://github.com/mfactory/mortgage-app/actions/runs/39774184256)
+- [Workflow run 39820565257](https://github.com/mfactory/mortgage-app/actions/runs/39820565257)
 - Tested commit: [aed11120c97fb8a9316db4d6bdfcb1ae561fa12d](https://github.com/mfactory/mortgage-app/commit/aed11120c97fb8a9316db4d6bdfcb1ae561fa12d)
-- Run updated at: 2026-10-22T11:56:26.000Z
+- Run updated at: 2026-10-22T17:13:33.000Z
 
 ## Monthly PDF Archive Smoke
 
-Result: **Missing**.
+Result: **Pass**.
 
-No valid run identity is available.
+- [Workflow run 39059900832](https://github.com/mfactory/mortgage-app/actions/runs/39059900832)
+- Tested commit: [34ed39fa8b0e910b916ec548bcacf3133329bdc9](https://github.com/mfactory/mortgage-app/commit/34ed39fa8b0e910b916ec548bcacf3133329bdc9)
+- Run updated at: 2026-10-17T18:57:53.000Z
 
 ## Monthly Production Matrix Smoke
 
-Result: **Missing**.
+Result: **Pass**.
 
-No valid run identity is available.
+- [Workflow run 39060436431](https://github.com/mfactory/mortgage-app/actions/runs/39060436431)
+- Tested commit: [34ed39fa8b0e910b916ec548bcacf3133329bdc9](https://github.com/mfactory/mortgage-app/commit/34ed39fa8b0e910b916ec548bcacf3133329bdc9)
+- Run updated at: 2026-10-17T19:01:37.000Z

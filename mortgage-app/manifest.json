@@ -61,13 +61,13 @@
       "id": "browser-qa",
       "label": "Browser QA",
       "path": "badges/browser-qa.svg",
-      "sha256": "sha256:946449837ba8ff0f223b0a805713b11eb75145cad3ec3156263acb42a391e111"
+      "sha256": "sha256:6cbf2544dcd02e8ffbd0e99140e9a32d58437f60be8b1884f8595194285070e3"
     },
     {
       "id": "cloudflare-posture-evidence",
       "label": "Cloudflare Posture Evidence",
       "path": "badges/cloudflare-posture-evidence.svg",
-      "sha256": "sha256:51759b46f7c80afc196f57260918a022a91bece25e42fc14b6985323c2a77c4f"
+      "sha256": "sha256:43f00b837e47d7ea2c418c5b0a79b46e27d0c0ed73febf556f64cb6b383209a0"
     },
     {
       "id": "code-quality-scan",
@@ -91,7 +91,7 @@
       "id": "dhi-ci-image-verification",
       "label": "DHI CI Image Verification",
       "path": "badges/dhi-ci-image-verification.svg",
-      "sha256": "sha256:8ce314269b0dcac6efa6026a84a439e37b5ef56f7a34c0ecaa73c7687aa5bed8"
+      "sha256": "sha256:185f0a80e5add967d0f92c695283e3edd804e02823188652602a74d96ca9ec96"
     },
     {
       "id": "satellite-workers",
@@ -101,9 +101,9 @@
       "observation": {
         "state": "pass",
         "run": {
-          "id": 39774184256,
+          "id": 39820565257,
           "sha": "aed11120c97fb8a9316db4d6bdfcb1ae561fa12d",
-          "updatedAt": "2026-10-22T11:56:26.000Z"
+          "updatedAt": "2026-10-22T17:13:33.000Z"
         }
       }
     },
@@ -117,20 +117,28 @@
       "id": "pdf-archive-smoke",
       "label": "Monthly PDF Archive Smoke",
       "path": "badges/pdf-archive-smoke.svg",
-      "sha256": "sha256:eb7f7996b96b7a97d273f7de3ef68991d6b5d9e09c044c9d0503b92c4d1d1716",
+      "sha256": "sha256:f4231e8c073c238f7c0cb2530f830fa33406f2ac606016059f2fd6927274bfbd",
       "observation": {
-        "state": "missing",
-        "run": null
+        "state": "pass",
+        "run": {
+          "id": 39059900832,
+          "sha": "34ed39fa8b0e910b916ec548bcacf3133329bdc9",
+          "updatedAt": "2026-10-17T18:57:53.000Z"
+        }
       }
     },
     {
       "id": "production-matrix-smoke",
       "label": "Monthly Production Matrix Smoke",
       "path": "badges/production-matrix-smoke.svg",
-      "sha256": "sha256:dd7e9b9a165a041cc3ff0e690048645dd7d14b84fa4b62d5e049b335d6d5c7b9",
+      "sha256": "sha256:9afa69fdc01545664407a60e920efe8f6065497a84e9a25d1acfd7cdbc55d79b",
       "observation": {
-        "state": "missing",
-        "run": null
+        "state": "pass",
+        "run": {
+          "id": 39060436431,
+          "sha": "34ed39fa8b0e910b916ec548bcacf3133329bdc9",
+          "updatedAt": "2026-10-17T19:01:37.000Z"
+        }
       }
     },
     {
@@ -154,6 +162,6 @@
   ],
   "evidence": {
     "path": "evidence.md",
-    "sha256": "sha256:b2e19fc21dfc52549ed3fbcfe61a5551e0e08270042ead9ab140dcc5100f990e"
+    "sha256": "sha256:57b050e3395814e2da06bfc7df23f87b65993120e1602b5e6932b7a55732f40f"
   }
 }
