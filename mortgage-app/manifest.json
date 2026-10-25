@@ -49,7 +49,7 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:68f841b7d7025e03c0a6c4f77e93c49d7a78ab1be5b95919dc19e59cc07ba586"
+      "sha256": "sha256:3050304a5ebaba038fedcaa12a0fdd9f79b230096caa972b3220b0b03abdc5fc"
     },
     {
       "id": "admin-access-lifecycle",
@@ -101,9 +101,9 @@
       "observation": {
         "state": "pass",
         "run": {
-          "id": 40211372241,
+          "id": 40232791197,
           "sha": "aed11120c97fb8a9316db4d6bdfcb1ae561fa12d",
-          "updatedAt": "2026-10-25T16:23:59.000Z"
+          "updatedAt": "2026-10-25T20:53:47.000Z"
         }
       }
     },
@@ -145,7 +145,7 @@
       "id": "production-submit-contract-smoke",
       "label": "Production Submit Contract Smoke",
       "path": "badges/production-submit-contract-smoke.svg",
-      "sha256": "sha256:800b937cf122347d31df9275f06509139e1eb7906ab80d35fb34e28e2578a47a"
+      "sha256": "sha256:e0cf1c158374947fdce5bc3ed97d3a8904723238ee65837e19a3a87ea2792fec"
     },
     {
       "id": "security-evidence",
@@ -162,6 +162,6 @@
   ],
   "evidence": {
     "path": "evidence.md",
-    "sha256": "sha256:36cdcea15ebae7ab7f6b5a414d59c09a84cd7ce8f3c81dc7ed0a1a31161fbbf7"
+    "sha256": "sha256:974caef56bb8bc04e8334450793bd2aa960b3ad0f1afe1a840e042320346c4c1"
   }
 }
