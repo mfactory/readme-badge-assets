@@ -3,7 +3,7 @@
   "sourceRepository": "mfactory/mfactory-site",
   "sourceSha": "723d46d2716479aa8134a82e169cdd5f5bcbc65f",
   "health": {
-    "generatedAt": "2026-10-25T13:56:52.633Z",
+    "generatedAt": "2026-10-25T17:40:44.772Z",
     "healthy": false,
     "checks": [
       {
