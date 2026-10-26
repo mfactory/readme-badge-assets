@@ -3,12 +3,12 @@
   "sourceRepository": "mfactory/mfactory-site",
   "sourceSha": "723d46d2716479aa8134a82e169cdd5f5bcbc65f",
   "health": {
-    "generatedAt": "2026-10-25T17:40:44.772Z",
+    "generatedAt": "2026-10-26T16:20:13.227Z",
     "healthy": false,
     "checks": [
       {
         "id": "ci",
-        "state": "pass"
+        "state": "stale"
       },
       {
         "id": "dhi-canary",
@@ -16,7 +16,7 @@
       },
       {
         "id": "cloudflare-security-controls",
-        "state": "pass"
+        "state": "stale"
       },
       {
         "id": "production-api-security-attestation",
@@ -65,13 +65,13 @@
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:68f841b7d7025e03c0a6c4f77e93c49d7a78ab1be5b95919dc19e59cc07ba586"
+      "sha256": "sha256:3050304a5ebaba038fedcaa12a0fdd9f79b230096caa972b3220b0b03abdc5fc"
     },
     {
       "id": "cloudflare-security-controls",
       "label": "Cloudflare Security Controls",
       "path": "badges/cloudflare-security-controls.svg",
-      "sha256": "sha256:202ef12582c11cd68e0be17d906339eda3f0de8cc9a18b076bdc496c99629bcd"
+      "sha256": "sha256:6e2b1f2c63a2ee087b7358119a58a12c1396396efaac4df3af8c02bfc4fe18e7"
     },
     {
       "id": "code-quality-scan",
