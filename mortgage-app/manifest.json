@@ -7,7 +7,7 @@
       "id": "coverage",
       "label": "Coverage",
       "path": "badges/coverage.svg",
-      "sha256": "sha256:5cc6440fa877a53c94026ed015b0c3126b15f2d84d0d8c804254b62e0ea4ee26"
+      "sha256": "sha256:a83365b0b4e46111d42ec5b4a2447f255778131d2ed304e66c7b379458ef954c"
     },
     {
       "id": "github-code-quality",
@@ -101,9 +101,9 @@
       "observation": {
         "state": "pass",
         "run": {
-          "id": 41201620151,
+          "id": 41244411678,
           "sha": "aed11120c97fb8a9316db4d6bdfcb1ae561fa12d",
-          "updatedAt": "2026-10-31T12:35:33.000Z"
+          "updatedAt": "2026-10-31T21:39:07.000Z"
         }
       }
     },
@@ -162,6 +162,6 @@
   ],
   "evidence": {
     "path": "evidence.md",
-    "sha256": "sha256:99143901b64056bf9a43b53db58edbc907640e6c65a2fe7aa61657d7be30a8de"
+    "sha256": "sha256:2f5d9ff619edfb65a733b355c91b3243c37a36415f9aa591064bd60c3f58728c"
   }
 }
