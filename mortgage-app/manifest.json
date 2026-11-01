@@ -135,9 +135,9 @@
       "observation": {
         "state": "pass",
         "run": {
-          "id": 39060436431,
-          "sha": "34ed39fa8b0e910b916ec548bcacf3133329bdc9",
-          "updatedAt": "2026-10-17T19:01:37.000Z"
+          "id": 41334683925,
+          "sha": "aed11120c97fb8a9316db4d6bdfcb1ae561fa12d",
+          "updatedAt": "2026-11-01T18:08:00.000Z"
         }
       }
     },
@@ -162,6 +162,6 @@
   ],
   "evidence": {
     "path": "evidence.md",
-    "sha256": "sha256:5a358b8f93bcc9e1509a985a58f936b9e893037e5a85ccfdc58793f638fb3158"
+    "sha256": "sha256:350856aa8ec140abf98adb0b763be6fdeb0fbb7d77af7aa735d0ec273d1dbd95"
   }
 }
