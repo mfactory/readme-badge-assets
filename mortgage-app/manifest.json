@@ -67,7 +67,7 @@
       "id": "cloudflare-posture-evidence",
       "label": "Cloudflare Posture Evidence",
       "path": "badges/cloudflare-posture-evidence.svg",
-      "sha256": "sha256:43f00b837e47d7ea2c418c5b0a79b46e27d0c0ed73febf556f64cb6b383209a0"
+      "sha256": "sha256:5066cb2a712f3417dfd52247da46924821f47003df631b3b06cf045906999e19"
     },
     {
       "id": "code-quality-scan",
@@ -151,7 +151,7 @@
       "id": "security-evidence",
       "label": "Security Evidence",
       "path": "badges/security-evidence.svg",
-      "sha256": "sha256:2108c98d373bd669512a2178ff3efedb0636def23c36daf5be4aa3f543ebe902"
+      "sha256": "sha256:0f41580e37b61a4a89af32697f67772bad748dd97605693f6d801ba7071eff4d"
     },
     {
       "id": "dependabot-updates",
