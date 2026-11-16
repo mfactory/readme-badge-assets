@@ -55,7 +55,7 @@
       "id": "admin-access-lifecycle",
       "label": "Admin Access Lifecycle",
       "path": "badges/admin-access-lifecycle.svg",
-      "sha256": "sha256:4a8034024985bcc7e860bcb111930bd3ae390b484b7e4958f17cb66e3b6a2645"
+      "sha256": "sha256:c733563c84f9d8eae79d724765716de116d9782cc97bf5ea1d04e9e97d2718c2"
     },
     {
       "id": "browser-qa",
