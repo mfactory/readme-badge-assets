@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "mfactory/infrastructure",
-  "sourceSha": "222f3d69a002ee421b498922f6eb07caa00791d3",
+  "sourceSha": "50c4dd9decbfe1119c80394189d5fbd0716f2207",
   "badges": [
     {
       "id": "coverage",
@@ -19,7 +19,7 @@
       "id": "mcp-deployment",
       "label": "MCP Deployment",
       "path": "badges/mcp-deployment.svg",
-      "sha256": "sha256:f5010cecf3ab10058bde133c2a82b87c371b17e2d68e0075d99d82a461e13a47"
+      "sha256": "sha256:22966a2f05478cd1888605749040dbeacbd4d9f934153da910bc33f43bc27069"
     },
     {
       "id": "relay-health",
@@ -43,19 +43,19 @@
       "id": "gitleaks",
       "label": "Gitleaks",
       "path": "badges/gitleaks.svg",
-      "sha256": "sha256:0fb801f71d9b8c0c7fc3eb99bbcfd3a73d189e8b2d589813e57bd2e907c5406c"
+      "sha256": "sha256:ade9784a5b2332ae8dce8424cf6c13c2f48666fe9dfc1261852db4348fa46fcc"
     },
     {
       "id": "ci",
       "label": "CI",
       "path": "badges/ci.svg",
-      "sha256": "sha256:3050304a5ebaba038fedcaa12a0fdd9f79b230096caa972b3220b0b03abdc5fc"
+      "sha256": "sha256:ce32004c0d02dcdf2a22a838f1f8ac6cdcbc6b946a0fb75fbd55c8bfb8e6cab5"
     },
     {
       "id": "dhi-supply-chain",
       "label": "DHI Supply Chain",
       "path": "badges/dhi-supply-chain.svg",
-      "sha256": "sha256:af9691b4956459d708c81c8418933386ba71238672add57d29374410446771b4"
+      "sha256": "sha256:51fd7091d48a7e29469ac5e7bfbda7d1430ff663f0bb2f0018703a3f755df706"
     },
     {
       "id": "code-quality-scan",
