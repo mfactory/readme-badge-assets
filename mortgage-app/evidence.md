@@ -9,9 +9,9 @@ Satellite Workers requires current-main deployment-health verification of all se
 
 Result: **Fail**.
 
-- [Workflow run 44392189406](https://github.com/mfactory/mortgage-app/actions/runs/44392189406)
+- [Workflow run 44479754184](https://github.com/mfactory/mortgage-app/actions/runs/44479754184)
 - Tested commit: [aed11120c97fb8a9316db4d6bdfcb1ae561fa12d](https://github.com/mfactory/mortgage-app/commit/aed11120c97fb8a9316db4d6bdfcb1ae561fa12d)
-- Run updated at: 2026-11-18T20:34:47.000Z
+- Run updated at: 2026-11-19T07:28:43.000Z
 
 ## Monthly PDF Archive Smoke
 
